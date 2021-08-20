@@ -12,5 +12,5 @@ clone this project from:https://github.com/CHRISTINEMUTHEE/Group_five-_project.g
 Python,SQL,Google collaboratory,Pandas and Numpy Libraries,Seaborn,matplotlib.pyplot
 # Support and contact details
 Incase of any comments,concerns and inputs please reach me at:
-xtinemuthee@gmail.com # Week_5-Project
+xtinemuthee@gmail.com 
 
