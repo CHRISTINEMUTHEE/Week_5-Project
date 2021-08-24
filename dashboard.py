@@ -18,6 +18,14 @@ with header:
 
 with datasets:
     st.header('This research involved five datasets namely:')
+    st.sidebar.markdown('Select the datasets accordingly:')
+    Dataset_visual=st.sidebar.checkbox('Here is the list of our dataset')
+    Dataset_list=st.sidebar.selectbox('Select the dataset of your choice:',
+    options=['1.Mortality Rate Dataset',
+    '2.Particulate Matter dataset',
+    '3.The Carbon IV oxide concentration dataset',
+    '4.The Nitrogen Oxide concentration dataset'],index=0)
+
     # Defining a function to read the datasets
     def Data_frames(type,data):
         if type=='csv':
@@ -33,18 +41,20 @@ with datasets:
         result=st.write(df_name.head(5))
         return result
     # Reading the Mortality rate dataset
-    D_datasets('1.Mortality Rate Dataset','M_data','csv','Death due to respiratory conditions (new).csv')
+    if Dataset_list=='1.Mortality Rate Dataset':
+        D_datasets('1.Mortality Rate Dataset','M_data','csv','Death due to respiratory conditions (new).csv')
 
     # The Particulate Matter dataset
-    D_datasets('2.Particulate Matter dataset','PM_data','csv','Particulate Matter Concentration world wide...csv')
+    elif Dataset_list=='2.Particulate Matter dataset':
+        D_datasets('2.Particulate Matter dataset','PM_data','csv','Particulate Matter Concentration world wide...csv')
 
     # Reading the CO2 concentration dataset
-
-    D_datasets('4.The Carbon IV oxide concentration dataset','CO2_data','csv','CO2 Emission in KT. in excel.csv')
+    elif Dataset_list=='3.The Carbon IV oxide concentration dataset':
+        D_datasets('3.The Carbon IV oxide concentration dataset','CO2_data','csv','CO2 Emission in KT. in excel.csv')
 
     # Reading the NO concentration dataset
-
-    D_datasets('5.The Nitrogen Oxide concentration dataset','NO_dataset','xlsx','Nitogen Oxide Emissions edited.xlsx')
+    elif Dataset_list=='4.The Nitrogen Oxide concentration dataset':
+        D_datasets('4.The Nitrogen Oxide concentration dataset','NO_dataset','xlsx','Nitogen Oxide Emissions edited.xlsx')
     
     # Denoting the steps of data cleaning
 
