@@ -22,7 +22,8 @@ with datasets:
     st.sidebar.markdown('Select the datasets accordingly:')
     # Dataset_visual=st.sidebar.checkbox('Display the list of our raw datasets')
     Dataset_list=st.sidebar.selectbox('Select the dataset of your choice:',
-    options=['Mortality Rate Dataset',
+    options=['--',
+    'Mortality Rate Dataset',
     'Particulate Matter dataset',
     'The Carbon IV oxide concentration dataset',
     'The Nitrogen Oxide concentration dataset'],index=0)
@@ -71,7 +72,8 @@ with plots:
     st.header('This were the results of our analysis :')
     # Selecting a drop box to select our research questions.
     research_questions=st.sidebar.selectbox('Select the research question of your choice:',
-    options=['Which country had the highest Particulate Matter concentration?',
+    options=['--',
+    'Which country had the highest Particulate Matter concentration?',
     'Which country had the highest Mortality rates?',
     'Which gender was most affected?',
     'What were the particular causes of death across Africa?'],index=0)
@@ -118,7 +120,9 @@ with plots:
         
     
     elif research_questions=='Which gender was most affected?':
-        fig.add_trace(go.Bar(x=Clean_Mortality_df.Gender,y=Clean_Mortality_df.Average_death_Value,name='Average_death_value'))
+        labels = Clean_Mortality_df['Gender']
+        values = Clean_Mortality_df['Average_death_Value']
+        fig = go.Figure(data=[go.Pie(labels=labels, values=values)])
         st.markdown('3. A graph of mortality rates against the gender')
         st.text('The Male gender was highly affected as compared to the Female gender')
     
@@ -129,6 +133,6 @@ with plots:
         st.text('Causes of deaths ranged from:')
         st.text('Lower respiratory infections,Ischaemic heart disease,Stroke,COPD,Trachea,bronchus and lung cancers')
 
-    st.plotly_chart(fig, use_container_width=True)                        
+    st.plotly_chart(fig, use_container_width=True)                   
         
     
