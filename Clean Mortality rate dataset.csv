@@ -1,0 +1,955 @@
+,Indicator,Continent,Country,Year,Gender,Cause,Average_death_Value
+0,Ambient air pollution attributable death rate (per 100 000 population),Africa,Malawi,2016,Female,"Trachea, bronchus, lung cancers",0.041
+1,Ambient air pollution attributable death rate (per 100 000 population),Africa,Niger,2016,Female,"Trachea, bronchus, lung cancers",0.04700000000000001
+2,Ambient air pollution attributable death rate (per 100 000 population),Africa,United Republic of Tanzania,2016,Female,"Trachea, bronchus, lung cancers",0.052
+3,Ambient air pollution attributable death rate (per 100 000 population),Africa,United Republic of Tanzania,2016,Both sexes,"Trachea, bronchus, lung cancers",0.056333333333333326
+4,Ambient air pollution attributable death rate (per 100 000 population),Africa,Malawi,2016,Both sexes,"Trachea, bronchus, lung cancers",0.057333333333333326
+5,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sierra Leone,2016,Female,"Trachea, bronchus, lung cancers",0.059666666666666666
+6,Ambient air pollution attributable death rate (per 100 000 population),Africa,United Republic of Tanzania,2016,Male,"Trachea, bronchus, lung cancers",0.06133333333333333
+7,Ambient air pollution attributable death rate (per 100 000 population),Africa,Liberia,2016,Female,"Trachea, bronchus, lung cancers",0.06366666666666666
+8,Ambient air pollution attributable death rate (per 100 000 population),Africa,Comoros,2016,Female,"Trachea, bronchus, lung cancers",0.07133333333333335
+9,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea,2016,Female,"Trachea, bronchus, lung cancers",0.07266666666666667
+10,Ambient air pollution attributable death rate (per 100 000 population),Africa,Malawi,2016,Male,"Trachea, bronchus, lung cancers",0.07366666666666666
+11,Ambient air pollution attributable death rate (per 100 000 population),Africa,Togo,2016,Female,"Trachea, bronchus, lung cancers",0.07533333333333332
+12,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sierra Leone,2016,Both sexes,"Trachea, bronchus, lung cancers",0.08
+13,Ambient air pollution attributable death rate (per 100 000 population),Africa,Benin,2016,Female,"Trachea, bronchus, lung cancers",0.07833333333333332
+14,Ambient air pollution attributable death rate (per 100 000 population),Africa,Angola,2016,Female,"Trachea, bronchus, lung cancers",0.08133333333333333
+15,Ambient air pollution attributable death rate (per 100 000 population),Africa,Liberia,2016,Both sexes,"Trachea, bronchus, lung cancers",0.08366666666666667
+16,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gambia,2016,Female,"Trachea, bronchus, lung cancers",0.08233333333333333
+17,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zambia,2016,Female,"Trachea, bronchus, lung cancers",0.08233333333333333
+18,Ambient air pollution attributable death rate (per 100 000 population),Africa,Niger,2016,Both sexes,"Trachea, bronchus, lung cancers",0.083
+19,Ambient air pollution attributable death rate (per 100 000 population),Africa,Benin,2016,Both sexes,"Trachea, bronchus, lung cancers",0.085
+21,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ghana,2016,Female,"Trachea, bronchus, lung cancers",0.08833333333333333
+22,Ambient air pollution attributable death rate (per 100 000 population),Africa,Democratic Republic of the Congo,2016,Female,"Trachea, bronchus, lung cancers",0.08533333333333333
+23,Ambient air pollution attributable death rate (per 100 000 population),Africa,Benin,2016,Male,"Trachea, bronchus, lung cancers",0.09166666666666667
+24,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea,2016,Both sexes,"Trachea, bronchus, lung cancers",0.09400000000000001
+25,Ambient air pollution attributable death rate (per 100 000 population),Africa,Côte d’Ivoire,2016,Female,"Trachea, bronchus, lung cancers",0.09433333333333334
+26,Ambient air pollution attributable death rate (per 100 000 population),Africa,Liberia,2016,Male,"Trachea, bronchus, lung cancers",0.10266666666666667
+27,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zambia,2016,Both sexes,"Trachea, bronchus, lung cancers",0.10099999999999999
+28,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sierra Leone,2016,Male,"Trachea, bronchus, lung cancers",0.10066666666666667
+29,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zimbabwe,2016,Female,"Trachea, bronchus, lung cancers",0.10066666666666667
+30,Ambient air pollution attributable death rate (per 100 000 population),Africa,Chad,2016,Female,"Trachea, bronchus, lung cancers",0.10100000000000002
+31,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eswatini,2016,Female,"Trachea, bronchus, lung cancers",0.10833333333333334
+32,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mozambique,2016,Female,"Trachea, bronchus, lung cancers",0.10533333333333333
+33,Ambient air pollution attributable death rate (per 100 000 population),Africa,Angola,2016,Both sexes,"Trachea, bronchus, lung cancers",0.10333333333333333
+34,Ambient air pollution attributable death rate (per 100 000 population),Africa,Democratic Republic of the Congo,2016,Both sexes,"Trachea, bronchus, lung cancers",0.10033333333333334
+35,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritania,2016,Female,"Trachea, bronchus, lung cancers",0.10466666666666667
+36,Ambient air pollution attributable death rate (per 100 000 population),Africa,Botswana,2016,Female,"Trachea, bronchus, lung cancers",0.11399999999999999
+37,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea,2016,Male,"Trachea, bronchus, lung cancers",0.11399999999999999
+38,Ambient air pollution attributable death rate (per 100 000 population),Africa,Congo,2016,Female,"Trachea, bronchus, lung cancers",0.11266666666666665
+39,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zambia,2016,Male,"Trachea, bronchus, lung cancers",0.118
+40,Ambient air pollution attributable death rate (per 100 000 population),Africa,Comoros,2016,Both sexes,"Trachea, bronchus, lung cancers",0.125
+41,Ambient air pollution attributable death rate (per 100 000 population),Africa,Côte d’Ivoire,2016,Both sexes,"Trachea, bronchus, lung cancers",0.12233333333333334
+42,Ambient air pollution attributable death rate (per 100 000 population),Africa,Kenya,2016,Female,"Trachea, bronchus, lung cancers",0.12266666666666666
+43,Ambient air pollution attributable death rate (per 100 000 population),Africa,Togo,2016,Both sexes,"Trachea, bronchus, lung cancers",0.11966666666666666
+44,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea-Bissau,2016,Female,"Trachea, bronchus, lung cancers",0.123
+45,Ambient air pollution attributable death rate (per 100 000 population),Africa,Democratic Republic of the Congo,2016,Male,"Trachea, bronchus, lung cancers",0.12
+46,Ambient air pollution attributable death rate (per 100 000 population),Africa,Lesotho,2016,Female,"Trachea, bronchus, lung cancers",0.12366666666666666
+47,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burundi,2016,Male,"Trachea, bronchus, lung cancers",0.12433333333333334
+48,Ambient air pollution attributable death rate (per 100 000 population),Africa,Chad,2016,Both sexes,"Trachea, bronchus, lung cancers",0.11833333333333333
+49,Ambient air pollution attributable death rate (per 100 000 population),Africa,Senegal,2016,Female,"Trachea, bronchus, lung cancers",0.125
+50,Ambient air pollution attributable death rate (per 100 000 population),Africa,Niger,2016,Male,"Trachea, bronchus, lung cancers",0.12
+51,Ambient air pollution attributable death rate (per 100 000 population),Africa,Nigeria,2016,Male,"Trachea, bronchus, lung cancers",0.12066666666666666
+52,Ambient air pollution attributable death rate (per 100 000 population),Africa,Nigeria,2016,Both sexes,"Trachea, bronchus, lung cancers",0.124
+54,Ambient air pollution attributable death rate (per 100 000 population),Africa,Angola,2016,Male,"Trachea, bronchus, lung cancers",0.13166666666666668
+55,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burundi,2016,Both sexes,"Trachea, bronchus, lung cancers",0.13166666666666668
+56,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burundi,2016,Female,"Trachea, bronchus, lung cancers",0.13233333333333333
+57,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mali,2016,Female,"Trachea, bronchus, lung cancers",0.1366666666666667
+58,Ambient air pollution attributable death rate (per 100 000 population),Africa,Nigeria,2016,Female,"Trachea, bronchus, lung cancers",0.12766666666666668
+59,Ambient air pollution attributable death rate (per 100 000 population),Africa,Central African Republic,2016,Female,"Trachea, bronchus, lung cancers",0.131
+60,Ambient air pollution attributable death rate (per 100 000 population),Africa,Chad,2016,Male,"Trachea, bronchus, lung cancers",0.13166666666666668
+61,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mozambique,2016,Both sexes,"Trachea, bronchus, lung cancers",0.14500000000000002
+62,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea-Bissau,2016,Both sexes,"Trachea, bronchus, lung cancers",0.1426666666666667
+63,Ambient air pollution attributable death rate (per 100 000 population),Africa,Congo,2016,Both sexes,"Trachea, bronchus, lung cancers",0.1426666666666667
+64,Ambient air pollution attributable death rate (per 100 000 population),Africa,Côte d’Ivoire,2016,Male,"Trachea, bronchus, lung cancers",0.15033333333333332
+65,Ambient air pollution attributable death rate (per 100 000 population),Africa,Madagascar,2016,Female,"Trachea, bronchus, lung cancers",0.15366666666666665
+66,Ambient air pollution attributable death rate (per 100 000 population),Africa,Kenya,2016,Both sexes,"Trachea, bronchus, lung cancers",0.152
+67,Ambient air pollution attributable death rate (per 100 000 population),Africa,Somalia,2016,Female,"Trachea, bronchus, lung cancers",0.152
+68,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea-Bissau,2016,Male,"Trachea, bronchus, lung cancers",0.15566666666666665
+69,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gambia,2016,Both sexes,"Trachea, bronchus, lung cancers",0.15266666666666664
+70,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritania,2016,Both sexes,"Trachea, bronchus, lung cancers",0.15
+71,Ambient air pollution attributable death rate (per 100 000 population),Africa,Rwanda,2016,Female,"Trachea, bronchus, lung cancers",0.15
+72,Ambient air pollution attributable death rate (per 100 000 population),Africa,Rwanda,2016,Both sexes,"Trachea, bronchus, lung cancers",0.15033333333333332
+73,Ambient air pollution attributable death rate (per 100 000 population),Africa,Rwanda,2016,Male,"Trachea, bronchus, lung cancers",0.154
+74,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sudan,2016,Female,"Trachea, bronchus, lung cancers",0.15166666666666664
+76,Ambient air pollution attributable death rate (per 100 000 population),Africa,Somalia,2016,Both sexes,"Trachea, bronchus, lung cancers",0.16033333333333333
+77,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mali,2016,Both sexes,"Trachea, bronchus, lung cancers",0.16166666666666665
+78,Ambient air pollution attributable death rate (per 100 000 population),Africa,Togo,2016,Male,"Trachea, bronchus, lung cancers",0.16166666666666665
+79,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burkina Faso,2016,Female,"Trachea, bronchus, lung cancers",0.162
+80,Ambient air pollution attributable death rate (per 100 000 population),Africa,Senegal,2016,Both sexes,"Trachea, bronchus, lung cancers",0.163
+83,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eswatini,2016,Both sexes,"Trachea, bronchus, lung cancers",0.17566666666666667
+84,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zimbabwe,2016,Both sexes,"Trachea, bronchus, lung cancers",0.17733333333333334
+85,Ambient air pollution attributable death rate (per 100 000 population),Africa,Comoros,2016,Male,"Trachea, bronchus, lung cancers",0.17766666666666667
+86,Ambient air pollution attributable death rate (per 100 000 population),Africa,Somalia,2016,Male,"Trachea, bronchus, lung cancers",0.169
+87,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burkina Faso,2016,Both sexes,"Trachea, bronchus, lung cancers",0.17
+89,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mozambique,2016,Male,"Trachea, bronchus, lung cancers",0.18533333333333335
+90,Ambient air pollution attributable death rate (per 100 000 population),Africa,Kenya,2016,Male,"Trachea, bronchus, lung cancers",0.18333333333333335
+91,Ambient air pollution attributable death rate (per 100 000 population),Africa,Namibia,2016,Female,"Trachea, bronchus, lung cancers",0.18666666666666668
+92,Ambient air pollution attributable death rate (per 100 000 population),Africa,Congo,2016,Male,"Trachea, bronchus, lung cancers",0.18000000000000002
+93,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burkina Faso,2016,Male,"Trachea, bronchus, lung cancers",0.18333333333333335
+94,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mali,2016,Male,"Trachea, bronchus, lung cancers",0.18666666666666668
+95,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cameroon,2016,Female,"Trachea, bronchus, lung cancers",0.17666666666666667
+96,Ambient air pollution attributable death rate (per 100 000 population),Africa,Central African Republic,2016,Both sexes,"Trachea, bronchus, lung cancers",0.19333333333333336
+97,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritania,2016,Male,"Trachea, bronchus, lung cancers",0.19333333333333336
+99,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cabo Verde,2016,Female,"Trachea, bronchus, lung cancers",0.20333333333333334
+100,Ambient air pollution attributable death rate (per 100 000 population),Africa,Senegal,2016,Male,"Trachea, bronchus, lung cancers",0.20333333333333334
+101,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ghana,2016,Both sexes,"Trachea, bronchus, lung cancers",0.20666666666666667
+103,Ambient air pollution attributable death rate (per 100 000 population),Africa,Uganda,2016,Male,"Trachea, bronchus, lung cancers",0.20999999999999996
+104,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Sudan,2016,Female,"Trachea, bronchus, lung cancers",0.2133333333333333
+108,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gambia,2016,Male,"Trachea, bronchus, lung cancers",0.2233333333333333
+109,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sudan,2016,Both sexes,"Trachea, bronchus, lung cancers",0.21999999999999997
+110,Ambient air pollution attributable death rate (per 100 000 population),Africa,Uganda,2016,Both sexes,"Trachea, bronchus, lung cancers",0.21999999999999997
+111,Ambient air pollution attributable death rate (per 100 000 population),Africa,Uganda,2016,Female,"Trachea, bronchus, lung cancers",0.2233333333333333
+112,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cameroon,2016,Both sexes,"Trachea, bronchus, lung cancers",0.2233333333333333
+113,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eswatini,2016,Male,"Trachea, bronchus, lung cancers",0.24333333333333332
+115,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Sudan,2016,Both sexes,"Trachea, bronchus, lung cancers",0.24
+116,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zimbabwe,2016,Male,"Trachea, bronchus, lung cancers",0.25666666666666665
+117,Ambient air pollution attributable death rate (per 100 000 population),Africa,Lesotho,2016,Both sexes,"Trachea, bronchus, lung cancers",0.25333333333333335
+119,Ambient air pollution attributable death rate (per 100 000 population),Africa,Namibia,2016,Both sexes,"Trachea, bronchus, lung cancers",0.26
+121,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cabo Verde,2016,Both sexes,"Trachea, bronchus, lung cancers",0.26333333333333336
+122,Ambient air pollution attributable death rate (per 100 000 population),Africa,Central African Republic,2016,Male,"Trachea, bronchus, lung cancers",0.26
+123,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Sudan,2016,Male,"Trachea, bronchus, lung cancers",0.26
+124,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eritrea,2016,Male,"Trachea, bronchus, lung cancers",0.26666666666666666
+127,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ethiopia,2016,Male,"Trachea, bronchus, lung cancers",0.2733333333333334
+128,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eritrea,2016,Both sexes,"Trachea, bronchus, lung cancers",0.2733333333333334
+129,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eritrea,2016,Female,"Trachea, bronchus, lung cancers",0.27666666666666667
+130,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cameroon,2016,Male,"Trachea, bronchus, lung cancers",0.27
+131,Ambient air pollution attributable death rate (per 100 000 population),Africa,Botswana,2016,Both sexes,"Trachea, bronchus, lung cancers",0.29000000000000004
+132,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ethiopia,2016,Both sexes,"Trachea, bronchus, lung cancers",0.2866666666666667
+137,Ambient air pollution attributable death rate (per 100 000 population),Africa,Equatorial Guinea,2016,Female,"Trachea, bronchus, lung cancers",0.29
+138,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sudan,2016,Male,"Trachea, bronchus, lung cancers",0.29333333333333333
+141,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ethiopia,2016,Female,"Trachea, bronchus, lung cancers",0.3033333333333333
+145,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cabo Verde,2016,Male,"Trachea, bronchus, lung cancers",0.3233333333333333
+146,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ghana,2016,Male,"Trachea, bronchus, lung cancers",0.33
+147,Ambient air pollution attributable death rate (per 100 000 population),Africa,Namibia,2016,Male,"Trachea, bronchus, lung cancers",0.33666666666666667
+150,Ambient air pollution attributable death rate (per 100 000 population),Africa,Tunisia,2016,Female,"Trachea, bronchus, lung cancers",0.3466666666666667
+158,Ambient air pollution attributable death rate (per 100 000 population),Africa,Djibouti,2016,Male,"Trachea, bronchus, lung cancers",0.37666666666666665
+163,Ambient air pollution attributable death rate (per 100 000 population),Africa,Lesotho,2016,Male,"Trachea, bronchus, lung cancers",0.38999999999999996
+164,Ambient air pollution attributable death rate (per 100 000 population),Africa,Djibouti,2016,Both sexes,"Trachea, bronchus, lung cancers",0.38000000000000006
+165,Ambient air pollution attributable death rate (per 100 000 population),Africa,Djibouti,2016,Female,"Trachea, bronchus, lung cancers",0.3866666666666667
+172,Ambient air pollution attributable death rate (per 100 000 population),Africa,Madagascar,2016,Both sexes,"Trachea, bronchus, lung cancers",0.42333333333333334
+176,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gabon,2016,Female,"Trachea, bronchus, lung cancers",0.4266666666666666
+178,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritius,2016,Female,"Trachea, bronchus, lung cancers",0.4466666666666666
+182,Ambient air pollution attributable death rate (per 100 000 population),Africa,Morocco,2016,Female,"Trachea, bronchus, lung cancers",0.4466666666666666
+185,Ambient air pollution attributable death rate (per 100 000 population),Africa,Equatorial Guinea,2016,Both sexes,"Trachea, bronchus, lung cancers",0.45
+188,Ambient air pollution attributable death rate (per 100 000 population),Africa,Botswana,2016,Male,"Trachea, bronchus, lung cancers",0.47
+205,Ambient air pollution attributable death rate (per 100 000 population),Africa,Algeria,2016,Female,"Trachea, bronchus, lung cancers",0.5266666666666667
+212,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sao Tome and Principe,2016,Female,"Trachea, bronchus, lung cancers",0.5533333333333333
+216,Ambient air pollution attributable death rate (per 100 000 population),Africa,Equatorial Guinea,2016,Male,"Trachea, bronchus, lung cancers",0.5766666666666667
+226,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gabon,2016,Both sexes,"Trachea, bronchus, lung cancers",0.6466666666666666
+240,Ambient air pollution attributable death rate (per 100 000 population),Africa,Madagascar,2016,Male,"Trachea, bronchus, lung cancers",0.7000000000000001
+272,Ambient air pollution attributable death rate (per 100 000 population),Africa,Seychelles,2016,Female,"Trachea, bronchus, lung cancers",0.8666666666666667
+274,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gabon,2016,Male,"Trachea, bronchus, lung cancers",0.8633333333333333
+283,Ambient air pollution attributable death rate (per 100 000 population),Africa,Egypt,2016,Female,"Trachea, bronchus, lung cancers",0.8799999999999999
+306,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mozambique,2016,Female,Chronic obstructive pulmonary disease,1.0233333333333334
+308,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sao Tome and Principe,2016,Both sexes,"Trachea, bronchus, lung cancers",1.0
+312,Ambient air pollution attributable death rate (per 100 000 population),Africa,Kenya,2016,Female,Chronic obstructive pulmonary disease,1.0233333333333334
+322,Ambient air pollution attributable death rate (per 100 000 population),Africa,Kenya,2016,Both sexes,Chronic obstructive pulmonary disease,1.0533333333333335
+329,Ambient air pollution attributable death rate (per 100 000 population),Africa,Liberia,2016,Male,Chronic obstructive pulmonary disease,1.0933333333333335
+331,Ambient air pollution attributable death rate (per 100 000 population),Africa,Kenya,2016,Male,Chronic obstructive pulmonary disease,1.08
+332,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritius,2016,Both sexes,"Trachea, bronchus, lung cancers",1.1066666666666667
+342,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mozambique,2016,Both sexes,Chronic obstructive pulmonary disease,1.1333333333333335
+352,Ambient air pollution attributable death rate (per 100 000 population),Africa,Malawi,2016,Female,Chronic obstructive pulmonary disease,1.1833333333333333
+356,Ambient air pollution attributable death rate (per 100 000 population),Africa,Liberia,2016,Both sexes,Chronic obstructive pulmonary disease,1.1966666666666665
+373,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mozambique,2016,Male,Chronic obstructive pulmonary disease,1.2533333333333332
+389,Ambient air pollution attributable death rate (per 100 000 population),Africa,Liberia,2016,Female,Chronic obstructive pulmonary disease,1.3
+396,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Africa,2016,Female,"Trachea, bronchus, lung cancers",1.2966666666666666
+401,Ambient air pollution attributable death rate (per 100 000 population),Africa,Malawi,2016,Both sexes,Chronic obstructive pulmonary disease,1.3500000000000003
+405,Ambient air pollution attributable death rate (per 100 000 population),Africa,Algeria,2016,Both sexes,"Trachea, bronchus, lung cancers",1.3399999999999999
+410,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zambia,2016,Female,Chronic obstructive pulmonary disease,1.3966666666666667
+429,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zambia,2016,Both sexes,Chronic obstructive pulmonary disease,1.4733333333333334
+430,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sao Tome and Principe,2016,Male,"Trachea, bronchus, lung cancers",1.4566666666666668
+436,Ambient air pollution attributable death rate (per 100 000 population),Africa,Somalia,2016,Female,Chronic obstructive pulmonary disease,1.4800000000000002
+439,Ambient air pollution attributable death rate (per 100 000 population),Africa,Comoros,2016,Female,Chronic obstructive pulmonary disease,1.5233333333333334
+441,Ambient air pollution attributable death rate (per 100 000 population),Africa,Malawi,2016,Male,Chronic obstructive pulmonary disease,1.5266666666666666
+449,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zambia,2016,Male,Chronic obstructive pulmonary disease,1.5533333333333335
+465,Ambient air pollution attributable death rate (per 100 000 population),Africa,United Republic of Tanzania,2016,Female,Chronic obstructive pulmonary disease,1.6166666666666665
+467,Ambient air pollution attributable death rate (per 100 000 population),Africa,Angola,2016,Male,Chronic obstructive pulmonary disease,1.6166666666666665
+468,Ambient air pollution attributable death rate (per 100 000 population),Africa,Egypt,2016,Both sexes,"Trachea, bronchus, lung cancers",1.5666666666666667
+494,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burkina Faso,2016,Male,Chronic obstructive pulmonary disease,1.6766666666666667
+504,Ambient air pollution attributable death rate (per 100 000 population),Africa,United Republic of Tanzania,2016,Both sexes,Chronic obstructive pulmonary disease,1.7333333333333332
+507,Ambient air pollution attributable death rate (per 100 000 population),Africa,Seychelles,2016,Both sexes,"Trachea, bronchus, lung cancers",1.7466666666666668
+510,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritius,2016,Male,"Trachea, bronchus, lung cancers",1.7733333333333334
+511,Ambient air pollution attributable death rate (per 100 000 population),Africa,Angola,2016,Both sexes,Chronic obstructive pulmonary disease,1.75
+526,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Africa,2016,Both sexes,"Trachea, bronchus, lung cancers",1.8133333333333332
+527,Ambient air pollution attributable death rate (per 100 000 population),Africa,Comoros,2016,Both sexes,Chronic obstructive pulmonary disease,1.8533333333333335
+530,Ambient air pollution attributable death rate (per 100 000 population),Africa,United Republic of Tanzania,2016,Male,Chronic obstructive pulmonary disease,1.8499999999999999
+534,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burkina Faso,2016,Both sexes,Chronic obstructive pulmonary disease,1.843333333333333
+535,Ambient air pollution attributable death rate (per 100 000 population),Africa,Angola,2016,Female,Chronic obstructive pulmonary disease,1.876666666666667
+555,Ambient air pollution attributable death rate (per 100 000 population),Africa,Kenya,2016,Male,Stroke,1.92
+564,Ambient air pollution attributable death rate (per 100 000 population),Africa,Somalia,2016,Both sexes,Chronic obstructive pulmonary disease,1.9833333333333334
+565,Ambient air pollution attributable death rate (per 100 000 population),Africa,Morocco,2016,Both sexes,"Trachea, bronchus, lung cancers",1.9633333333333332
+575,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zimbabwe,2016,Female,Chronic obstructive pulmonary disease,2.0366666666666666
+579,Ambient air pollution attributable death rate (per 100 000 population),Africa,Algeria,2016,Female,Chronic obstructive pulmonary disease,2.0
+582,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burkina Faso,2016,Female,Chronic obstructive pulmonary disease,2.013333333333333
+587,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gabon,2016,Female,Ischaemic heart disease,10.03
+588,Ambient air pollution attributable death rate (per 100 000 population),Africa,Comoros,2016,Male,Ischaemic heart disease,9.976666666666667
+598,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mali,2016,Both sexes,Ischaemic heart disease,10.086666666666666
+599,Ambient air pollution attributable death rate (per 100 000 population),Africa,Malawi,2016,Male,Lower respiratory infections,10.326666666666668
+602,Ambient air pollution attributable death rate (per 100 000 population),Africa,Chad,2016,Female,Ischaemic heart disease,10.173333333333332
+614,Ambient air pollution attributable death rate (per 100 000 population),Africa,Botswana,2016,Female,Ischaemic heart disease,10.256666666666666
+616,Ambient air pollution attributable death rate (per 100 000 population),Africa,Madagascar,2016,Both sexes,Lower respiratory infections,10.51
+617,Ambient air pollution attributable death rate (per 100 000 population),Africa,Senegal,2016,Female,Ischaemic heart disease,10.24
+618,Ambient air pollution attributable death rate (per 100 000 population),Africa,Equatorial Guinea,2016,Female,Ischaemic heart disease,10.306666666666667
+621,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mozambique,2016,Female,Lower respiratory infections,10.633333333333333
+622,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea,2016,Female,Ischaemic heart disease,10.38
+624,Ambient air pollution attributable death rate (per 100 000 population),Africa,Senegal,2016,Both sexes,Ischaemic heart disease,10.38
+626,Ambient air pollution attributable death rate (per 100 000 population),Africa,Tunisia,2016,Male,Stroke,10.726666666666667
+629,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea,2016,Both sexes,Ischaemic heart disease,10.42
+635,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea,2016,Male,Ischaemic heart disease,10.5
+636,Ambient air pollution attributable death rate (per 100 000 population),Africa,Senegal,2016,Male,Ischaemic heart disease,10.51
+641,Ambient air pollution attributable death rate (per 100 000 population),Africa,Niger,2016,Female,Ischaemic heart disease,10.606666666666667
+644,Ambient air pollution attributable death rate (per 100 000 population),Africa,Madagascar,2016,Male,Lower respiratory infections,10.906666666666666
+646,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gambia,2016,Both sexes,Ischaemic heart disease,10.69
+651,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eswatini,2016,Both sexes,Lower respiratory infections,11.086666666666668
+654,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mozambique,2016,Both sexes,Lower respiratory infections,10.996666666666664
+666,Ambient air pollution attributable death rate (per 100 000 population),Africa,Central African Republic,2016,Female,Stroke,10.973333333333334
+671,Ambient air pollution attributable death rate (per 100 000 population),Africa,Djibouti,2016,Female,Ischaemic heart disease,10.866666666666667
+673,Ambient air pollution attributable death rate (per 100 000 population),Africa,Equatorial Guinea,2016,Both sexes,Ischaemic heart disease,10.9
+676,Ambient air pollution attributable death rate (per 100 000 population),Africa,Lesotho,2016,Both sexes,Ischaemic heart disease,10.936666666666667
+681,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cameroon,2016,Both sexes,Ischaemic heart disease,11.023333333333333
+682,Ambient air pollution attributable death rate (per 100 000 population),Africa,Liberia,2016,Male,Lower respiratory infections,11.416666666666666
+684,Ambient air pollution attributable death rate (per 100 000 population),Africa,Egypt,2016,Male,Lower respiratory infections,11.036666666666667
+685,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Africa,2016,Female,Ischaemic heart disease,11.049999999999999
+689,Ambient air pollution attributable death rate (per 100 000 population),Africa,Liberia,2016,Both sexes,Lower respiratory infections,11.5
+690,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mozambique,2016,Male,Lower respiratory infections,11.376666666666665
+695,Ambient air pollution attributable death rate (per 100 000 population),Africa,Liberia,2016,Female,Lower respiratory infections,11.579999999999998
+699,Ambient air pollution attributable death rate (per 100 000 population),Africa,Central African Republic,2016,Female,Ischaemic heart disease,11.25
+703,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eritrea,2016,Male,Ischaemic heart disease,11.283333333333333
+708,Ambient air pollution attributable death rate (per 100 000 population),Africa,Niger,2016,Both sexes,Ischaemic heart disease,11.33
+710,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ghana,2016,Both sexes,Ischaemic heart disease,11.306666666666667
+714,Ambient air pollution attributable death rate (per 100 000 population),Africa,Namibia,2016,Female,Lower respiratory infections,11.533333333333333
+716,Ambient air pollution attributable death rate (per 100 000 population),Africa,Equatorial Guinea,2016,Male,Ischaemic heart disease,11.4
+719,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sao Tome and Principe,2016,Female,Lower respiratory infections,11.593333333333334
+720,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mali,2016,Female,Ischaemic heart disease,11.463333333333333
+721,Ambient air pollution attributable death rate (per 100 000 population),Africa,Chad,2016,Both sexes,Ischaemic heart disease,11.479999999999999
+725,Ambient air pollution attributable death rate (per 100 000 population),Africa,Seychelles,2016,Both sexes,Lower respiratory infections,11.813333333333333
+730,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Africa,2016,Female,Lower respiratory infections,11.726666666666667
+734,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eswatini,2016,Male,Lower respiratory infections,12.030000000000001
+738,Ambient air pollution attributable death rate (per 100 000 population),Africa,Togo,2016,Female,Ischaemic heart disease,11.71
+739,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zimbabwe,2016,Female,Lower respiratory infections,12.013333333333334
+742,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cabo Verde,2016,Female,Lower respiratory infections,11.866666666666665
+744,Ambient air pollution attributable death rate (per 100 000 population),Africa,Central African Republic,2016,Both sexes,Ischaemic heart disease,11.773333333333333
+748,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sao Tome and Principe,2016,Both sexes,Lower respiratory infections,11.983333333333334
+751,Ambient air pollution attributable death rate (per 100 000 population),Africa,Lesotho,2016,Female,Stroke,12.200000000000001
+752,Ambient air pollution attributable death rate (per 100 000 population),Africa,Rwanda,2016,Female,Lower respiratory infections,11.956666666666665
+753,Ambient air pollution attributable death rate (per 100 000 population),Africa,Egypt,2016,Male,Stroke,11.996666666666664
+764,Ambient air pollution attributable death rate (per 100 000 population),Africa,Niger,2016,Male,Ischaemic heart disease,12.033333333333333
+767,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritania,2016,Male,Ischaemic heart disease,12.089999999999998
+768,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zimbabwe,2016,Both sexes,Lower respiratory infections,12.423333333333332
+771,Ambient air pollution attributable death rate (per 100 000 population),Africa,Namibia,2016,Both sexes,Lower respiratory infections,12.339999999999998
+772,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gambia,2016,Male,Ischaemic heart disease,12.219999999999999
+774,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sao Tome and Principe,2016,Male,Lower respiratory infections,12.37
+778,Ambient air pollution attributable death rate (per 100 000 population),Africa,Central African Republic,2016,Male,Ischaemic heart disease,12.329999999999998
+783,Ambient air pollution attributable death rate (per 100 000 population),Africa,Nigeria,2016,Male,Ischaemic heart disease,12.49
+785,Ambient air pollution attributable death rate (per 100 000 population),Africa,Egypt,2016,Both sexes,Stroke,12.536666666666667
+786,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zambia,2016,Female,Lower respiratory infections,12.593333333333334
+789,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritania,2016,Both sexes,Ischaemic heart disease,12.456666666666669
+790,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Africa,2016,Both sexes,Ischaemic heart disease,12.430000000000001
+791,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cameroon,2016,Male,Ischaemic heart disease,12.486666666666666
+792,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ghana,2016,Female,Stroke,12.673333333333334
+795,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zimbabwe,2016,Male,Lower respiratory infections,12.856666666666664
+798,Ambient air pollution attributable death rate (per 100 000 population),Africa,Rwanda,2016,Both sexes,Lower respiratory infections,12.65
+800,Ambient air pollution attributable death rate (per 100 000 population),Africa,Nigeria,2016,Both sexes,Ischaemic heart disease,12.636666666666665
+802,Ambient air pollution attributable death rate (per 100 000 population),Africa,Côte d’Ivoire,2016,Female,Ischaemic heart disease,12.583333333333334
+805,Ambient air pollution attributable death rate (per 100 000 population),Africa,Togo,2016,Both sexes,Ischaemic heart disease,12.746666666666668
+806,Ambient air pollution attributable death rate (per 100 000 population),Africa,Chad,2016,Male,Ischaemic heart disease,12.806666666666665
+807,Ambient air pollution attributable death rate (per 100 000 population),Africa,Nigeria,2016,Female,Ischaemic heart disease,12.793333333333331
+812,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritania,2016,Female,Ischaemic heart disease,12.796666666666667
+818,Ambient air pollution attributable death rate (per 100 000 population),Africa,Lesotho,2016,Female,Ischaemic heart disease,12.946666666666667
+819,Ambient air pollution attributable death rate (per 100 000 population),Africa,Egypt,2016,Female,Stroke,13.089999999999998
+824,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cabo Verde,2016,Both sexes,Lower respiratory infections,13.106666666666667
+825,Ambient air pollution attributable death rate (per 100 000 population),Africa,Namibia,2016,Male,Lower respiratory infections,13.193333333333333
+826,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zambia,2016,Both sexes,Lower respiratory infections,13.226666666666667
+830,Ambient air pollution attributable death rate (per 100 000 population),Africa,Djibouti,2016,Both sexes,Ischaemic heart disease,13.133333333333333
+838,Ambient air pollution attributable death rate (per 100 000 population),Africa,Rwanda,2016,Male,Lower respiratory infections,13.373333333333335
+851,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sierra Leone,2016,Female,Ischaemic heart disease,13.516666666666666
+855,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Africa,2016,Both sexes,Lower respiratory infections,13.766666666666666
+859,Ambient air pollution attributable death rate (per 100 000 population),Africa,Comoros,2016,Female,Lower respiratory infections,13.959999999999999
+863,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sudan,2016,Male,Lower respiratory infections,13.786666666666667
+864,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zambia,2016,Male,Lower respiratory infections,13.873333333333335
+866,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sierra Leone,2016,Both sexes,Ischaemic heart disease,13.75
+868,Ambient air pollution attributable death rate (per 100 000 population),Africa,Togo,2016,Male,Ischaemic heart disease,13.836666666666666
+871,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ghana,2016,Female,Ischaemic heart disease,13.86
+873,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Africa,2016,Male,Ischaemic heart disease,13.913333333333332
+878,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sierra Leone,2016,Male,Ischaemic heart disease,14.0
+879,Ambient air pollution attributable death rate (per 100 000 population),Africa,Seychelles,2016,Female,Ischaemic heart disease,14.026666666666666
+883,Ambient air pollution attributable death rate (per 100 000 population),Africa,United Republic of Tanzania,2016,Female,Lower respiratory infections,14.303333333333333
+886,Ambient air pollution attributable death rate (per 100 000 population),Africa,Kenya,2016,Female,Total,14.246666666666664
+887,Ambient air pollution attributable death rate (per 100 000 population),Africa,Seychelles,2016,Male,Lower respiratory infections,14.603333333333333
+888,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cabo Verde,2016,Male,Lower respiratory infections,14.356666666666667
+898,Ambient air pollution attributable death rate (per 100 000 population),Africa,Comoros,2016,Both sexes,Lower respiratory infections,14.89
+899,Ambient air pollution attributable death rate (per 100 000 population),Africa,Senegal,2016,Female,Lower respiratory infections,14.593333333333334
+900,Ambient air pollution attributable death rate (per 100 000 population),Africa,United Republic of Tanzania,2016,Both sexes,Lower respiratory infections,14.726666666666667
+902,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ethiopia,2016,Female,Lower respiratory infections,14.686666666666667
+909,Ambient air pollution attributable death rate (per 100 000 population),Africa,Kenya,2016,Both sexes,Total,14.756666666666666
+919,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sudan,2016,Both sexes,Lower respiratory infections,15.020000000000001
+921,Ambient air pollution attributable death rate (per 100 000 population),Africa,United Republic of Tanzania,2016,Male,Lower respiratory infections,15.163333333333334
+924,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ghana,2016,Female,Lower respiratory infections,15.189999999999998
+925,Ambient air pollution attributable death rate (per 100 000 population),Africa,Côte d’Ivoire,2016,Both sexes,Ischaemic heart disease,15.006666666666666
+926,Ambient air pollution attributable death rate (per 100 000 population),Africa,Congo,2016,Female,Lower respiratory infections,15.146666666666667
+928,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gabon,2016,Female,Lower respiratory infections,15.196666666666667
+929,Ambient air pollution attributable death rate (per 100 000 population),Africa,Congo,2016,Both sexes,Lower respiratory infections,15.316666666666668
+930,Ambient air pollution attributable death rate (per 100 000 population),Africa,Kenya,2016,Male,Total,15.299999999999999
+934,Ambient air pollution attributable death rate (per 100 000 population),Africa,Djibouti,2016,Male,Ischaemic heart disease,15.376666666666665
+935,Ambient air pollution attributable death rate (per 100 000 population),Africa,Congo,2016,Male,Lower respiratory infections,15.483333333333334
+940,Ambient air pollution attributable death rate (per 100 000 population),Africa,Comoros,2016,Male,Lower respiratory infections,15.81
+946,Ambient air pollution attributable death rate (per 100 000 population),Africa,Senegal,2016,Both sexes,Lower respiratory infections,15.64
+947,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gabon,2016,Both sexes,Lower respiratory infections,15.706666666666669
+949,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Africa,2016,Male,Lower respiratory infections,15.876666666666665
+960,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gabon,2016,Male,Lower respiratory infections,16.19
+962,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sudan,2016,Female,Lower respiratory infections,16.253333333333334
+963,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritius,2016,Female,Ischaemic heart disease,16.203333333333333
+967,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ethiopia,2016,Both sexes,Lower respiratory infections,16.5
+968,Ambient air pollution attributable death rate (per 100 000 population),Africa,Malawi,2016,Female,Total,16.503333333333334
+974,Ambient air pollution attributable death rate (per 100 000 population),Africa,Senegal,2016,Male,Lower respiratory infections,16.72
+976,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cabo Verde,2016,Male,Ischaemic heart disease,16.7
+979,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gambia,2016,Female,Lower respiratory infections,16.936666666666667
+994,Ambient air pollution attributable death rate (per 100 000 population),Africa,Malawi,2016,Both sexes,Total,17.470000000000002
+998,Ambient air pollution attributable death rate (per 100 000 population),Africa,Côte d’Ivoire,2016,Male,Ischaemic heart disease,17.37
+1000,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cabo Verde,2016,Both sexes,Ischaemic heart disease,17.546666666666667
+1015,Ambient air pollution attributable death rate (per 100 000 population),Africa,Algeria,2016,Female,Ischaemic heart disease,17.986666666666668
+1022,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ethiopia,2016,Male,Lower respiratory infections,18.316666666666666
+1027,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cabo Verde,2016,Female,Ischaemic heart disease,18.349999999999998
+1030,Ambient air pollution attributable death rate (per 100 000 population),Africa,Malawi,2016,Male,Total,18.486666666666668
+1036,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eritrea,2016,Female,Lower respiratory infections,18.583333333333332
+1042,Ambient air pollution attributable death rate (per 100 000 population),Africa,Lesotho,2016,Female,Lower respiratory infections,18.64
+1049,Ambient air pollution attributable death rate (per 100 000 population),Africa,Djibouti,2016,Female,Lower respiratory infections,18.766666666666666
+1055,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea-Bissau,2016,Female,Lower respiratory infections,18.953333333333333
+1066,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ghana,2016,Both sexes,Lower respiratory infections,19.146666666666665
+1068,Ambient air pollution attributable death rate (per 100 000 population),Africa,Seychelles,2016,Both sexes,Ischaemic heart disease,18.959999999999997
+1070,Ambient air pollution attributable death rate (per 100 000 population),Africa,Angola,2016,Female,Lower respiratory infections,19.256666666666664
+1072,Ambient air pollution attributable death rate (per 100 000 population),Africa,Angola,2016,Both sexes,Lower respiratory infections,19.263333333333332
+1073,Ambient air pollution attributable death rate (per 100 000 population),Africa,Angola,2016,Male,Lower respiratory infections,19.263333333333332
+1074,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gambia,2016,Both sexes,Lower respiratory infections,19.319999999999997
+1075,Ambient air pollution attributable death rate (per 100 000 population),Africa,Lesotho,2016,Both sexes,Lower respiratory infections,19.283333333333335
+1080,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritius,2016,Both sexes,Ischaemic heart disease,19.18
+1081,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea,2016,Female,Lower respiratory infections,19.77
+1084,Ambient air pollution attributable death rate (per 100 000 population),Africa,Algeria,2016,Both sexes,Ischaemic heart disease,19.463333333333335
+1089,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mozambique,2016,Male,Total,19.72
+1092,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mozambique,2016,Both sexes,Total,19.84
+1093,Ambient air pollution attributable death rate (per 100 000 population),Africa,Togo,2016,Female,Lower respiratory infections,19.896666666666665
+1095,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mozambique,2016,Female,Total,19.919999999999998
+1097,Ambient air pollution attributable death rate (per 100 000 population),Africa,Lesotho,2016,Male,Lower respiratory infections,19.97
+1098,Ambient air pollution attributable death rate (per 100 000 population),Africa,Djibouti,2016,Both sexes,Lower respiratory infections,20.013333333333332
+1100,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zimbabwe,2016,Both sexes,Chronic obstructive pulmonary disease,2.08
+1101,Ambient air pollution attributable death rate (per 100 000 population),Africa,Kenya,2016,Both sexes,Stroke,2.0500000000000003
+1108,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ethiopia,2016,Female,Chronic obstructive pulmonary disease,2.0833333333333335
+1113,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zimbabwe,2016,Male,Chronic obstructive pulmonary disease,2.1333333333333333
+1121,Ambient air pollution attributable death rate (per 100 000 population),Africa,Djibouti,2016,Female,Chronic obstructive pulmonary disease,2.1133333333333333
+1122,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Sudan,2016,Female,Chronic obstructive pulmonary disease,2.1133333333333333
+1125,Ambient air pollution attributable death rate (per 100 000 population),Africa,Comoros,2016,Male,Chronic obstructive pulmonary disease,2.18
+1130,Ambient air pollution attributable death rate (per 100 000 population),Africa,Malawi,2016,Male,Stroke,2.14
+1132,Ambient air pollution attributable death rate (per 100 000 population),Africa,Algeria,2016,Male,"Trachea, bronchus, lung cancers",2.14
+1133,Ambient air pollution attributable death rate (per 100 000 population),Africa,Kenya,2016,Female,Stroke,2.19
+1136,Ambient air pollution attributable death rate (per 100 000 population),Africa,Uganda,2016,Male,Chronic obstructive pulmonary disease,2.1633333333333336
+1142,Ambient air pollution attributable death rate (per 100 000 population),Africa,Uganda,2016,Both sexes,Chronic obstructive pulmonary disease,2.1966666666666668
+1148,Ambient air pollution attributable death rate (per 100 000 population),Africa,Uganda,2016,Female,Chronic obstructive pulmonary disease,2.233333333333333
+1152,Ambient air pollution attributable death rate (per 100 000 population),Africa,Democratic Republic of the Congo,2016,Male,Chronic obstructive pulmonary disease,2.27
+1154,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burundi,2016,Female,Chronic obstructive pulmonary disease,2.2866666666666666
+1160,Ambient air pollution attributable death rate (per 100 000 population),Africa,Egypt,2016,Male,"Trachea, bronchus, lung cancers",2.236666666666667
+1166,Ambient air pollution attributable death rate (per 100 000 population),Africa,Congo,2016,Male,Chronic obstructive pulmonary disease,2.31
+1174,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gambia,2016,Female,Chronic obstructive pulmonary disease,2.35
+1176,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritius,2016,Female,Lower respiratory infections,2.4299999999999997
+1181,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Africa,2016,Male,"Trachea, bronchus, lung cancers",2.3533333333333335
+1188,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritania,2016,Male,Chronic obstructive pulmonary disease,2.36
+1189,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Sudan,2016,Both sexes,Chronic obstructive pulmonary disease,2.36
+1196,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ghana,2016,Male,Chronic obstructive pulmonary disease,2.403333333333333
+1198,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea-Bissau,2016,Female,Chronic obstructive pulmonary disease,2.433333333333333
+1200,Ambient air pollution attributable death rate (per 100 000 population),Africa,Malawi,2016,Both sexes,Stroke,2.4033333333333338
+1203,Ambient air pollution attributable death rate (per 100 000 population),Africa,Rwanda,2016,Female,Chronic obstructive pulmonary disease,2.4066666666666667
+1205,Ambient air pollution attributable death rate (per 100 000 population),Africa,Kenya,2016,Female,Ischaemic heart disease,2.356666666666667
+1209,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ethiopia,2016,Both sexes,Chronic obstructive pulmonary disease,2.4233333333333333
+1210,Ambient air pollution attributable death rate (per 100 000 population),Africa,Rwanda,2016,Both sexes,Chronic obstructive pulmonary disease,2.4166666666666665
+1212,Ambient air pollution attributable death rate (per 100 000 population),Africa,Madagascar,2016,Female,Chronic obstructive pulmonary disease,2.48
+1213,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea-Bissau,2016,Both sexes,Chronic obstructive pulmonary disease,2.4566666666666666
+1216,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gambia,2016,Both sexes,Chronic obstructive pulmonary disease,2.4499999999999997
+1217,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ghana,2016,Both sexes,Chronic obstructive pulmonary disease,2.4533333333333336
+1218,Ambient air pollution attributable death rate (per 100 000 population),Africa,Rwanda,2016,Male,Chronic obstructive pulmonary disease,2.4333333333333336
+1222,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea-Bissau,2016,Male,Chronic obstructive pulmonary disease,2.48
+1225,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zambia,2016,Male,Stroke,2.4499999999999997
+1227,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eswatini,2016,Female,Chronic obstructive pulmonary disease,2.5166666666666666
+1230,Ambient air pollution attributable death rate (per 100 000 population),Africa,Somalia,2016,Male,Chronic obstructive pulmonary disease,2.4899999999999998
+1236,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ghana,2016,Female,Chronic obstructive pulmonary disease,2.4966666666666666
+1244,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sierra Leone,2016,Male,Chronic obstructive pulmonary disease,2.5533333333333332
+1245,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritania,2016,Both sexes,Chronic obstructive pulmonary disease,2.4933333333333336
+1251,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zimbabwe,2016,Male,Stroke,2.52
+1256,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gambia,2016,Male,Chronic obstructive pulmonary disease,2.5466666666666664
+1258,Ambient air pollution attributable death rate (per 100 000 population),Africa,Senegal,2016,Female,Chronic obstructive pulmonary disease,2.5366666666666666
+1271,Ambient air pollution attributable death rate (per 100 000 population),Africa,Algeria,2016,Both sexes,Chronic obstructive pulmonary disease,2.5766666666666667
+1277,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritius,2016,Both sexes,Lower respiratory infections,2.7099999999999995
+1281,Ambient air pollution attributable death rate (per 100 000 population),Africa,Kenya,2016,Both sexes,Ischaemic heart disease,2.5533333333333332
+1283,Ambient air pollution attributable death rate (per 100 000 population),Africa,Seychelles,2016,Male,"Trachea, bronchus, lung cancers",2.6566666666666667
+1285,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Sudan,2016,Male,Chronic obstructive pulmonary disease,2.6133333333333333
+1288,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritania,2016,Female,Chronic obstructive pulmonary disease,2.6233333333333335
+1290,Ambient air pollution attributable death rate (per 100 000 population),Africa,Seychelles,2016,Female,Chronic obstructive pulmonary disease,2.6999999999999997
+1291,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burundi,2016,Both sexes,Chronic obstructive pulmonary disease,2.66
+1292,Ambient air pollution attributable death rate (per 100 000 population),Africa,Malawi,2016,Female,Stroke,2.686666666666666
+1295,Ambient air pollution attributable death rate (per 100 000 population),Africa,Morocco,2016,Female,Chronic obstructive pulmonary disease,2.6633333333333336
+1300,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sierra Leone,2016,Both sexes,Chronic obstructive pulmonary disease,2.72
+1305,Ambient air pollution attributable death rate (per 100 000 population),Africa,Madagascar,2016,Both sexes,Chronic obstructive pulmonary disease,2.73
+1307,Ambient air pollution attributable death rate (per 100 000 population),Africa,Democratic Republic of the Congo,2016,Both sexes,Chronic obstructive pulmonary disease,2.6799999999999997
+1313,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gabon,2016,Male,Chronic obstructive pulmonary disease,2.7099999999999995
+1316,Ambient air pollution attributable death rate (per 100 000 population),Africa,Botswana,2016,Female,Chronic obstructive pulmonary disease,2.766666666666667
+1323,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ethiopia,2016,Male,Chronic obstructive pulmonary disease,2.766666666666667
+1330,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea,2016,Male,Chronic obstructive pulmonary disease,2.8266666666666667
+1339,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sierra Leone,2016,Female,Chronic obstructive pulmonary disease,2.8766666666666665
+1340,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea,2016,Both sexes,Chronic obstructive pulmonary disease,2.8699999999999997
+1341,Ambient air pollution attributable death rate (per 100 000 population),Africa,Côte d’Ivoire,2016,Female,Chronic obstructive pulmonary disease,2.853333333333333
+1346,Ambient air pollution attributable death rate (per 100 000 population),Africa,Kenya,2016,Male,Ischaemic heart disease,2.7600000000000002
+1351,Ambient air pollution attributable death rate (per 100 000 population),Africa,Equatorial Guinea,2016,Male,Chronic obstructive pulmonary disease,2.823333333333333
+1357,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea,2016,Female,Chronic obstructive pulmonary disease,2.91
+1362,Ambient air pollution attributable death rate (per 100 000 population),Africa,Namibia,2016,Female,Chronic obstructive pulmonary disease,2.9133333333333336
+1363,Ambient air pollution attributable death rate (per 100 000 population),Africa,Nigeria,2016,Male,Chronic obstructive pulmonary disease,2.8466666666666662
+1366,Ambient air pollution attributable death rate (per 100 000 population),Africa,Congo,2016,Both sexes,Chronic obstructive pulmonary disease,2.873333333333333
+1370,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritius,2016,Male,Lower respiratory infections,3.0
+1371,Ambient air pollution attributable death rate (per 100 000 population),Africa,Senegal,2016,Both sexes,Chronic obstructive pulmonary disease,2.893333333333333
+1372,Ambient air pollution attributable death rate (per 100 000 population),Africa,Djibouti,2016,Both sexes,Chronic obstructive pulmonary disease,2.883333333333333
+1375,Ambient air pollution attributable death rate (per 100 000 population),Africa,Madagascar,2016,Male,Chronic obstructive pulmonary disease,2.9800000000000004
+1379,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zambia,2016,Both sexes,Stroke,2.91
+1386,Ambient air pollution attributable death rate (per 100 000 population),Africa,United Republic of Tanzania,2016,Male,Stroke,2.9233333333333333
+1388,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gabon,2016,Both sexes,Chronic obstructive pulmonary disease,2.9499999999999997
+1398,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eritrea,2016,Female,Chronic obstructive pulmonary disease,2.9599999999999995
+1416,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burundi,2016,Male,Chronic obstructive pulmonary disease,3.046666666666667
+1419,Ambient air pollution attributable death rate (per 100 000 population),Africa,Niger,2016,Female,Chronic obstructive pulmonary disease,3.0199999999999996
+1427,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritania,2016,Female,Lower respiratory infections,20.296666666666667
+1433,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mali,2016,Male,Lower respiratory infections,20.506666666666668
+1434,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea-Bissau,2016,Both sexes,Lower respiratory infections,20.613333333333333
+1435,Ambient air pollution attributable death rate (per 100 000 population),Africa,Uganda,2016,Female,Lower respiratory infections,20.49
+1437,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mali,2016,Both sexes,Lower respiratory infections,20.676666666666666
+1443,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mali,2016,Female,Lower respiratory infections,20.843333333333334
+1445,Ambient air pollution attributable death rate (per 100 000 population),Africa,Morocco,2016,Female,Ischaemic heart disease,20.833333333333332
+1450,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sierra Leone,2016,Female,Lower respiratory infections,21.36
+1451,Ambient air pollution attributable death rate (per 100 000 population),Africa,Uganda,2016,Both sexes,Lower respiratory infections,20.996666666666666
+1454,Ambient air pollution attributable death rate (per 100 000 population),Africa,Algeria,2016,Male,Ischaemic heart disease,20.936666666666667
+1457,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea,2016,Both sexes,Lower respiratory infections,21.47666666666667
+1460,Ambient air pollution attributable death rate (per 100 000 population),Africa,Djibouti,2016,Male,Lower respiratory infections,21.246666666666666
+1464,Ambient air pollution attributable death rate (per 100 000 population),Africa,Morocco,2016,Both sexes,Ischaemic heart disease,21.19666666666667
+1467,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eritrea,2016,Both sexes,Lower respiratory infections,21.353333333333328
+1469,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zimbabwe,2016,Male,Total,21.566666666666666
+1471,Ambient air pollution attributable death rate (per 100 000 population),Africa,Uganda,2016,Male,Lower respiratory infections,21.503333333333334
+1478,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gambia,2016,Male,Lower respiratory infections,21.753333333333334
+1480,Ambient air pollution attributable death rate (per 100 000 population),Africa,Morocco,2016,Male,Ischaemic heart disease,21.623333333333335
+1484,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burundi,2016,Female,Lower respiratory infections,21.866666666666664
+1489,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sierra Leone,2016,Both sexes,Lower respiratory infections,22.286666666666665
+1498,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea-Bissau,2016,Male,Lower respiratory infections,22.330000000000002
+1504,Ambient air pollution attributable death rate (per 100 000 population),Africa,Togo,2016,Both sexes,Lower respiratory infections,22.41333333333333
+1506,Ambient air pollution attributable death rate (per 100 000 population),Africa,Côte d’Ivoire,2016,Female,Lower respiratory infections,22.55333333333333
+1508,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zambia,2016,Female,Total,22.42
+1509,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burkina Faso,2016,Female,Lower respiratory infections,22.506666666666664
+1510,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritius,2016,Male,Ischaemic heart disease,22.366666666666664
+1514,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burkina Faso,2016,Both sexes,Lower respiratory infections,22.72
+1516,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sierra Leone,2016,Male,Lower respiratory infections,23.236666666666668
+1520,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea,2016,Male,Lower respiratory infections,23.180000000000003
+1521,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zambia,2016,Both sexes,Total,22.77
+1523,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zimbabwe,2016,Both sexes,Total,23.02666666666667
+1524,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burkina Faso,2016,Male,Lower respiratory infections,22.933333333333334
+1525,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burundi,2016,Both sexes,Lower respiratory infections,23.043333333333333
+1527,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ghana,2016,Male,Lower respiratory infections,23.133333333333336
+1532,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zambia,2016,Male,Total,23.126666666666665
+1533,Ambient air pollution attributable death rate (per 100 000 population),Africa,Rwanda,2016,Female,Total,23.256666666666664
+1535,Ambient air pollution attributable death rate (per 100 000 population),Africa,Liberia,2016,Male,Total,23.566666666666663
+1541,Ambient air pollution attributable death rate (per 100 000 population),Africa,Rwanda,2016,Both sexes,Total,23.756666666666664
+1542,Ambient air pollution attributable death rate (per 100 000 population),Africa,Liberia,2016,Both sexes,Total,23.936666666666667
+1549,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritania,2016,Both sexes,Lower respiratory infections,23.91333333333333
+1552,Ambient air pollution attributable death rate (per 100 000 population),Africa,Liberia,2016,Female,Total,24.330000000000002
+1553,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eritrea,2016,Male,Lower respiratory infections,24.11
+1557,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burundi,2016,Male,Lower respiratory infections,24.256666666666664
+1562,Ambient air pollution attributable death rate (per 100 000 population),Africa,Rwanda,2016,Male,Total,24.25333333333333
+1564,Ambient air pollution attributable death rate (per 100 000 population),Africa,Seychelles,2016,Male,Ischaemic heart disease,24.090000000000003
+1565,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zimbabwe,2016,Female,Total,24.436666666666667
+1569,Ambient air pollution attributable death rate (per 100 000 population),Africa,Madagascar,2016,Female,Total,24.606666666666666
+1579,Ambient air pollution attributable death rate (per 100 000 population),Africa,Democratic Republic of the Congo,2016,Female,Lower respiratory infections,24.830000000000002
+1581,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sudan,2016,Female,Ischaemic heart disease,24.72
+1582,Ambient air pollution attributable death rate (per 100 000 population),Africa,Togo,2016,Male,Lower respiratory infections,24.94666666666667
+1589,Ambient air pollution attributable death rate (per 100 000 population),Africa,Democratic Republic of the Congo,2016,Both sexes,Lower respiratory infections,25.096666666666664
+1596,Ambient air pollution attributable death rate (per 100 000 population),Africa,Democratic Republic of the Congo,2016,Male,Lower respiratory infections,25.366666666666664
+1602,Ambient air pollution attributable death rate (per 100 000 population),Africa,Madagascar,2016,Both sexes,Total,25.75333333333333
+1609,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eswatini,2016,Female,Total,26.169999999999998
+1612,Ambient air pollution attributable death rate (per 100 000 population),Africa,Côte d’Ivoire,2016,Both sexes,Lower respiratory infections,26.293333333333333
+1613,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eswatini,2016,Both sexes,Total,26.363333333333333
+1617,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eswatini,2016,Male,Total,26.493333333333336
+1619,Ambient air pollution attributable death rate (per 100 000 population),Africa,Botswana,2016,Female,Total,26.293333333333333
+1622,Ambient air pollution attributable death rate (per 100 000 population),Africa,United Republic of Tanzania,2016,Female,Total,26.34
+1628,Ambient air pollution attributable death rate (per 100 000 population),Africa,Madagascar,2016,Male,Total,26.886666666666667
+1629,Ambient air pollution attributable death rate (per 100 000 population),Africa,United Republic of Tanzania,2016,Both sexes,Total,26.786666666666665
+1631,Ambient air pollution attributable death rate (per 100 000 population),Africa,Botswana,2016,Both sexes,Total,26.906666666666666
+1634,Ambient air pollution attributable death rate (per 100 000 population),Africa,Tunisia,2016,Female,Ischaemic heart disease,27.159999999999997
+1639,Ambient air pollution attributable death rate (per 100 000 population),Africa,United Republic of Tanzania,2016,Male,Total,27.213333333333335
+1641,Ambient air pollution attributable death rate (per 100 000 population),Africa,Comoros,2016,Female,Total,27.51666666666667
+1642,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritania,2016,Male,Lower respiratory infections,27.47666666666667
+1644,Ambient air pollution attributable death rate (per 100 000 population),Africa,Botswana,2016,Male,Total,27.536666666666665
+1649,Ambient air pollution attributable death rate (per 100 000 population),Africa,Benin,2016,Female,Lower respiratory infections,27.790000000000003
+1660,Ambient air pollution attributable death rate (per 100 000 population),Africa,Benin,2016,Both sexes,Lower respiratory infections,28.213333333333335
+1662,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sudan,2016,Both sexes,Ischaemic heart disease,28.14333333333333
+1668,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Sudan,2016,Female,Lower respiratory infections,28.543333333333333
+1669,Ambient air pollution attributable death rate (per 100 000 population),Africa,Benin,2016,Male,Lower respiratory infections,28.636666666666667
+1670,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sao Tome and Principe,2016,Male,Total,28.77
+1677,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ethiopia,2016,Female,Total,29.27333333333333
+1678,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sao Tome and Principe,2016,Both sexes,Total,29.436666666666667
+1681,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Sudan,2016,Both sexes,Lower respiratory infections,29.590000000000003
+1686,Ambient air pollution attributable death rate (per 100 000 population),Africa,Côte d’Ivoire,2016,Male,Lower respiratory infections,29.933333333333334
+1688,Ambient air pollution attributable death rate (per 100 000 population),Africa,Comoros,2016,Both sexes,Total,29.966666666666665
+1689,Ambient air pollution attributable death rate (per 100 000 population),Africa,Namibia,2016,Female,Total,29.893333333333334
+1691,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sao Tome and Principe,2016,Female,Total,30.066666666666663
+1692,Ambient air pollution attributable death rate (per 100 000 population),Africa,Angola,2016,Male,Total,29.889999999999997
+1695,Ambient air pollution attributable death rate (per 100 000 population),Africa,Tunisia,2016,Both sexes,"Trachea, bronchus, lung cancers",3.043333333333333
+1702,Ambient air pollution attributable death rate (per 100 000 population),Africa,Democratic Republic of the Congo,2016,Female,Chronic obstructive pulmonary disease,3.09
+1712,Ambient air pollution attributable death rate (per 100 000 population),Africa,Morocco,2016,Both sexes,Chronic obstructive pulmonary disease,3.153333333333333
+1716,Ambient air pollution attributable death rate (per 100 000 population),Africa,Benin,2016,Male,Chronic obstructive pulmonary disease,3.1566666666666663
+1717,Ambient air pollution attributable death rate (per 100 000 population),Africa,Algeria,2016,Male,Chronic obstructive pulmonary disease,3.14
+1727,Ambient air pollution attributable death rate (per 100 000 population),Africa,Côte d’Ivoire,2016,Both sexes,Chronic obstructive pulmonary disease,3.233333333333333
+1729,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zimbabwe,2016,Both sexes,Stroke,3.233333333333333
+1734,Ambient air pollution attributable death rate (per 100 000 population),Africa,Togo,2016,Male,Chronic obstructive pulmonary disease,3.22
+1735,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gabon,2016,Female,Chronic obstructive pulmonary disease,3.206666666666667
+1754,Ambient air pollution attributable death rate (per 100 000 population),Africa,Togo,2016,Both sexes,Chronic obstructive pulmonary disease,3.276666666666667
+1758,Ambient air pollution attributable death rate (per 100 000 population),Africa,Senegal,2016,Male,Chronic obstructive pulmonary disease,3.27
+1762,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eswatini,2016,Both sexes,Chronic obstructive pulmonary disease,3.35
+1763,Ambient air pollution attributable death rate (per 100 000 population),Africa,United Republic of Tanzania,2016,Both sexes,Stroke,3.2600000000000002
+1768,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mozambique,2016,Male,Stroke,3.26
+1769,Ambient air pollution attributable death rate (per 100 000 population),Africa,Angola,2016,Male,Stroke,3.2466666666666666
+1771,Ambient air pollution attributable death rate (per 100 000 population),Africa,Nigeria,2016,Both sexes,Chronic obstructive pulmonary disease,3.276666666666667
+1773,Ambient air pollution attributable death rate (per 100 000 population),Africa,Togo,2016,Female,Chronic obstructive pulmonary disease,3.3333333333333335
+1775,Ambient air pollution attributable death rate (per 100 000 population),Africa,Niger,2016,Both sexes,Chronic obstructive pulmonary disease,3.3033333333333332
+1778,Ambient air pollution attributable death rate (per 100 000 population),Africa,Benin,2016,Both sexes,Chronic obstructive pulmonary disease,3.3333333333333335
+1786,Ambient air pollution attributable death rate (per 100 000 population),Africa,Equatorial Guinea,2016,Both sexes,Chronic obstructive pulmonary disease,3.3366666666666664
+1787,Ambient air pollution attributable death rate (per 100 000 population),Africa,Chad,2016,Female,Chronic obstructive pulmonary disease,3.3366666666666664
+1790,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zambia,2016,Female,Stroke,3.3633333333333333
+1795,Ambient air pollution attributable death rate (per 100 000 population),Africa,Chad,2016,Both sexes,Chronic obstructive pulmonary disease,3.3666666666666667
+1801,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cabo Verde,2016,Male,Chronic obstructive pulmonary disease,3.44
+1806,Ambient air pollution attributable death rate (per 100 000 population),Africa,Chad,2016,Male,Chronic obstructive pulmonary disease,3.3966666666666665
+1807,Ambient air pollution attributable death rate (per 100 000 population),Africa,Congo,2016,Female,Chronic obstructive pulmonary disease,3.4299999999999997
+1815,Ambient air pollution attributable death rate (per 100 000 population),Africa,Liberia,2016,Male,Stroke,3.4466666666666668
+1820,Ambient air pollution attributable death rate (per 100 000 population),Africa,Uganda,2016,Male,Stroke,3.4433333333333334
+1822,Ambient air pollution attributable death rate (per 100 000 population),Africa,Benin,2016,Female,Chronic obstructive pulmonary disease,3.5100000000000002
+1824,Ambient air pollution attributable death rate (per 100 000 population),Africa,Rwanda,2016,Male,Stroke,3.4733333333333327
+1826,Ambient air pollution attributable death rate (per 100 000 population),Africa,Morocco,2016,Male,"Trachea, bronchus, lung cancers",3.516666666666667
+1832,Ambient air pollution attributable death rate (per 100 000 population),Africa,Côte d’Ivoire,2016,Male,Chronic obstructive pulmonary disease,3.6
+1835,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sudan,2016,Female,Chronic obstructive pulmonary disease,3.53
+1849,Ambient air pollution attributable death rate (per 100 000 population),Africa,Niger,2016,Male,Chronic obstructive pulmonary disease,3.58
+1852,Ambient air pollution attributable death rate (per 100 000 population),Africa,United Republic of Tanzania,2016,Female,Stroke,3.58
+1859,Ambient air pollution attributable death rate (per 100 000 population),Africa,Morocco,2016,Male,Chronic obstructive pulmonary disease,3.6533333333333338
+1865,Ambient air pollution attributable death rate (per 100 000 population),Africa,Djibouti,2016,Male,Chronic obstructive pulmonary disease,3.6533333333333338
+1871,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mali,2016,Female,Chronic obstructive pulmonary disease,3.7133333333333334
+1874,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cabo Verde,2016,Both sexes,Chronic obstructive pulmonary disease,3.7300000000000004
+1877,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mozambique,2016,Both sexes,Stroke,3.6933333333333334
+1881,Ambient air pollution attributable death rate (per 100 000 population),Africa,Angola,2016,Both sexes,Stroke,3.6933333333333334
+1886,Ambient air pollution attributable death rate (per 100 000 population),Africa,Nigeria,2016,Female,Chronic obstructive pulmonary disease,3.7099999999999995
+1910,Ambient air pollution attributable death rate (per 100 000 population),Africa,Namibia,2016,Both sexes,Chronic obstructive pulmonary disease,3.8966666666666665
+1911,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sudan,2016,Both sexes,Chronic obstructive pulmonary disease,3.8033333333333332
+1912,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zimbabwe,2016,Female,Stroke,3.9033333333333338
+1913,Ambient air pollution attributable death rate (per 100 000 population),Africa,Rwanda,2016,Both sexes,Stroke,3.7966666666666664
+1914,Ambient air pollution attributable death rate (per 100 000 population),Africa,Botswana,2016,Both sexes,Chronic obstructive pulmonary disease,3.9066666666666667
+1915,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eritrea,2016,Both sexes,Chronic obstructive pulmonary disease,3.85
+1918,Ambient air pollution attributable death rate (per 100 000 population),Africa,Liberia,2016,Both sexes,Stroke,3.9033333333333338
+1925,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mozambique,2016,Male,Ischaemic heart disease,3.853333333333333
+1928,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burkina Faso,2016,Male,Stroke,3.89
+1937,Ambient air pollution attributable death rate (per 100 000 population),Africa,Seychelles,2016,Both sexes,Chronic obstructive pulmonary disease,4.08
+1940,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cabo Verde,2016,Female,Chronic obstructive pulmonary disease,4.02
+1941,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eswatini,2016,Male,Stroke,3.9899999999999998
+1945,Ambient air pollution attributable death rate (per 100 000 population),Africa,Equatorial Guinea,2016,Female,Chronic obstructive pulmonary disease,3.98
+1952,Ambient air pollution attributable death rate (per 100 000 population),Africa,Central African Republic,2016,Male,Chronic obstructive pulmonary disease,4.013333333333334
+1957,Ambient air pollution attributable death rate (per 100 000 population),Africa,Angola,2016,Both sexes,Total,30.26
+1963,Ambient air pollution attributable death rate (per 100 000 population),Africa,Congo,2016,Male,Total,30.55666666666667
+1964,Ambient air pollution attributable death rate (per 100 000 population),Africa,Equatorial Guinea,2016,Male,Lower respiratory infections,30.573333333333334
+1966,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Sudan,2016,Male,Lower respiratory infections,30.633333333333336
+1967,Ambient air pollution attributable death rate (per 100 000 population),Africa,Equatorial Guinea,2016,Both sexes,Lower respiratory infections,30.636666666666667
+1970,Ambient air pollution attributable death rate (per 100 000 population),Africa,Namibia,2016,Both sexes,Total,30.796666666666667
+1971,Ambient air pollution attributable death rate (per 100 000 population),Africa,Equatorial Guinea,2016,Female,Lower respiratory infections,30.713333333333335
+1972,Ambient air pollution attributable death rate (per 100 000 population),Africa,Angola,2016,Female,Total,30.636666666666667
+1991,Ambient air pollution attributable death rate (per 100 000 population),Africa,Seychelles,2016,Female,Total,31.560000000000002
+1992,Ambient air pollution attributable death rate (per 100 000 population),Africa,Namibia,2016,Male,Total,31.686666666666667
+1994,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sudan,2016,Male,Ischaemic heart disease,31.49666666666667
+1999,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritius,2016,Female,Total,32.23333333333333
+2004,Ambient air pollution attributable death rate (per 100 000 population),Africa,Comoros,2016,Male,Total,32.35
+2006,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ethiopia,2016,Both sexes,Total,32.25
+2007,Ambient air pollution attributable death rate (per 100 000 population),Africa,Tunisia,2016,Both sexes,Ischaemic heart disease,32.20333333333333
+2008,Ambient air pollution attributable death rate (per 100 000 population),Africa,Algeria,2016,Female,Total,32.410000000000004
+2009,Ambient air pollution attributable death rate (per 100 000 population),Africa,Uganda,2016,Male,Total,32.419999999999995
+2010,Ambient air pollution attributable death rate (per 100 000 population),Africa,Uganda,2016,Both sexes,Total,32.49
+2011,Ambient air pollution attributable death rate (per 100 000 population),Africa,Uganda,2016,Female,Total,32.57666666666666
+2017,Ambient air pollution attributable death rate (per 100 000 population),Africa,Congo,2016,Both sexes,Total,32.77
+2025,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gabon,2016,Male,Total,33.300000000000004
+2026,Ambient air pollution attributable death rate (per 100 000 population),Africa,Senegal,2016,Female,Total,33.28333333333333
+2028,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gambia,2016,Female,Total,33.32666666666666
+2035,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cameroon,2016,Female,Lower respiratory infections,33.71333333333333
+2045,Ambient air pollution attributable death rate (per 100 000 population),Africa,Senegal,2016,Both sexes,Total,34.153333333333336
+2048,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gabon,2016,Both sexes,Total,34.4
+2050,Ambient air pollution attributable death rate (per 100 000 population),Africa,Central African Republic,2016,Female,Lower respiratory infections,34.65
+2051,Ambient air pollution attributable death rate (per 100 000 population),Africa,Morocco,2016,Female,Total,34.919999999999995
+2052,Ambient air pollution attributable death rate (per 100 000 population),Africa,Congo,2016,Female,Total,34.99
+2053,Ambient air pollution attributable death rate (per 100 000 population),Africa,Senegal,2016,Male,Total,35.096666666666664
+2054,Ambient air pollution attributable death rate (per 100 000 population),Africa,Algeria,2016,Both sexes,Total,35.03666666666667
+2058,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ethiopia,2016,Male,Total,35.25
+2059,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gabon,2016,Female,Total,35.39000000000001
+2060,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Africa,2016,Female,Total,35.53333333333333
+2063,Ambient air pollution attributable death rate (per 100 000 population),Africa,Central African Republic,2016,Both sexes,Lower respiratory infections,35.6
+2069,Ambient air pollution attributable death rate (per 100 000 population),Africa,Central African Republic,2016,Male,Lower respiratory infections,36.57333333333333
+2071,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burundi,2016,Female,Total,36.449999999999996
+2079,Ambient air pollution attributable death rate (per 100 000 population),Africa,Egypt,2016,Female,Ischaemic heart disease,37.07333333333333
+2082,Ambient air pollution attributable death rate (per 100 000 population),Africa,Morocco,2016,Both sexes,Total,37.199999999999996
+2083,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea-Bissau,2016,Female,Total,37.22666666666667
+2086,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gambia,2016,Both sexes,Total,37.35666666666666
+2088,Ambient air pollution attributable death rate (per 100 000 population),Africa,Somalia,2016,Female,Lower respiratory infections,37.73333333333333
+2089,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cameroon,2016,Both sexes,Lower respiratory infections,37.49
+2092,Ambient air pollution attributable death rate (per 100 000 population),Africa,Tunisia,2016,Male,Ischaemic heart disease,37.49666666666667
+2093,Ambient air pollution attributable death rate (per 100 000 population),Africa,Algeria,2016,Male,Total,37.61333333333334
+2097,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritius,2016,Both sexes,Total,38.14333333333333
+2098,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burkina Faso,2016,Male,Total,37.94
+2102,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea-Bissau,2016,Both sexes,Total,38.14000000000001
+2105,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eritrea,2016,Female,Total,38.303333333333335
+2108,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mali,2016,Male,Total,38.550000000000004
+2109,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burundi,2016,Both sexes,Total,38.34
+2112,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burkina Faso,2016,Both sexes,Total,38.57
+2118,Ambient air pollution attributable death rate (per 100 000 population),Africa,Djibouti,2016,Female,Total,39.050000000000004
+2122,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea-Bissau,2016,Male,Total,39.126666666666665
+2123,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burkina Faso,2016,Female,Total,39.16
+2124,Ambient air pollution attributable death rate (per 100 000 population),Africa,Democratic Republic of the Congo,2016,Male,Total,39.13333333333333
+2125,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ghana,2016,Male,Total,39.31
+2132,Ambient air pollution attributable death rate (per 100 000 population),Africa,Morocco,2016,Male,Total,39.54333333333333
+2133,Ambient air pollution attributable death rate (per 100 000 population),Africa,Somalia,2016,Both sexes,Lower respiratory infections,40.03666666666667
+2139,Ambient air pollution attributable death rate (per 100 000 population),Africa,Uganda,2016,Both sexes,Stroke,4.03
+2142,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mali,2016,Both sexes,Chronic obstructive pulmonary disease,4.126666666666666
+2143,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zimbabwe,2016,Male,Ischaemic heart disease,4.0
+2147,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sudan,2016,Male,Chronic obstructive pulmonary disease,4.076666666666667
+2148,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mozambique,2016,Female,Stroke,4.116666666666667
+2155,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mozambique,2016,Both sexes,Ischaemic heart disease,4.06
+2156,Ambient air pollution attributable death rate (per 100 000 population),Africa,Angola,2016,Female,Stroke,4.113333333333333
+2157,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eswatini,2016,Male,Chronic obstructive pulmonary disease,4.236666666666667
+2159,Ambient air pollution attributable death rate (per 100 000 population),Africa,Rwanda,2016,Female,Stroke,4.133333333333334
+2168,Ambient air pollution attributable death rate (per 100 000 population),Africa,Tunisia,2016,Female,Chronic obstructive pulmonary disease,4.206666666666667
+2180,Ambient air pollution attributable death rate (per 100 000 population),Africa,Malawi,2016,Female,Ischaemic heart disease,4.18
+2185,Ambient air pollution attributable death rate (per 100 000 population),Africa,Central African Republic,2016,Both sexes,Chronic obstructive pulmonary disease,4.236666666666667
+2189,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sao Tome and Principe,2016,Male,Stroke,4.403333333333333
+2192,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mozambique,2016,Female,Ischaemic heart disease,4.253333333333333
+2195,Ambient air pollution attributable death rate (per 100 000 population),Africa,Liberia,2016,Female,Stroke,4.37
+2208,Ambient air pollution attributable death rate (per 100 000 population),Africa,Senegal,2016,Male,Stroke,4.343333333333334
+2213,Ambient air pollution attributable death rate (per 100 000 population),Africa,Comoros,2016,Female,Stroke,4.433333333333334
+2214,Ambient air pollution attributable death rate (per 100 000 population),Africa,Congo,2016,Male,Stroke,4.376666666666666
+2216,Ambient air pollution attributable death rate (per 100 000 population),Africa,Malawi,2016,Both sexes,Ischaemic heart disease,4.36
+2217,Ambient air pollution attributable death rate (per 100 000 population),Africa,Comoros,2016,Both sexes,Stroke,4.423333333333333
+2220,Ambient air pollution attributable death rate (per 100 000 population),Africa,Comoros,2016,Male,Stroke,4.3999999999999995
+2222,Ambient air pollution attributable death rate (per 100 000 population),Africa,Central African Republic,2016,Female,Chronic obstructive pulmonary disease,4.446666666666666
+2226,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Africa,2016,Female,Chronic obstructive pulmonary disease,4.57
+2228,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mali,2016,Male,Chronic obstructive pulmonary disease,4.533333333333334
+2240,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ethiopia,2016,Male,Stroke,4.5200000000000005
+2244,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cameroon,2016,Female,Chronic obstructive pulmonary disease,4.56
+2247,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burkina Faso,2016,Both sexes,Stroke,4.53
+2251,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritania,2016,Male,Stroke,4.55
+2257,Ambient air pollution attributable death rate (per 100 000 population),Africa,Malawi,2016,Male,Ischaemic heart disease,4.556666666666667
+2259,Ambient air pollution attributable death rate (per 100 000 population),Africa,Uganda,2016,Female,Stroke,4.609999999999999
+2261,Ambient air pollution attributable death rate (per 100 000 population),Africa,Botswana,2016,Male,Stroke,4.64
+2264,Ambient air pollution attributable death rate (per 100 000 population),Africa,Rwanda,2016,Female,Ischaemic heart disease,4.596666666666667
+2269,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cameroon,2016,Both sexes,Chronic obstructive pulmonary disease,4.666666666666667
+2286,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eswatini,2016,Both sexes,Stroke,4.783333333333334
+2290,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mali,2016,Male,Stroke,4.683333333333334
+2293,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eritrea,2016,Male,Chronic obstructive pulmonary disease,4.736666666666667
+2294,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ethiopia,2016,Both sexes,Stroke,4.733333333333333
+2298,Ambient air pollution attributable death rate (per 100 000 population),Africa,Namibia,2016,Male,Stroke,4.783333333333333
+2300,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cameroon,2016,Male,Chronic obstructive pulmonary disease,4.773333333333333
+2301,Ambient air pollution attributable death rate (per 100 000 population),Africa,Rwanda,2016,Both sexes,Ischaemic heart disease,4.7
+2306,Ambient air pollution attributable death rate (per 100 000 population),Africa,Democratic Republic of the Congo,2016,Male,Stroke,4.763333333333333
+2307,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Sudan,2016,Male,Stroke,4.75
+2314,Ambient air pollution attributable death rate (per 100 000 population),Africa,Namibia,2016,Male,Chronic obstructive pulmonary disease,4.943333333333333
+2326,Ambient air pollution attributable death rate (per 100 000 population),Africa,Rwanda,2016,Male,Ischaemic heart disease,4.83
+2331,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gambia,2016,Female,Stroke,4.896666666666667
+2335,Ambient air pollution attributable death rate (per 100 000 population),Africa,Botswana,2016,Male,Chronic obstructive pulmonary disease,5.066666666666666
+2336,Ambient air pollution attributable death rate (per 100 000 population),Africa,Tunisia,2016,Both sexes,Chronic obstructive pulmonary disease,4.983333333333333
+2339,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ethiopia,2016,Female,Stroke,4.96
+2345,Ambient air pollution attributable death rate (per 100 000 population),Africa,Madagascar,2016,Female,Ischaemic heart disease,4.903333333333333
+2346,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea-Bissau,2016,Male,Stroke,4.93
+2347,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gambia,2016,Both sexes,Stroke,4.943333333333333
+2348,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ghana,2016,Male,Stroke,4.95
+2355,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sao Tome and Principe,2016,Female,Chronic obstructive pulmonary disease,5.1066666666666665
+2361,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gambia,2016,Male,Stroke,4.9799999999999995
+2366,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea,2016,Female,Total,40.27
+2368,Ambient air pollution attributable death rate (per 100 000 population),Africa,Democratic Republic of the Congo,2016,Both sexes,Total,40.13999999999999
+2369,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burundi,2016,Male,Total,40.333333333333336
+2372,Ambient air pollution attributable death rate (per 100 000 population),Africa,Egypt,2016,Both sexes,Ischaemic heart disease,40.906666666666666
+2373,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea,2016,Both sexes,Total,41.096666666666664
+2374,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Africa,2016,Both sexes,Total,41.166666666666664
+2375,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mali,2016,Both sexes,Total,41.19333333333333
+2376,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cabo Verde,2016,Male,Total,41.18333333333333
+2378,Ambient air pollution attributable death rate (per 100 000 population),Africa,Democratic Republic of the Congo,2016,Female,Total,41.13666666666666
+2379,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cabo Verde,2016,Both sexes,Total,41.29
+2380,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cameroon,2016,Male,Lower respiratory infections,41.25333333333334
+2382,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cabo Verde,2016,Female,Total,41.56333333333333
+2385,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gambia,2016,Male,Total,41.483333333333334
+2386,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ghana,2016,Both sexes,Total,41.87
+2387,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea,2016,Male,Total,41.92333333333333
+2390,Ambient air pollution attributable death rate (per 100 000 population),Africa,Somalia,2016,Male,Lower respiratory infections,42.35666666666666
+2392,Ambient air pollution attributable death rate (per 100 000 population),Africa,Togo,2016,Female,Total,42.330000000000005
+2394,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritania,2016,Female,Total,42.553333333333335
+2399,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eritrea,2016,Both sexes,Total,43.199999999999996
+2403,Ambient air pollution attributable death rate (per 100 000 population),Africa,Djibouti,2016,Both sexes,Total,43.406666666666666
+2404,Ambient air pollution attributable death rate (per 100 000 population),Africa,Seychelles,2016,Both sexes,Total,43.63333333333333
+2411,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mali,2016,Female,Total,43.70666666666667
+2414,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ghana,2016,Female,Total,44.196666666666665
+2417,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritius,2016,Male,Total,44.306666666666665
+2418,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Sudan,2016,Female,Total,44.62
+2419,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritania,2016,Both sexes,Total,44.64666666666667
+2423,Ambient air pollution attributable death rate (per 100 000 population),Africa,Egypt,2016,Male,Ischaemic heart disease,44.55666666666667
+2428,Ambient air pollution attributable death rate (per 100 000 population),Africa,Togo,2016,Both sexes,Total,45.406666666666666
+2429,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Sudan,2016,Both sexes,Total,45.623333333333335
+2431,Ambient air pollution attributable death rate (per 100 000 population),Africa,Niger,2016,Female,Lower respiratory infections,45.583333333333336
+2432,Ambient air pollution attributable death rate (per 100 000 population),Africa,Lesotho,2016,Male,Total,45.85333333333333
+2436,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sierra Leone,2016,Female,Total,46.36666666666667
+2438,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sierra Leone,2016,Both sexes,Total,46.416666666666664
+2439,Ambient air pollution attributable death rate (per 100 000 population),Africa,Tunisia,2016,Female,Total,46.21
+2441,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sierra Leone,2016,Male,Total,46.52666666666667
+2444,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Sudan,2016,Male,Total,46.60333333333333
+2445,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritania,2016,Male,Total,46.64000000000001
+2447,Ambient air pollution attributable death rate (per 100 000 population),Africa,Côte d’Ivoire,2016,Female,Total,46.78333333333333
+2448,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Africa,2016,Male,Total,47.02666666666667
+2457,Ambient air pollution attributable death rate (per 100 000 population),Africa,Niger,2016,Both sexes,Lower respiratory infections,47.56666666666666
+2459,Ambient air pollution attributable death rate (per 100 000 population),Africa,Djibouti,2016,Male,Total,47.76333333333333
+2460,Ambient air pollution attributable death rate (per 100 000 population),Africa,Lesotho,2016,Both sexes,Total,48.04
+2461,Ambient air pollution attributable death rate (per 100 000 population),Africa,Benin,2016,Male,Total,47.77333333333333
+2462,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eritrea,2016,Male,Total,48.06
+2465,Ambient air pollution attributable death rate (per 100 000 population),Africa,Benin,2016,Both sexes,Total,48.07666666666666
+2470,Ambient air pollution attributable death rate (per 100 000 population),Africa,Benin,2016,Female,Total,48.43666666666667
+2474,Ambient air pollution attributable death rate (per 100 000 population),Africa,Togo,2016,Male,Total,48.54
+2483,Ambient air pollution attributable death rate (per 100 000 population),Africa,Niger,2016,Male,Lower respiratory infections,49.53666666666667
+2485,Ambient air pollution attributable death rate (per 100 000 population),Africa,Lesotho,2016,Female,Total,50.086666666666666
+2489,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gabon,2016,Male,Stroke,5.083333333333333
+2490,Ambient air pollution attributable death rate (per 100 000 population),Africa,Senegal,2016,Both sexes,Stroke,5.056666666666666
+2491,Ambient air pollution attributable death rate (per 100 000 population),Africa,Uganda,2016,Female,Ischaemic heart disease,5.01
+2494,Ambient air pollution attributable death rate (per 100 000 population),Africa,Seychelles,2016,Female,Stroke,5.426666666666667
+2497,Ambient air pollution attributable death rate (per 100 000 population),Africa,Uganda,2016,Both sexes,Ischaemic heart disease,5.033333333333333
+2499,Ambient air pollution attributable death rate (per 100 000 population),Africa,Morocco,2016,Female,Lower respiratory infections,5.116666666666667
+2500,Ambient air pollution attributable death rate (per 100 000 population),Africa,Somalia,2016,Male,Stroke,5.093333333333334
+2505,Ambient air pollution attributable death rate (per 100 000 population),Africa,Uganda,2016,Male,Ischaemic heart disease,5.086666666666667
+2506,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sao Tome and Principe,2016,Both sexes,Chronic obstructive pulmonary disease,5.28
+2510,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burundi,2016,Male,Stroke,5.133333333333333
+2511,Ambient air pollution attributable death rate (per 100 000 population),Africa,Botswana,2016,Both sexes,Stroke,5.2700000000000005
+2513,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burkina Faso,2016,Female,Stroke,5.16
+2519,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zambia,2016,Female,Ischaemic heart disease,5.16
+2525,Ambient air pollution attributable death rate (per 100 000 population),Africa,Egypt,2016,Female,Chronic obstructive pulmonary disease,5.27
+2528,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zambia,2016,Both sexes,Ischaemic heart disease,5.236666666666666
+2529,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sao Tome and Principe,2016,Male,Chronic obstructive pulmonary disease,5.449999999999999
+2531,Ambient air pollution attributable death rate (per 100 000 population),Africa,Morocco,2016,Both sexes,Lower respiratory infections,5.3133333333333335
+2535,Ambient air pollution attributable death rate (per 100 000 population),Africa,Seychelles,2016,Male,Chronic obstructive pulmonary disease,5.5
+2542,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zambia,2016,Male,Ischaemic heart disease,5.3066666666666675
+2546,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eswatini,2016,Female,Stroke,5.543333333333333
+2547,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sao Tome and Principe,2016,Male,Ischaemic heart disease,5.34
+2552,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sao Tome and Principe,2016,Both sexes,Stroke,5.596666666666667
+2555,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Sudan,2016,Both sexes,Stroke,5.406666666666666
+2557,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zimbabwe,2016,Both sexes,Ischaemic heart disease,5.376666666666666
+2558,Ambient air pollution attributable death rate (per 100 000 population),Africa,Somalia,2016,Both sexes,Stroke,5.420000000000001
+2564,Ambient air pollution attributable death rate (per 100 000 population),Africa,Namibia,2016,Both sexes,Stroke,5.596666666666667
+2565,Ambient air pollution attributable death rate (per 100 000 population),Africa,Morocco,2016,Male,Lower respiratory infections,5.510000000000001
+2570,Ambient air pollution attributable death rate (per 100 000 population),Africa,Morocco,2016,Male,Stroke,5.663333333333334
+2576,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burundi,2016,Both sexes,Stroke,5.539999999999999
+2578,Ambient air pollution attributable death rate (per 100 000 population),Africa,Angola,2016,Female,Ischaemic heart disease,5.486666666666667
+2580,Ambient air pollution attributable death rate (per 100 000 population),Africa,Congo,2016,Both sexes,Stroke,5.573333333333333
+2582,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritius,2016,Female,Chronic obstructive pulmonary disease,5.81
+2584,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea-Bissau,2016,Both sexes,Stroke,5.580000000000001
+2587,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritania,2016,Both sexes,Stroke,5.596666666666667
+2589,Ambient air pollution attributable death rate (per 100 000 population),Africa,Equatorial Guinea,2016,Male,Stroke,5.59
+2593,Ambient air pollution attributable death rate (per 100 000 population),Africa,Democratic Republic of the Congo,2016,Both sexes,Stroke,5.646666666666667
+2594,Ambient air pollution attributable death rate (per 100 000 population),Africa,Angola,2016,Both sexes,Ischaemic heart disease,5.609999999999999
+2595,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea,2016,Male,Stroke,5.656666666666666
+2599,Ambient air pollution attributable death rate (per 100 000 population),Africa,Madagascar,2016,Male,Stroke,5.686666666666667
+2600,Ambient air pollution attributable death rate (per 100 000 population),Africa,Morocco,2016,Both sexes,Stroke,5.883333333333333
+2601,Ambient air pollution attributable death rate (per 100 000 population),Africa,Tunisia,2016,Male,Chronic obstructive pulmonary disease,5.776666666666666
+2603,Ambient air pollution attributable death rate (per 100 000 population),Africa,Botswana,2016,Female,Stroke,5.87
+2604,Ambient air pollution attributable death rate (per 100 000 population),Africa,Senegal,2016,Female,Stroke,5.75
+2608,Ambient air pollution attributable death rate (per 100 000 population),Africa,Algeria,2016,Male,Lower respiratory infections,5.726666666666667
+2609,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gabon,2016,Both sexes,Stroke,5.833333333333333
+2610,Ambient air pollution attributable death rate (per 100 000 population),Africa,Somalia,2016,Female,Stroke,5.739999999999999
+2612,Ambient air pollution attributable death rate (per 100 000 population),Africa,Tunisia,2016,Male,"Trachea, bronchus, lung cancers",5.8
+2613,Ambient air pollution attributable death rate (per 100 000 population),Africa,Algeria,2016,Male,Stroke,5.863333333333333
+2614,Ambient air pollution attributable death rate (per 100 000 population),Africa,Algeria,2016,Both sexes,Stroke,5.89
+2616,Ambient air pollution attributable death rate (per 100 000 population),Africa,Algeria,2016,Female,Stroke,5.916666666666667
+2618,Ambient air pollution attributable death rate (per 100 000 population),Africa,Angola,2016,Male,Ischaemic heart disease,5.743333333333333
+2627,Ambient air pollution attributable death rate (per 100 000 population),Africa,Morocco,2016,Female,Stroke,6.136666666666667
+2628,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sao Tome and Principe,2016,Both sexes,Ischaemic heart disease,5.8566666666666665
+2629,Ambient air pollution attributable death rate (per 100 000 population),Africa,Madagascar,2016,Both sexes,Ischaemic heart disease,5.826666666666667
+2630,Ambient air pollution attributable death rate (per 100 000 population),Africa,Nigeria,2016,Male,Stroke,5.876666666666666
+2632,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burundi,2016,Female,Stroke,5.923333333333333
+2635,Ambient air pollution attributable death rate (per 100 000 population),Africa,Algeria,2016,Both sexes,Lower respiratory infections,5.923333333333333
+2640,Ambient air pollution attributable death rate (per 100 000 population),Africa,Equatorial Guinea,2016,Both sexes,Stroke,5.976666666666667
+2648,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Africa,2016,Both sexes,Chronic obstructive pulmonary disease,6.19
+2655,Ambient air pollution attributable death rate (per 100 000 population),Africa,Equatorial Guinea,2016,Male,Total,50.94
+2658,Ambient air pollution attributable death rate (per 100 000 population),Africa,Equatorial Guinea,2016,Both sexes,Total,51.25
+2660,Ambient air pollution attributable death rate (per 100 000 population),Africa,Nigeria,2016,Female,Lower respiratory infections,51.376666666666665
+2662,Ambient air pollution attributable death rate (per 100 000 population),Africa,Equatorial Guinea,2016,Female,Total,51.71
+2672,Ambient air pollution attributable death rate (per 100 000 population),Africa,Nigeria,2016,Both sexes,Lower respiratory infections,52.883333333333326
+2676,Ambient air pollution attributable death rate (per 100 000 population),Africa,Côte d’Ivoire,2016,Both sexes,Total,53.29666666666666
+2678,Ambient air pollution attributable death rate (per 100 000 population),Africa,Somalia,2016,Female,Total,53.54
+2685,Ambient air pollution attributable death rate (per 100 000 population),Africa,Nigeria,2016,Male,Lower respiratory infections,54.35333333333333
+2686,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sudan,2016,Female,Total,54.343333333333334
+2690,Ambient air pollution attributable death rate (per 100 000 population),Africa,Seychelles,2016,Male,Total,55.849999999999994
+2692,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sudan,2016,Both sexes,Total,55.879999999999995
+2694,Ambient air pollution attributable death rate (per 100 000 population),Africa,Tunisia,2016,Both sexes,Total,56.163333333333334
+2695,Ambient air pollution attributable death rate (per 100 000 population),Africa,Somalia,2016,Both sexes,Total,56.526666666666664
+2697,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cameroon,2016,Female,Total,56.70666666666667
+2701,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sudan,2016,Male,Total,57.39333333333334
+2703,Ambient air pollution attributable death rate (per 100 000 population),Africa,Chad,2016,Female,Lower respiratory infections,57.68000000000001
+2714,Ambient air pollution attributable death rate (per 100 000 population),Africa,Somalia,2016,Male,Total,59.54
+2716,Ambient air pollution attributable death rate (per 100 000 population),Africa,Côte d’Ivoire,2016,Male,Total,59.64000000000001
+2722,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Sudan,2016,Female,Stroke,6.073333333333333
+2726,Ambient air pollution attributable death rate (per 100 000 population),Africa,Algeria,2016,Female,Lower respiratory infections,6.126666666666666
+2732,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mali,2016,Both sexes,Stroke,6.163333333333333
+2735,Ambient air pollution attributable death rate (per 100 000 population),Africa,Namibia,2016,Female,Stroke,6.38
+2736,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea-Bissau,2016,Female,Stroke,6.216666666666666
+2743,Ambient air pollution attributable death rate (per 100 000 population),Africa,Lesotho,2016,Female,Chronic obstructive pulmonary disease,6.426666666666667
+2744,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eswatini,2016,Male,Ischaemic heart disease,6.22
+2755,Ambient air pollution attributable death rate (per 100 000 population),Africa,Benin,2016,Male,Stroke,6.36
+2757,Ambient air pollution attributable death rate (per 100 000 population),Africa,Madagascar,2016,Both sexes,Stroke,6.409999999999999
+2759,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cabo Verde,2016,Male,Stroke,6.57
+2760,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sao Tome and Principe,2016,Female,Ischaemic heart disease,6.37
+2763,Ambient air pollution attributable death rate (per 100 000 population),Africa,Egypt,2016,Both sexes,Chronic obstructive pulmonary disease,6.47
+2764,Ambient air pollution attributable death rate (per 100 000 population),Africa,Equatorial Guinea,2016,Female,Stroke,6.443333333333334
+2768,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gabon,2016,Female,Stroke,6.593333333333334
+2774,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sao Tome and Principe,2016,Female,Stroke,6.786666666666666
+2776,Ambient air pollution attributable death rate (per 100 000 population),Africa,Democratic Republic of the Congo,2016,Female,Stroke,6.566666666666666
+2777,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea,2016,Both sexes,Stroke,6.580000000000001
+2779,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burundi,2016,Female,Ischaemic heart disease,6.523333333333333
+2787,Ambient air pollution attributable death rate (per 100 000 population),Africa,Niger,2016,Male,Stroke,6.603333333333333
+2789,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritania,2016,Female,Stroke,6.666666666666667
+2791,Ambient air pollution attributable death rate (per 100 000 population),Africa,Togo,2016,Male,Stroke,6.659999999999999
+2793,Ambient air pollution attributable death rate (per 100 000 population),Africa,Tunisia,2016,Female,Lower respiratory infections,6.670000000000001
+2802,Ambient air pollution attributable death rate (per 100 000 population),Africa,Congo,2016,Female,Stroke,6.760000000000001
+2805,Ambient air pollution attributable death rate (per 100 000 population),Africa,Zimbabwe,2016,Female,Ischaemic heart disease,6.6933333333333325
+2809,Ambient air pollution attributable death rate (per 100 000 population),Africa,Democratic Republic of the Congo,2016,Female,Ischaemic heart disease,6.710000000000001
+2814,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritius,2016,Both sexes,Chronic obstructive pulmonary disease,7.103333333333334
+2816,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cabo Verde,2016,Both sexes,Stroke,7.05
+2818,Ambient air pollution attributable death rate (per 100 000 population),Africa,Madagascar,2016,Male,Ischaemic heart disease,6.760000000000001
+2819,Ambient air pollution attributable death rate (per 100 000 population),Africa,Democratic Republic of the Congo,2016,Both sexes,Ischaemic heart disease,6.793333333333333
+2821,Ambient air pollution attributable death rate (per 100 000 population),Africa,Tunisia,2016,Both sexes,Lower respiratory infections,6.843333333333334
+2825,Ambient air pollution attributable death rate (per 100 000 population),Africa,Djibouti,2016,Female,Stroke,6.88
+2827,Ambient air pollution attributable death rate (per 100 000 population),Africa,Nigeria,2016,Both sexes,Stroke,6.896666666666666
+2828,Ambient air pollution attributable death rate (per 100 000 population),Africa,Democratic Republic of the Congo,2016,Male,Ischaemic heart disease,6.863333333333333
+2832,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sierra Leone,2016,Male,Stroke,6.916666666666667
+2834,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Africa,2016,Female,Stroke,7.166666666666667
+2836,Ambient air pollution attributable death rate (per 100 000 population),Africa,United Republic of Tanzania,2016,Female,Ischaemic heart disease,6.923333333333333
+2838,Ambient air pollution attributable death rate (per 100 000 population),Africa,Djibouti,2016,Both sexes,Stroke,6.976666666666667
+2840,Ambient air pollution attributable death rate (per 100 000 population),Africa,Tunisia,2016,Male,Lower respiratory infections,7.0200000000000005
+2843,Ambient air pollution attributable death rate (per 100 000 population),Africa,Chad,2016,Both sexes,Lower respiratory infections,61.03333333333333
+2844,Ambient air pollution attributable death rate (per 100 000 population),Africa,Central African Republic,2016,Female,Total,61.580000000000005
+2845,Ambient air pollution attributable death rate (per 100 000 population),Africa,Central African Republic,2016,Both sexes,Total,61.873333333333335
+2846,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cameroon,2016,Both sexes,Total,61.68333333333334
+2847,Ambient air pollution attributable death rate (per 100 000 population),Africa,Central African Republic,2016,Male,Total,62.13666666666666
+2852,Ambient air pollution attributable death rate (per 100 000 population),Africa,Egypt,2016,Female,Total,63.830000000000005
+2854,Ambient air pollution attributable death rate (per 100 000 population),Africa,Chad,2016,Male,Lower respiratory infections,64.38
+2857,Ambient air pollution attributable death rate (per 100 000 population),Africa,Tunisia,2016,Male,Total,66.33333333333333
+2859,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cameroon,2016,Male,Total,66.61
+2861,Ambient air pollution attributable death rate (per 100 000 population),Africa,Niger,2016,Female,Total,66.96666666666667
+2864,Ambient air pollution attributable death rate (per 100 000 population),Africa,Niger,2016,Both sexes,Total,69.34333333333333
+2872,Ambient air pollution attributable death rate (per 100 000 population),Africa,Togo,2016,Both sexes,Stroke,7.046666666666667
+2873,Ambient air pollution attributable death rate (per 100 000 population),Africa,Madagascar,2016,Female,Stroke,7.150000000000001
+2874,Ambient air pollution attributable death rate (per 100 000 population),Africa,Chad,2016,Male,Stroke,7.066666666666666
+2876,Ambient air pollution attributable death rate (per 100 000 population),Africa,Seychelles,2016,Both sexes,Stroke,7.253333333333334
+2877,Ambient air pollution attributable death rate (per 100 000 population),Africa,Benin,2016,Both sexes,Stroke,7.123333333333334
+2879,Ambient air pollution attributable death rate (per 100 000 population),Africa,Djibouti,2016,Male,Stroke,7.1000000000000005
+2885,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Africa,2016,Both sexes,Stroke,7.2299999999999995
+2889,Ambient air pollution attributable death rate (per 100 000 population),Africa,Niger,2016,Both sexes,Stroke,7.18
+2891,Ambient air pollution attributable death rate (per 100 000 population),Africa,United Republic of Tanzania,2016,Both sexes,Ischaemic heart disease,7.146666666666667
+2894,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cabo Verde,2016,Female,Stroke,7.493333333333333
+2895,Ambient air pollution attributable death rate (per 100 000 population),Africa,Liberia,2016,Female,Ischaemic heart disease,7.2
+2900,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eswatini,2016,Both sexes,Ischaemic heart disease,7.1933333333333325
+2905,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burundi,2016,Both sexes,Ischaemic heart disease,7.25
+2907,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Africa,2016,Male,Stroke,7.323333333333333
+2912,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritius,2016,Female,Stroke,8.07
+2915,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ethiopia,2016,Female,Ischaemic heart disease,7.296666666666667
+2917,Ambient air pollution attributable death rate (per 100 000 population),Africa,United Republic of Tanzania,2016,Male,Ischaemic heart disease,7.3566666666666665
+2919,Ambient air pollution attributable death rate (per 100 000 population),Africa,Botswana,2016,Female,Lower respiratory infections,7.506666666666667
+2920,Ambient air pollution attributable death rate (per 100 000 population),Africa,Togo,2016,Female,Stroke,7.433333333333334
+2923,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea,2016,Female,Stroke,7.510000000000001
+2925,Ambient air pollution attributable death rate (per 100 000 population),Africa,Liberia,2016,Both sexes,Ischaemic heart disease,7.426666666666667
+2927,Ambient air pollution attributable death rate (per 100 000 population),Africa,Egypt,2016,Female,Lower respiratory infections,7.44
+2933,Ambient air pollution attributable death rate (per 100 000 population),Africa,Lesotho,2016,Male,Stroke,7.63
+2934,Ambient air pollution attributable death rate (per 100 000 population),Africa,Chad,2016,Both sexes,Stroke,7.553333333333334
+2936,Ambient air pollution attributable death rate (per 100 000 population),Africa,Lesotho,2016,Both sexes,Chronic obstructive pulmonary disease,7.786666666666666
+2937,Ambient air pollution attributable death rate (per 100 000 population),Africa,Egypt,2016,Male,Chronic obstructive pulmonary disease,7.640000000000001
+2941,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eritrea,2016,Male,Stroke,7.640000000000001
+2942,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Africa,2016,Male,Chronic obstructive pulmonary disease,7.866666666666667
+2948,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mali,2016,Female,Stroke,7.653333333333333
+2950,Ambient air pollution attributable death rate (per 100 000 population),Africa,Liberia,2016,Male,Ischaemic heart disease,7.640000000000001
+2954,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Sudan,2016,Female,Ischaemic heart disease,7.6433333333333335
+2957,Ambient air pollution attributable death rate (per 100 000 population),Africa,Niger,2016,Female,Stroke,7.736666666666667
+2964,Ambient air pollution attributable death rate (per 100 000 population),Africa,Benin,2016,Female,Stroke,7.859999999999999
+2967,Ambient air pollution attributable death rate (per 100 000 population),Africa,Comoros,2016,Female,Ischaemic heart disease,7.78
+2970,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sudan,2016,Male,Stroke,7.863333333333334
+2972,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sierra Leone,2016,Both sexes,Stroke,7.876666666666666
+2978,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cameroon,2016,Male,Stroke,7.926666666666667
+2980,Ambient air pollution attributable death rate (per 100 000 population),Africa,Nigeria,2016,Female,Stroke,7.919999999999999
+2983,Ambient air pollution attributable death rate (per 100 000 population),Africa,Tunisia,2016,Female,Stroke,8.183333333333334
+2987,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eritrea,2016,Both sexes,Stroke,7.97
+2992,Ambient air pollution attributable death rate (per 100 000 population),Africa,Egypt,2016,Both sexes,Total,70.69333333333334
+2994,Ambient air pollution attributable death rate (per 100 000 population),Africa,Niger,2016,Male,Total,71.83
+3005,Ambient air pollution attributable death rate (per 100 000 population),Africa,Nigeria,2016,Male,Total,75.77333333333333
+3006,Ambient air pollution attributable death rate (per 100 000 population),Africa,Nigeria,2016,Both sexes,Total,75.91
+3008,Ambient air pollution attributable death rate (per 100 000 population),Africa,Nigeria,2016,Female,Total,76.03666666666668
+3011,Ambient air pollution attributable death rate (per 100 000 population),Africa,Egypt,2016,Male,Total,77.53333333333335
+3015,Ambient air pollution attributable death rate (per 100 000 population),Africa,Chad,2016,Female,Total,79.3
+3020,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Sudan,2016,Both sexes,Ischaemic heart disease,7.993333333333333
+3021,Ambient air pollution attributable death rate (per 100 000 population),Africa,Chad,2016,Female,Stroke,8.023333333333333
+3023,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritius,2016,Male,Chronic obstructive pulmonary disease,8.43
+3025,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burundi,2016,Male,Ischaemic heart disease,8.03
+3036,Ambient air pollution attributable death rate (per 100 000 population),Africa,Botswana,2016,Male,Ischaemic heart disease,8.08
+3042,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eswatini,2016,Female,Ischaemic heart disease,8.12
+3047,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eritrea,2016,Female,Ischaemic heart disease,8.156666666666666
+3048,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritius,2016,Both sexes,Stroke,8.75
+3052,Ambient air pollution attributable death rate (per 100 000 population),Africa,Congo,2016,Male,Ischaemic heart disease,8.186666666666667
+3059,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cameroon,2016,Both sexes,Stroke,8.293333333333333
+3060,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eritrea,2016,Female,Stroke,8.31
+3063,Ambient air pollution attributable death rate (per 100 000 population),Africa,Botswana,2016,Both sexes,Lower respiratory infections,8.456666666666665
+3064,Ambient air pollution attributable death rate (per 100 000 population),Africa,South Sudan,2016,Male,Ischaemic heart disease,8.346666666666666
+3068,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ethiopia,2016,Both sexes,Ischaemic heart disease,8.383333333333333
+3073,Ambient air pollution attributable death rate (per 100 000 population),Africa,Malawi,2016,Female,Lower respiratory infections,8.62
+3074,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gabon,2016,Male,Ischaemic heart disease,8.44
+3089,Ambient air pollution attributable death rate (per 100 000 population),Africa,Kenya,2016,Female,Lower respiratory infections,8.68
+3091,Ambient air pollution attributable death rate (per 100 000 population),Africa,Somalia,2016,Female,Ischaemic heart disease,8.606666666666667
+3093,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cameroon,2016,Female,Stroke,8.69
+3094,Ambient air pollution attributable death rate (per 100 000 population),Africa,Namibia,2016,Male,Ischaemic heart disease,8.633333333333333
+3104,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ghana,2016,Both sexes,Stroke,8.833333333333334
+3105,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ghana,2016,Male,Ischaemic heart disease,8.72
+3106,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mali,2016,Male,Ischaemic heart disease,8.713333333333333
+3107,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sierra Leone,2016,Female,Stroke,8.813333333333333
+3108,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sudan,2016,Both sexes,Stroke,8.833333333333334
+3116,Ambient air pollution attributable death rate (per 100 000 population),Africa,Lesotho,2016,Male,Ischaemic heart disease,8.806666666666667
+3120,Ambient air pollution attributable death rate (per 100 000 population),Africa,Seychelles,2016,Female,Lower respiratory infections,9.096666666666666
+3121,Ambient air pollution attributable death rate (per 100 000 population),Africa,Congo,2016,Both sexes,Ischaemic heart disease,8.856666666666667
+3124,Ambient air pollution attributable death rate (per 100 000 population),Africa,Comoros,2016,Both sexes,Ischaemic heart disease,8.866666666666667
+3127,Ambient air pollution attributable death rate (per 100 000 population),Africa,Namibia,2016,Both sexes,Ischaemic heart disease,8.913333333333334
+3128,Ambient air pollution attributable death rate (per 100 000 population),Africa,Côte d’Ivoire,2016,Female,Stroke,8.983333333333333
+3129,Ambient air pollution attributable death rate (per 100 000 population),Africa,Central African Republic,2016,Male,Stroke,8.946666666666667
+3130,Ambient air pollution attributable death rate (per 100 000 population),Africa,Lesotho,2016,Male,Chronic obstructive pulmonary disease,9.226666666666667
+3133,Ambient air pollution attributable death rate (per 100 000 population),Africa,Côte d’Ivoire,2016,Both sexes,Stroke,8.996666666666666
+3134,Ambient air pollution attributable death rate (per 100 000 population),Africa,Côte d’Ivoire,2016,Male,Stroke,8.996666666666668
+3135,Ambient air pollution attributable death rate (per 100 000 population),Africa,Kenya,2016,Both sexes,Lower respiratory infections,9.066666666666666
+3149,Ambient air pollution attributable death rate (per 100 000 population),Africa,Chad,2016,Both sexes,Total,83.56
+3161,Ambient air pollution attributable death rate (per 100 000 population),Africa,Chad,2016,Male,Total,87.82333333333332
+3173,Ambient air pollution attributable death rate (per 100 000 population),Africa,Mauritius,2016,Male,Stroke,9.376666666666667
+3176,Ambient air pollution attributable death rate (per 100 000 population),Africa,Seychelles,2016,Male,Stroke,9.196666666666667
+3182,Ambient air pollution attributable death rate (per 100 000 population),Africa,Tunisia,2016,Both sexes,Stroke,9.433333333333334
+3184,Ambient air pollution attributable death rate (per 100 000 population),Africa,Namibia,2016,Female,Ischaemic heart disease,9.153333333333332
+3185,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gambia,2016,Female,Ischaemic heart disease,9.18
+3186,Ambient air pollution attributable death rate (per 100 000 population),Africa,Somalia,2016,Both sexes,Ischaemic heart disease,9.15
+3189,Ambient air pollution attributable death rate (per 100 000 population),Africa,Botswana,2016,Both sexes,Ischaemic heart disease,9.159999999999998
+3190,Ambient air pollution attributable death rate (per 100 000 population),Africa,Gabon,2016,Both sexes,Ischaemic heart disease,9.206666666666667
+3197,Ambient air pollution attributable death rate (per 100 000 population),Africa,Egypt,2016,Both sexes,Lower respiratory infections,9.26
+3199,Ambient air pollution attributable death rate (per 100 000 population),Africa,Malawi,2016,Both sexes,Lower respiratory infections,9.466666666666667
+3200,Ambient air pollution attributable death rate (per 100 000 population),Africa,Botswana,2016,Male,Lower respiratory infections,9.423333333333332
+3208,Ambient air pollution attributable death rate (per 100 000 population),Africa,Benin,2016,Female,Ischaemic heart disease,9.316666666666665
+3210,Ambient air pollution attributable death rate (per 100 000 population),Africa,Kenya,2016,Male,Lower respiratory infections,9.453333333333333
+3215,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burkina Faso,2016,Both sexes,Ischaemic heart disease,9.39
+3216,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burkina Faso,2016,Male,Ischaemic heart disease,9.386666666666667
+3219,Ambient air pollution attributable death rate (per 100 000 population),Africa,Burkina Faso,2016,Female,Ischaemic heart disease,9.403333333333334
+3227,Ambient air pollution attributable death rate (per 100 000 population),Africa,Ethiopia,2016,Male,Ischaemic heart disease,9.466666666666667
+3232,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea-Bissau,2016,Male,Ischaemic heart disease,9.493333333333334
+3235,Ambient air pollution attributable death rate (per 100 000 population),Africa,Congo,2016,Female,Ischaemic heart disease,9.493333333333334
+3238,Ambient air pollution attributable death rate (per 100 000 population),Africa,Benin,2016,Both sexes,Ischaemic heart disease,9.540000000000001
+3240,Ambient air pollution attributable death rate (per 100 000 population),Africa,Cameroon,2016,Female,Ischaemic heart disease,9.576666666666666
+3245,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea-Bissau,2016,Both sexes,Ischaemic heart disease,9.643333333333333
+3252,Ambient air pollution attributable death rate (per 100 000 population),Africa,Sudan,2016,Female,Stroke,9.790000000000001
+3255,Ambient air pollution attributable death rate (per 100 000 population),Africa,Somalia,2016,Male,Ischaemic heart disease,9.700000000000001
+3257,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eritrea,2016,Both sexes,Ischaemic heart disease,9.726666666666667
+3261,Ambient air pollution attributable death rate (per 100 000 population),Africa,Lesotho,2016,Both sexes,Stroke,10.01
+3263,Ambient air pollution attributable death rate (per 100 000 population),Africa,Guinea-Bissau,2016,Female,Ischaemic heart disease,9.786666666666667
+3265,Ambient air pollution attributable death rate (per 100 000 population),Africa,Benin,2016,Male,Ischaemic heart disease,9.743333333333334
+3269,Ambient air pollution attributable death rate (per 100 000 population),Africa,Eswatini,2016,Female,Lower respiratory infections,10.19
+3274,Ambient air pollution attributable death rate (per 100 000 population),Africa,Madagascar,2016,Female,Lower respiratory infections,10.12
+3280,Ambient air pollution attributable death rate (per 100 000 population),Africa,Central African Republic,2016,Both sexes,Stroke,9.97

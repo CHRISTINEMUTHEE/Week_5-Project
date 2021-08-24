@@ -1,0 +1,988 @@
+,Indicator,Continent,Country,Year,Status,Average_PM_Value
+18,Concentrations of fine particulate matter (PM2.5),Africa,Mauritius,2016,Total,11.426666666666668
+43,Concentrations of fine particulate matter (PM2.5),Africa,Mauritius,2016,Rural,12.173333333333332
+81,Concentrations of fine particulate matter (PM2.5),Africa,Seychelles,2016,Urban,15.043333333333331
+82,Concentrations of fine particulate matter (PM2.5),Africa,Seychelles,2016,Total,15.013333333333334
+83,Concentrations of fine particulate matter (PM2.5),Africa,Seychelles,2016,Rural,14.963333333333333
+103,Concentrations of fine particulate matter (PM2.5),Africa,Comoros,2016,Rural,16.273333333333333
+106,Concentrations of fine particulate matter (PM2.5),Africa,Comoros,2016,Total,16.37666666666667
+111,Concentrations of fine particulate matter (PM2.5),Africa,Comoros,2016,Urban,16.71666666666667
+137,Concentrations of fine particulate matter (PM2.5),Africa,Madagascar,2016,Rural,19.05666666666667
+145,Concentrations of fine particulate matter (PM2.5),Africa,Madagascar,2016,Total,19.313333333333333
+154,Concentrations of fine particulate matter (PM2.5),Africa,Madagascar,2016,Urban,20.066666666666666
+182,Concentrations of fine particulate matter (PM2.5),Africa,Eswatini,2016,Urban,20.973333333333333
+183,Concentrations of fine particulate matter (PM2.5),Africa,Eswatini,2016,Total,20.923333333333332
+184,Concentrations of fine particulate matter (PM2.5),Africa,Mozambique,2016,Urban,21.63
+185,Concentrations of fine particulate matter (PM2.5),Africa,Eswatini,2016,Rural,20.816666666666666
+193,Concentrations of fine particulate matter (PM2.5),Africa,Namibia,2016,Urban,23.03333333333333
+209,Concentrations of fine particulate matter (PM2.5),Africa,Mozambique,2016,Total,23.316666666666666
+216,Concentrations of fine particulate matter (PM2.5),Africa,Mozambique,2016,Rural,24.600000000000005
+219,Concentrations of fine particulate matter (PM2.5),Africa,South Africa,2016,Rural,23.566666666666666
+242,Concentrations of fine particulate matter (PM2.5),Africa,Namibia,2016,Total,26.396666666666665
+243,Concentrations of fine particulate matter (PM2.5),Africa,Kenya,2016,Urban,26.34
+244,Concentrations of fine particulate matter (PM2.5),Africa,Lesotho,2016,Rural,26.103333333333335
+246,Concentrations of fine particulate matter (PM2.5),Africa,Lesotho,2016,Total,26.38
+248,Concentrations of fine particulate matter (PM2.5),Africa,Zimbabwe,2016,Urban,27.639999999999997
+249,Concentrations of fine particulate matter (PM2.5),Africa,United Republic of Tanzania,2016,Urban,26.27333333333333
+250,Concentrations of fine particulate matter (PM2.5),Africa,Malawi,2016,Urban,28.616666666666664
+255,Concentrations of fine particulate matter (PM2.5),Africa,Botswana,2016,Urban,26.74333333333333
+256,Concentrations of fine particulate matter (PM2.5),Africa,South Africa,2016,Total,26.973333333333333
+258,Concentrations of fine particulate matter (PM2.5),Africa,Botswana,2016,Total,26.786666666666665
+259,Concentrations of fine particulate matter (PM2.5),Africa,Zimbabwe,2016,Total,27.77
+261,Concentrations of fine particulate matter (PM2.5),Africa,Botswana,2016,Rural,27.179999999999996
+264,Concentrations of fine particulate matter (PM2.5),Africa,Zimbabwe,2016,Rural,28.01
+268,Concentrations of fine particulate matter (PM2.5),Africa,Malawi,2016,Total,29.320000000000004
+270,Concentrations of fine particulate matter (PM2.5),Africa,Malawi,2016,Rural,29.526666666666667
+271,Concentrations of fine particulate matter (PM2.5),Africa,Lesotho,2016,Urban,27.25
+280,Concentrations of fine particulate matter (PM2.5),Africa,Kenya,2016,Total,28.76
+281,Concentrations of fine particulate matter (PM2.5),Africa,United Republic of Tanzania,2016,Total,28.836666666666662
+286,Concentrations of fine particulate matter (PM2.5),Africa,Kenya,2016,Rural,29.423333333333332
+287,Concentrations of fine particulate matter (PM2.5),Africa,United Republic of Tanzania,2016,Rural,29.48
+288,Concentrations of fine particulate matter (PM2.5),Africa,Namibia,2016,Rural,29.61
+302,Concentrations of fine particulate matter (PM2.5),Africa,Zambia,2016,Urban,31.863333333333333
+303,Concentrations of fine particulate matter (PM2.5),Africa,South Africa,2016,Urban,30.28333333333333
+314,Concentrations of fine particulate matter (PM2.5),Africa,Zambia,2016,Total,33.75333333333333
+316,Concentrations of fine particulate matter (PM2.5),Africa,Ethiopia,2016,Urban,33.63333333333333
+317,Concentrations of fine particulate matter (PM2.5),Africa,Zambia,2016,Rural,34.4
+319,Concentrations of fine particulate matter (PM2.5),Africa,Ethiopia,2016,Total,34.71333333333333
+321,Concentrations of fine particulate matter (PM2.5),Africa,Ethiopia,2016,Rural,34.92333333333334
+335,Concentrations of fine particulate matter (PM2.5),Africa,Algeria,2016,Urban,37.69
+337,Concentrations of fine particulate matter (PM2.5),Africa,South Sudan,2016,Urban,38.083333333333336
+338,Concentrations of fine particulate matter (PM2.5),Africa,South Sudan,2016,Total,38.25666666666667
+339,Concentrations of fine particulate matter (PM2.5),Africa,South Sudan,2016,Rural,38.29333333333333
+343,Concentrations of fine particulate matter (PM2.5),Africa,Algeria,2016,Total,39.56333333333333
+345,Concentrations of fine particulate matter (PM2.5),Africa,Eritrea,2016,Urban,41.20333333333334
+347,Concentrations of fine particulate matter (PM2.5),Africa,Burundi,2016,Rural,40.43666666666667
+349,Concentrations of fine particulate matter (PM2.5),Africa,Burundi,2016,Total,41.03666666666667
+352,Concentrations of fine particulate matter (PM2.5),Africa,Eritrea,2016,Total,41.61333333333334
+354,Concentrations of fine particulate matter (PM2.5),Africa,Burundi,2016,Urban,42.28
+356,Concentrations of fine particulate matter (PM2.5),Africa,Angola,2016,Rural,41.68
+360,Concentrations of fine particulate matter (PM2.5),Africa,Eritrea,2016,Rural,41.85999999999999
+363,Concentrations of fine particulate matter (PM2.5),Africa,Angola,2016,Total,42.879999999999995
+365,Concentrations of fine particulate matter (PM2.5),Africa,Sao Tome and Principe,2016,Urban,41.973333333333336
+367,Concentrations of fine particulate matter (PM2.5),Africa,Benin,2016,Urban,40.663333333333334
+369,Concentrations of fine particulate matter (PM2.5),Africa,Sao Tome and Principe,2016,Total,42.446666666666665
+370,Concentrations of fine particulate matter (PM2.5),Africa,Sao Tome and Principe,2016,Rural,42.31666666666667
+371,Concentrations of fine particulate matter (PM2.5),Africa,Rwanda,2016,Urban,42.65666666666667
+372,Concentrations of fine particulate matter (PM2.5),Africa,Algeria,2016,Rural,45.13333333333333
+373,Concentrations of fine particulate matter (PM2.5),Africa,Rwanda,2016,Total,42.98333333333333
+375,Concentrations of fine particulate matter (PM2.5),Africa,Rwanda,2016,Rural,43.10666666666666
+378,Concentrations of fine particulate matter (PM2.5),Africa,Angola,2016,Urban,46.00333333333333
+379,Concentrations of fine particulate matter (PM2.5),Africa,Gabon,2016,Rural,46.339999999999996
+380,Concentrations of fine particulate matter (PM2.5),Africa,Gabon,2016,Total,44.85333333333333
+383,Concentrations of fine particulate matter (PM2.5),Africa,Gabon,2016,Urban,45.916666666666664
+384,Concentrations of fine particulate matter (PM2.5),Africa,Congo,2016,Rural,49.31999999999999
+385,Concentrations of fine particulate matter (PM2.5),Africa,Uganda,2016,Rural,44.21333333333334
+386,Concentrations of fine particulate matter (PM2.5),Africa,Democratic Republic of the Congo,2016,Rural,47.36666666666667
+388,Concentrations of fine particulate matter (PM2.5),Africa,Benin,2016,Total,48.129999999999995
+391,Concentrations of fine particulate matter (PM2.5),Africa,Democratic Republic of the Congo,2016,Total,47.583333333333336
+392,Concentrations of fine particulate matter (PM2.5),Africa,Uganda,2016,Total,44.86666666666667
+394,Concentrations of fine particulate matter (PM2.5),Africa,Congo,2016,Total,49.03666666666667
+395,Concentrations of fine particulate matter (PM2.5),Africa,Central African Republic,2016,Urban,49.51333333333334
+397,Concentrations of fine particulate matter (PM2.5),Africa,Central African Republic,2016,Total,49.9
+398,Concentrations of fine particulate matter (PM2.5),Africa,Democratic Republic of the Congo,2016,Urban,48.74666666666667
+399,Concentrations of fine particulate matter (PM2.5),Africa,Central African Republic,2016,Rural,49.64000000000001
+403,Concentrations of fine particulate matter (PM2.5),Africa,Equatorial Guinea,2016,Rural,50.52333333333333
+404,Concentrations of fine particulate matter (PM2.5),Africa,Congo,2016,Urban,52.69
+405,Concentrations of fine particulate matter (PM2.5),Africa,Equatorial Guinea,2016,Total,50.67666666666667
+407,Concentrations of fine particulate matter (PM2.5),Africa,Equatorial Guinea,2016,Urban,53.026666666666664
+408,Concentrations of fine particulate matter (PM2.5),Africa,Togo,2016,Rural,51.46
+409,Concentrations of fine particulate matter (PM2.5),Africa,Benin,2016,Rural,53.23
+410,Concentrations of fine particulate matter (PM2.5),Africa,Togo,2016,Total,50.24333333333333
+413,Concentrations of fine particulate matter (PM2.5),Africa,Uganda,2016,Urban,48.076666666666675
+416,Concentrations of fine particulate matter (PM2.5),Africa,Togo,2016,Urban,49.04333333333333
+420,Concentrations of fine particulate matter (PM2.5),Africa,Nigeria,2016,Urban,58.126666666666665
+432,Concentrations of fine particulate matter (PM2.5),Africa,Ghana,2016,Rural,56.583333333333336
+433,Concentrations of fine particulate matter (PM2.5),Africa,Liberia,2016,Urban,57.44
+434,Concentrations of fine particulate matter (PM2.5),Africa,Liberia,2016,Total,58.166666666666664
+435,Concentrations of fine particulate matter (PM2.5),Africa,Liberia,2016,Rural,58.71333333333333
+437,Concentrations of fine particulate matter (PM2.5),Africa,Guinea,2016,Rural,61.169999999999995
+438,Concentrations of fine particulate matter (PM2.5),Africa,Sierra Leone,2016,Rural,58.11666666666667
+439,Concentrations of fine particulate matter (PM2.5),Africa,Guinea,2016,Total,61.00666666666666
+440,Concentrations of fine particulate matter (PM2.5),Africa,Guinea-Bissau,2016,Rural,60.050000000000004
+441,Concentrations of fine particulate matter (PM2.5),Africa,Guinea,2016,Urban,63.50999999999999
+443,Concentrations of fine particulate matter (PM2.5),Africa,Burkina Faso,2016,Urban,65.07666666666667
+444,Concentrations of fine particulate matter (PM2.5),Africa,Sierra Leone,2016,Total,59.80666666666667
+445,Concentrations of fine particulate matter (PM2.5),Africa,Guinea-Bissau,2016,Total,60.06666666666666
+446,Concentrations of fine particulate matter (PM2.5),Africa,Ghana,2016,Total,59.44333333333333
+447,Concentrations of fine particulate matter (PM2.5),Africa,Guinea-Bissau,2016,Urban,59.60333333333333
+450,Concentrations of fine particulate matter (PM2.5),Africa,Ghana,2016,Urban,60.4
+451,Concentrations of fine particulate matter (PM2.5),Africa,Burkina Faso,2016,Total,64.56
+452,Concentrations of fine particulate matter (PM2.5),Africa,Sierra Leone,2016,Urban,61.870000000000005
+455,Concentrations of fine particulate matter (PM2.5),Africa,Burkina Faso,2016,Rural,65.03333333333335
+457,Concentrations of fine particulate matter (PM2.5),Africa,Côte d’Ivoire,2016,Rural,63.29333333333333
+458,Concentrations of fine particulate matter (PM2.5),Africa,Gambia,2016,Rural,62.78666666666666
+459,Concentrations of fine particulate matter (PM2.5),Africa,Côte d’Ivoire,2016,Total,63.12
+460,Concentrations of fine particulate matter (PM2.5),Africa,Gambia,2016,Total,62.076666666666675
+461,Concentrations of fine particulate matter (PM2.5),Africa,Gambia,2016,Urban,62.49000000000001
+462,Concentrations of fine particulate matter (PM2.5),Africa,Côte d’Ivoire,2016,Urban,62.63666666666666
+466,Concentrations of fine particulate matter (PM2.5),Africa,Senegal,2016,Rural,65.78666666666668
+467,Concentrations of fine particulate matter (PM2.5),Africa,Senegal,2016,Urban,62.27666666666667
+468,Concentrations of fine particulate matter (PM2.5),Africa,Senegal,2016,Total,63.61333333333334
+485,Concentrations of fine particulate matter (PM2.5),Africa,Nigeria,2016,Total,74.08666666666666
+487,Concentrations of fine particulate matter (PM2.5),Africa,Cabo Verde,2016,Urban,68.8
+488,Concentrations of fine particulate matter (PM2.5),Africa,Cabo Verde,2016,Total,69.50333333333333
+492,Concentrations of fine particulate matter (PM2.5),Africa,Cabo Verde,2016,Rural,70.66000000000001
+493,Concentrations of fine particulate matter (PM2.5),Africa,Mali,2016,Urban,75.10333333333334
+497,Concentrations of fine particulate matter (PM2.5),Africa,Chad,2016,Rural,77.83666666666666
+498,Concentrations of fine particulate matter (PM2.5),Africa,Mali,2016,Total,73.95666666666666
+500,Concentrations of fine particulate matter (PM2.5),Africa,Mali,2016,Rural,72.33
+502,Concentrations of fine particulate matter (PM2.5),Africa,Chad,2016,Total,80.32333333333334
+503,Concentrations of fine particulate matter (PM2.5),Africa,Cameroon,2016,Urban,71.71
+505,Concentrations of fine particulate matter (PM2.5),Africa,Cameroon,2016,Total,73.83333333333333
+506,Concentrations of fine particulate matter (PM2.5),Africa,Cameroon,2016,Rural,76.88333333333333
+508,Concentrations of fine particulate matter (PM2.5),Africa,Chad,2016,Urban,89.30666666666667
+523,Concentrations of fine particulate matter (PM2.5),Africa,Mauritania,2016,Rural,84.19
+525,Concentrations of fine particulate matter (PM2.5),Africa,Nigeria,2016,Rural,85.68
+528,Concentrations of fine particulate matter (PM2.5),Africa,Mauritania,2016,Total,84.33333333333333
+530,Concentrations of fine particulate matter (PM2.5),Africa,Mauritania,2016,Urban,88.96333333333332
+553,Concentrations of fine particulate matter (PM2.5),Africa,Niger,2016,Urban,117.24000000000001
+562,Concentrations of fine particulate matter (PM2.5),Africa,Mauritius,2016,Urban,10.686666666666667
+574,Concentrations of fine particulate matter (PM2.5),Africa,Niger,2016,Total,120.94333333333334
+575,Concentrations of fine particulate matter (PM2.5),Africa,Niger,2016,Rural,120.23
+592,Concentrations of fine particulate matter (PM2.5),Africa,Mauritius,2015,Total,11.540000000000001
+622,Concentrations of fine particulate matter (PM2.5),Africa,Mauritius,2015,Rural,12.276666666666666
+640,Concentrations of fine particulate matter (PM2.5),Africa,Seychelles,2015,Rural,14.246666666666668
+644,Concentrations of fine particulate matter (PM2.5),Africa,Seychelles,2015,Total,14.19
+645,Concentrations of fine particulate matter (PM2.5),Africa,Seychelles,2015,Urban,14.233333333333334
+689,Concentrations of fine particulate matter (PM2.5),Africa,Comoros,2015,Rural,17.2
+691,Concentrations of fine particulate matter (PM2.5),Africa,Comoros,2015,Total,17.3
+697,Concentrations of fine particulate matter (PM2.5),Africa,Comoros,2015,Urban,17.5
+732,Concentrations of fine particulate matter (PM2.5),Africa,Madagascar,2015,Rural,20.169999999999998
+735,Concentrations of fine particulate matter (PM2.5),Africa,Madagascar,2015,Total,20.64
+746,Concentrations of fine particulate matter (PM2.5),Africa,Madagascar,2015,Urban,21.613333333333333
+788,Concentrations of fine particulate matter (PM2.5),Africa,Mozambique,2015,Urban,23.850000000000005
+795,Concentrations of fine particulate matter (PM2.5),Africa,Kenya,2015,Urban,25.02
+801,Concentrations of fine particulate matter (PM2.5),Africa,Mozambique,2015,Total,25.063333333333333
+806,Concentrations of fine particulate matter (PM2.5),Africa,Eswatini,2015,Urban,23.929999999999996
+810,Concentrations of fine particulate matter (PM2.5),Africa,Eswatini,2015,Total,24.296666666666667
+812,Concentrations of fine particulate matter (PM2.5),Africa,Eswatini,2015,Rural,24.363333333333333
+815,Concentrations of fine particulate matter (PM2.5),Africa,Mozambique,2015,Rural,26.27333333333333
+817,Concentrations of fine particulate matter (PM2.5),Africa,Namibia,2015,Urban,26.11
+823,Concentrations of fine particulate matter (PM2.5),Africa,United Republic of Tanzania,2015,Urban,25.74
+826,Concentrations of fine particulate matter (PM2.5),Africa,South Africa,2015,Rural,25.863333333333333
+832,Concentrations of fine particulate matter (PM2.5),Africa,Kenya,2015,Total,27.763333333333332
+834,Concentrations of fine particulate matter (PM2.5),Africa,Zimbabwe,2015,Urban,28.606666666666666
+838,Concentrations of fine particulate matter (PM2.5),Africa,United Republic of Tanzania,2015,Total,27.666666666666668
+845,Concentrations of fine particulate matter (PM2.5),Africa,Malawi,2015,Urban,30.736666666666668
+846,Concentrations of fine particulate matter (PM2.5),Africa,Namibia,2015,Total,28.386666666666667
+851,Concentrations of fine particulate matter (PM2.5),Africa,United Republic of Tanzania,2015,Rural,28.21666666666667
+852,Concentrations of fine particulate matter (PM2.5),Africa,Zimbabwe,2015,Total,29.060000000000002
+854,Concentrations of fine particulate matter (PM2.5),Africa,Kenya,2015,Rural,28.623333333333335
+860,Concentrations of fine particulate matter (PM2.5),Africa,Zimbabwe,2015,Rural,29.23333333333333
+866,Concentrations of fine particulate matter (PM2.5),Africa,South Africa,2015,Total,28.916666666666668
+867,Concentrations of fine particulate matter (PM2.5),Africa,Malawi,2015,Total,31.923333333333332
+868,Concentrations of fine particulate matter (PM2.5),Africa,Botswana,2015,Rural,29.20333333333333
+870,Concentrations of fine particulate matter (PM2.5),Africa,Botswana,2015,Total,29.136666666666667
+871,Concentrations of fine particulate matter (PM2.5),Africa,Malawi,2015,Rural,32.21666666666667
+876,Concentrations of fine particulate matter (PM2.5),Africa,Botswana,2015,Urban,30.35666666666667
+877,Concentrations of fine particulate matter (PM2.5),Africa,Lesotho,2015,Rural,30.786666666666665
+878,Concentrations of fine particulate matter (PM2.5),Africa,Lesotho,2015,Total,31.043333333333333
+879,Concentrations of fine particulate matter (PM2.5),Africa,Namibia,2015,Rural,30.866666666666664
+885,Concentrations of fine particulate matter (PM2.5),Africa,Zambia,2015,Urban,32.876666666666665
+886,Concentrations of fine particulate matter (PM2.5),Africa,Lesotho,2015,Urban,31.683333333333334
+895,Concentrations of fine particulate matter (PM2.5),Africa,South Africa,2015,Urban,31.873333333333335
+901,Concentrations of fine particulate matter (PM2.5),Africa,Ethiopia,2015,Urban,34.086666666666666
+903,Concentrations of fine particulate matter (PM2.5),Africa,Zambia,2015,Total,35.163333333333334
+908,Concentrations of fine particulate matter (PM2.5),Africa,Ethiopia,2015,Total,35.33
+909,Concentrations of fine particulate matter (PM2.5),Africa,Ethiopia,2015,Rural,35.56
+913,Concentrations of fine particulate matter (PM2.5),Africa,Zambia,2015,Rural,36.29666666666667
+914,Concentrations of fine particulate matter (PM2.5),Africa,Algeria,2015,Urban,37.23
+917,Concentrations of fine particulate matter (PM2.5),Africa,Algeria,2015,Total,38.46333333333333
+920,Concentrations of fine particulate matter (PM2.5),Africa,Eritrea,2015,Urban,41.17
+923,Concentrations of fine particulate matter (PM2.5),Africa,Burundi,2015,Rural,39.38333333333333
+924,Concentrations of fine particulate matter (PM2.5),Africa,Burundi,2015,Total,39.99666666666667
+926,Concentrations of fine particulate matter (PM2.5),Africa,Burundi,2015,Urban,41.263333333333335
+927,Concentrations of fine particulate matter (PM2.5),Africa,South Sudan,2015,Urban,40.54666666666667
+929,Concentrations of fine particulate matter (PM2.5),Africa,South Sudan,2015,Total,40.76333333333333
+930,Concentrations of fine particulate matter (PM2.5),Africa,South Sudan,2015,Rural,40.79
+932,Concentrations of fine particulate matter (PM2.5),Africa,Sao Tome and Principe,2015,Urban,40.309999999999995
+934,Concentrations of fine particulate matter (PM2.5),Africa,Eritrea,2015,Total,42.0
+936,Concentrations of fine particulate matter (PM2.5),Africa,Sao Tome and Principe,2015,Total,40.75666666666667
+937,Concentrations of fine particulate matter (PM2.5),Africa,Angola,2015,Rural,41.67666666666667
+938,Concentrations of fine particulate matter (PM2.5),Africa,Algeria,2015,Rural,42.56666666666666
+939,Concentrations of fine particulate matter (PM2.5),Africa,Sao Tome and Principe,2015,Rural,40.78333333333333
+941,Concentrations of fine particulate matter (PM2.5),Africa,Eritrea,2015,Rural,42.413333333333334
+942,Concentrations of fine particulate matter (PM2.5),Africa,Angola,2015,Total,42.52333333333333
+943,Concentrations of fine particulate matter (PM2.5),Africa,Rwanda,2015,Urban,41.00666666666667
+944,Concentrations of fine particulate matter (PM2.5),Africa,Rwanda,2015,Total,41.32
+945,Concentrations of fine particulate matter (PM2.5),Africa,Rwanda,2015,Rural,41.48
+948,Concentrations of fine particulate matter (PM2.5),Africa,Angola,2015,Urban,44.28
+950,Concentrations of fine particulate matter (PM2.5),Africa,Gabon,2015,Rural,44.89333333333334
+951,Concentrations of fine particulate matter (PM2.5),Africa,Benin,2015,Urban,41.14666666666667
+954,Concentrations of fine particulate matter (PM2.5),Africa,Gabon,2015,Total,43.50999999999999
+958,Concentrations of fine particulate matter (PM2.5),Africa,Gabon,2015,Urban,44.07333333333333
+961,Concentrations of fine particulate matter (PM2.5),Africa,Congo,2015,Rural,47.69333333333333
+962,Concentrations of fine particulate matter (PM2.5),Africa,Uganda,2015,Rural,42.91
+963,Concentrations of fine particulate matter (PM2.5),Africa,Uganda,2015,Total,43.193333333333335
+964,Concentrations of fine particulate matter (PM2.5),Africa,Democratic Republic of the Congo,2015,Rural,47.4
+965,Concentrations of fine particulate matter (PM2.5),Africa,Congo,2015,Total,47.73333333333333
+966,Concentrations of fine particulate matter (PM2.5),Africa,Democratic Republic of the Congo,2015,Total,47.46
+967,Concentrations of fine particulate matter (PM2.5),Africa,Benin,2015,Total,49.25
+968,Concentrations of fine particulate matter (PM2.5),Africa,Democratic Republic of the Congo,2015,Urban,48.42666666666667
+970,Concentrations of fine particulate matter (PM2.5),Africa,Congo,2015,Urban,50.68
+972,Concentrations of fine particulate matter (PM2.5),Africa,Equatorial Guinea,2015,Rural,49.173333333333325
+973,Concentrations of fine particulate matter (PM2.5),Africa,Uganda,2015,Urban,45.846666666666664
+974,Concentrations of fine particulate matter (PM2.5),Africa,Central African Republic,2015,Urban,50.776666666666664
+975,Concentrations of fine particulate matter (PM2.5),Africa,Equatorial Guinea,2015,Total,49.26333333333334
+981,Concentrations of fine particulate matter (PM2.5),Africa,Central African Republic,2015,Total,51.333333333333336
+984,Concentrations of fine particulate matter (PM2.5),Africa,Equatorial Guinea,2015,Urban,52.15
+986,Concentrations of fine particulate matter (PM2.5),Africa,Central African Republic,2015,Rural,51.56333333333333
+988,Concentrations of fine particulate matter (PM2.5),Africa,Togo,2015,Rural,52.57333333333333
+992,Concentrations of fine particulate matter (PM2.5),Africa,Togo,2015,Total,51.35666666666666
+993,Concentrations of fine particulate matter (PM2.5),Africa,Benin,2015,Rural,54.97
+994,Concentrations of fine particulate matter (PM2.5),Africa,Togo,2015,Urban,49.28333333333333
+1000,Concentrations of fine particulate matter (PM2.5),Africa,Nigeria,2015,Urban,61.18666666666667
+1007,Concentrations of fine particulate matter (PM2.5),Africa,Ghana,2015,Rural,57.24
+1009,Concentrations of fine particulate matter (PM2.5),Africa,Liberia,2015,Rural,60.410000000000004
+1011,Concentrations of fine particulate matter (PM2.5),Africa,Liberia,2015,Total,60.60666666666666
+1012,Concentrations of fine particulate matter (PM2.5),Africa,Ghana,2015,Total,59.06666666666666
+1014,Concentrations of fine particulate matter (PM2.5),Africa,Liberia,2015,Urban,60.89000000000001
+1016,Concentrations of fine particulate matter (PM2.5),Africa,Guinea,2015,Rural,64.12666666666667
+1017,Concentrations of fine particulate matter (PM2.5),Africa,Ghana,2015,Urban,60.120000000000005
+1018,Concentrations of fine particulate matter (PM2.5),Africa,Sierra Leone,2015,Rural,61.0
+1019,Concentrations of fine particulate matter (PM2.5),Africa,Guinea,2015,Total,63.89666666666667
+1022,Concentrations of fine particulate matter (PM2.5),Africa,Sierra Leone,2015,Total,62.07666666666666
+1023,Concentrations of fine particulate matter (PM2.5),Africa,Guinea,2015,Urban,66.86333333333333
+1024,Concentrations of fine particulate matter (PM2.5),Africa,Burkina Faso,2015,Urban,69.07333333333334
+1026,Concentrations of fine particulate matter (PM2.5),Africa,Côte d’Ivoire,2015,Rural,64.54
+1027,Concentrations of fine particulate matter (PM2.5),Africa,Côte d’Ivoire,2015,Total,64.40666666666668
+1029,Concentrations of fine particulate matter (PM2.5),Africa,Guinea-Bissau,2015,Rural,65.14999999999999
+1030,Concentrations of fine particulate matter (PM2.5),Africa,Sierra Leone,2015,Urban,64.31
+1031,Concentrations of fine particulate matter (PM2.5),Africa,Burkina Faso,2015,Total,68.02666666666666
+1032,Concentrations of fine particulate matter (PM2.5),Africa,Côte d’Ivoire,2015,Urban,63.26666666666667
+1033,Concentrations of fine particulate matter (PM2.5),Africa,Burkina Faso,2015,Rural,68.42666666666666
+1034,Concentrations of fine particulate matter (PM2.5),Africa,Guinea-Bissau,2015,Total,65.46
+1053,Concentrations of fine particulate matter (PM2.5),Africa,Guinea-Bissau,2015,Urban,65.05333333333333
+1054,Concentrations of fine particulate matter (PM2.5),Africa,Gambia,2015,Rural,70.95333333333333
+1055,Concentrations of fine particulate matter (PM2.5),Africa,Gambia,2015,Total,68.21
+1057,Concentrations of fine particulate matter (PM2.5),Africa,Gambia,2015,Urban,68.43333333333334
+1059,Concentrations of fine particulate matter (PM2.5),Africa,Nigeria,2015,Total,78.65333333333334
+1062,Concentrations of fine particulate matter (PM2.5),Africa,Chad,2015,Rural,81.03666666666668
+1064,Concentrations of fine particulate matter (PM2.5),Africa,Senegal,2015,Urban,69.17666666666666
+1067,Concentrations of fine particulate matter (PM2.5),Africa,Senegal,2015,Total,70.66666666666667
+1068,Concentrations of fine particulate matter (PM2.5),Africa,Chad,2015,Total,84.34333333333333
+1070,Concentrations of fine particulate matter (PM2.5),Africa,Mali,2015,Urban,80.87666666666667
+1071,Concentrations of fine particulate matter (PM2.5),Africa,Senegal,2015,Rural,73.93333333333334
+1072,Concentrations of fine particulate matter (PM2.5),Africa,Cameroon,2015,Urban,75.88333333333334
+1073,Concentrations of fine particulate matter (PM2.5),Africa,Mali,2015,Total,79.97333333333333
+1077,Concentrations of fine particulate matter (PM2.5),Africa,Mali,2015,Rural,77.56
+1078,Concentrations of fine particulate matter (PM2.5),Africa,Cameroon,2015,Total,77.49333333333333
+1080,Concentrations of fine particulate matter (PM2.5),Africa,Cameroon,2015,Rural,82.49333333333334
+1094,Concentrations of fine particulate matter (PM2.5),Africa,Chad,2015,Urban,95.75333333333333
+1096,Concentrations of fine particulate matter (PM2.5),Africa,Cabo Verde,2015,Urban,82.66666666666667
+1097,Concentrations of fine particulate matter (PM2.5),Africa,Cabo Verde,2015,Total,83.14333333333333
+1098,Concentrations of fine particulate matter (PM2.5),Africa,Cabo Verde,2015,Rural,84.57666666666667
+1103,Concentrations of fine particulate matter (PM2.5),Africa,Nigeria,2015,Rural,91.80333333333333
+1105,Concentrations of fine particulate matter (PM2.5),Africa,Mauritania,2015,Rural,93.70333333333333
+1107,Concentrations of fine particulate matter (PM2.5),Africa,Mauritania,2015,Total,91.41666666666667
+1127,Concentrations of fine particulate matter (PM2.5),Africa,Mauritania,2015,Urban,92.7
+1131,Concentrations of fine particulate matter (PM2.5),Africa,Niger,2015,Urban,116.73666666666666
+1141,Concentrations of fine particulate matter (PM2.5),Africa,Mauritius,2015,Urban,10.790000000000001
+1150,Concentrations of fine particulate matter (PM2.5),Africa,Niger,2015,Total,117.88
+1151,Concentrations of fine particulate matter (PM2.5),Africa,Niger,2015,Rural,117.10000000000001
+1170,Concentrations of fine particulate matter (PM2.5),Africa,Mauritius,2014,Total,11.560000000000002
+1196,Concentrations of fine particulate matter (PM2.5),Africa,Mauritius,2014,Rural,12.326666666666668
+1202,Concentrations of fine particulate matter (PM2.5),Africa,Seychelles,2014,Urban,13.533333333333333
+1206,Concentrations of fine particulate matter (PM2.5),Africa,Seychelles,2014,Total,13.6
+1209,Concentrations of fine particulate matter (PM2.5),Africa,Seychelles,2014,Rural,13.803333333333333
+1246,Concentrations of fine particulate matter (PM2.5),Africa,Comoros,2014,Rural,15.663333333333332
+1248,Concentrations of fine particulate matter (PM2.5),Africa,Comoros,2014,Total,15.743333333333332
+1250,Concentrations of fine particulate matter (PM2.5),Africa,Comoros,2014,Urban,15.986666666666666
+1273,Concentrations of fine particulate matter (PM2.5),Africa,Madagascar,2014,Rural,17.91
+1276,Concentrations of fine particulate matter (PM2.5),Africa,Madagascar,2014,Total,18.043333333333333
+1279,Concentrations of fine particulate matter (PM2.5),Africa,Madagascar,2014,Urban,18.403333333333332
+1319,Concentrations of fine particulate matter (PM2.5),Africa,Namibia,2014,Urban,21.606666666666666
+1335,Concentrations of fine particulate matter (PM2.5),Africa,Eswatini,2014,Urban,21.083333333333332
+1340,Concentrations of fine particulate matter (PM2.5),Africa,Eswatini,2014,Total,21.133333333333333
+1343,Concentrations of fine particulate matter (PM2.5),Africa,Eswatini,2014,Rural,21.09
+1345,Concentrations of fine particulate matter (PM2.5),Africa,Mozambique,2014,Urban,21.77
+1358,Concentrations of fine particulate matter (PM2.5),Africa,Mozambique,2014,Total,22.983333333333334
+1368,Concentrations of fine particulate matter (PM2.5),Africa,Mozambique,2014,Rural,23.959999999999997
+1369,Concentrations of fine particulate matter (PM2.5),Africa,South Africa,2014,Rural,22.96666666666667
+1373,Concentrations of fine particulate matter (PM2.5),Africa,Botswana,2014,Urban,23.676666666666666
+1374,Concentrations of fine particulate matter (PM2.5),Africa,Botswana,2014,Total,23.983333333333334
+1375,Concentrations of fine particulate matter (PM2.5),Africa,Botswana,2014,Rural,24.103333333333335
+1380,Concentrations of fine particulate matter (PM2.5),Africa,Namibia,2014,Total,24.840000000000003
+1404,Concentrations of fine particulate matter (PM2.5),Africa,Zimbabwe,2014,Urban,27.12
+1407,Concentrations of fine particulate matter (PM2.5),Africa,South Africa,2014,Total,25.52
+1408,Concentrations of fine particulate matter (PM2.5),Africa,United Republic of Tanzania,2014,Urban,25.653333333333336
+1410,Concentrations of fine particulate matter (PM2.5),Africa,Zimbabwe,2014,Total,26.953333333333337
+1412,Concentrations of fine particulate matter (PM2.5),Africa,Zimbabwe,2014,Rural,26.96666666666667
+1414,Concentrations of fine particulate matter (PM2.5),Africa,Kenya,2014,Urban,26.850000000000005
+1417,Concentrations of fine particulate matter (PM2.5),Africa,Malawi,2014,Urban,29.560000000000002
+1419,Concentrations of fine particulate matter (PM2.5),Africa,Namibia,2014,Rural,27.793333333333333
+1428,Concentrations of fine particulate matter (PM2.5),Africa,Malawi,2014,Total,30.143333333333334
+1431,Concentrations of fine particulate matter (PM2.5),Africa,Lesotho,2014,Rural,28.126666666666665
+1432,Concentrations of fine particulate matter (PM2.5),Africa,Malawi,2014,Rural,30.30666666666666
+1434,Concentrations of fine particulate matter (PM2.5),Africa,United Republic of Tanzania,2014,Total,27.986666666666668
+1437,Concentrations of fine particulate matter (PM2.5),Africa,Lesotho,2014,Total,28.48
+1440,Concentrations of fine particulate matter (PM2.5),Africa,South Africa,2014,Urban,27.763333333333332
+1443,Concentrations of fine particulate matter (PM2.5),Africa,Kenya,2014,Total,28.86
+1444,Concentrations of fine particulate matter (PM2.5),Africa,United Republic of Tanzania,2014,Rural,28.69666666666667
+1449,Concentrations of fine particulate matter (PM2.5),Africa,Kenya,2014,Rural,29.396666666666665
+1450,Concentrations of fine particulate matter (PM2.5),Africa,Zambia,2014,Urban,30.113333333333333
+1453,Concentrations of fine particulate matter (PM2.5),Africa,Lesotho,2014,Urban,30.08
+1454,Concentrations of fine particulate matter (PM2.5),Africa,Ethiopia,2014,Urban,30.86
+1456,Concentrations of fine particulate matter (PM2.5),Africa,Ethiopia,2014,Total,31.736666666666668
+1457,Concentrations of fine particulate matter (PM2.5),Africa,Zambia,2014,Total,31.84
+1458,Concentrations of fine particulate matter (PM2.5),Africa,Ethiopia,2014,Rural,31.89
+1464,Concentrations of fine particulate matter (PM2.5),Africa,Zambia,2014,Rural,32.48666666666667
+1466,Concentrations of fine particulate matter (PM2.5),Africa,South Sudan,2014,Urban,32.77
+1468,Concentrations of fine particulate matter (PM2.5),Africa,South Sudan,2014,Total,33.026666666666664
+1469,Concentrations of fine particulate matter (PM2.5),Africa,South Sudan,2014,Rural,33.056666666666665
+1476,Concentrations of fine particulate matter (PM2.5),Africa,Eritrea,2014,Urban,35.6
+1488,Concentrations of fine particulate matter (PM2.5),Africa,Eritrea,2014,Total,36.54333333333333
+1491,Concentrations of fine particulate matter (PM2.5),Africa,Benin,2014,Urban,34.48333333333333
+1492,Concentrations of fine particulate matter (PM2.5),Africa,Algeria,2014,Urban,36.21333333333333
+1496,Concentrations of fine particulate matter (PM2.5),Africa,Eritrea,2014,Rural,36.9
+1499,Concentrations of fine particulate matter (PM2.5),Africa,Algeria,2014,Total,37.48
+1506,Concentrations of fine particulate matter (PM2.5),Africa,Benin,2014,Total,38.76333333333333
+1507,Concentrations of fine particulate matter (PM2.5),Africa,Burundi,2014,Rural,38.733333333333334
+1509,Concentrations of fine particulate matter (PM2.5),Africa,Burundi,2014,Total,39.15
+1512,Concentrations of fine particulate matter (PM2.5),Africa,Sao Tome and Principe,2014,Urban,38.660000000000004
+1513,Concentrations of fine particulate matter (PM2.5),Africa,Burundi,2014,Urban,40.32
+1514,Concentrations of fine particulate matter (PM2.5),Africa,Sao Tome and Principe,2014,Total,38.92
+1516,Concentrations of fine particulate matter (PM2.5),Africa,Algeria,2014,Rural,41.15
+1517,Concentrations of fine particulate matter (PM2.5),Africa,Sao Tome and Principe,2014,Rural,39.086666666666666
+1518,Concentrations of fine particulate matter (PM2.5),Africa,Angola,2014,Rural,40.83
+1519,Concentrations of fine particulate matter (PM2.5),Africa,Angola,2014,Total,41.23666666666667
+1520,Concentrations of fine particulate matter (PM2.5),Africa,Togo,2014,Rural,40.68333333333334
+1521,Concentrations of fine particulate matter (PM2.5),Africa,Benin,2014,Rural,41.23
+1523,Concentrations of fine particulate matter (PM2.5),Africa,Togo,2014,Total,40.343333333333334
+1524,Concentrations of fine particulate matter (PM2.5),Africa,Angola,2014,Urban,42.39
+1530,Concentrations of fine particulate matter (PM2.5),Africa,Rwanda,2014,Rural,40.32
+1531,Concentrations of fine particulate matter (PM2.5),Africa,Liberia,2014,Urban,41.69
+1532,Concentrations of fine particulate matter (PM2.5),Africa,Rwanda,2014,Total,40.28333333333333
+1533,Concentrations of fine particulate matter (PM2.5),Africa,Togo,2014,Urban,40.24666666666667
+1534,Concentrations of fine particulate matter (PM2.5),Africa,Rwanda,2014,Urban,40.443333333333335
+1535,Concentrations of fine particulate matter (PM2.5),Africa,Uganda,2014,Rural,39.70666666666667
+1541,Concentrations of fine particulate matter (PM2.5),Africa,Central African Republic,2014,Rural,43.69
+1542,Concentrations of fine particulate matter (PM2.5),Africa,Uganda,2014,Total,40.37
+1543,Concentrations of fine particulate matter (PM2.5),Africa,Equatorial Guinea,2014,Rural,43.45666666666667
+1544,Concentrations of fine particulate matter (PM2.5),Africa,Equatorial Guinea,2014,Total,43.56333333333333
+1545,Concentrations of fine particulate matter (PM2.5),Africa,Central African Republic,2014,Total,44.129999999999995
+1549,Concentrations of fine particulate matter (PM2.5),Africa,Liberia,2014,Total,43.76666666666667
+1550,Concentrations of fine particulate matter (PM2.5),Africa,Equatorial Guinea,2014,Urban,44.57666666666666
+1551,Concentrations of fine particulate matter (PM2.5),Africa,Central African Republic,2014,Urban,44.120000000000005
+1552,Concentrations of fine particulate matter (PM2.5),Africa,Gabon,2014,Urban,44.336666666666666
+1553,Concentrations of fine particulate matter (PM2.5),Africa,Gabon,2014,Total,44.65333333333333
+1556,Concentrations of fine particulate matter (PM2.5),Africa,Gabon,2014,Rural,44.45000000000001
+1560,Concentrations of fine particulate matter (PM2.5),Africa,Liberia,2014,Rural,45.63333333333333
+1561,Concentrations of fine particulate matter (PM2.5),Africa,Uganda,2014,Urban,43.093333333333334
+1563,Concentrations of fine particulate matter (PM2.5),Africa,Ghana,2014,Rural,44.949999999999996
+1564,Concentrations of fine particulate matter (PM2.5),Africa,Democratic Republic of the Congo,2014,Rural,45.406666666666666
+1565,Concentrations of fine particulate matter (PM2.5),Africa,Congo,2014,Rural,47.4
+1566,Concentrations of fine particulate matter (PM2.5),Africa,Democratic Republic of the Congo,2014,Total,46.51333333333334
+1568,Concentrations of fine particulate matter (PM2.5),Africa,Ghana,2014,Total,45.883333333333326
+1569,Concentrations of fine particulate matter (PM2.5),Africa,Sierra Leone,2014,Rural,46.26
+1571,Concentrations of fine particulate matter (PM2.5),Africa,Nigeria,2014,Urban,50.22
+1572,Concentrations of fine particulate matter (PM2.5),Africa,Democratic Republic of the Congo,2014,Urban,47.98
+1574,Concentrations of fine particulate matter (PM2.5),Africa,Sierra Leone,2014,Total,46.48666666666667
+1575,Concentrations of fine particulate matter (PM2.5),Africa,Ghana,2014,Urban,46.31
+1577,Concentrations of fine particulate matter (PM2.5),Africa,Congo,2014,Total,51.00666666666667
+1580,Concentrations of fine particulate matter (PM2.5),Africa,Côte d’Ivoire,2014,Rural,48.699999999999996
+1581,Concentrations of fine particulate matter (PM2.5),Africa,Côte d’Ivoire,2014,Total,48.06333333333333
+1582,Concentrations of fine particulate matter (PM2.5),Africa,Côte d’Ivoire,2014,Urban,47.21
+1583,Concentrations of fine particulate matter (PM2.5),Africa,Sierra Leone,2014,Urban,50.126666666666665
+1584,Concentrations of fine particulate matter (PM2.5),Africa,Guinea,2014,Urban,51.36333333333332
+1585,Concentrations of fine particulate matter (PM2.5),Africa,Guinea,2014,Total,51.133333333333326
+1586,Concentrations of fine particulate matter (PM2.5),Africa,Guinea,2014,Rural,51.53333333333333
+1587,Concentrations of fine particulate matter (PM2.5),Africa,Burkina Faso,2014,Urban,52.94
+1588,Concentrations of fine particulate matter (PM2.5),Africa,Congo,2014,Urban,52.629999999999995
+1589,Concentrations of fine particulate matter (PM2.5),Africa,Burkina Faso,2014,Total,52.833333333333336
+1591,Concentrations of fine particulate matter (PM2.5),Africa,Burkina Faso,2014,Rural,52.946666666666665
+1594,Concentrations of fine particulate matter (PM2.5),Africa,Guinea-Bissau,2014,Rural,55.083333333333336
+1597,Concentrations of fine particulate matter (PM2.5),Africa,Guinea-Bissau,2014,Total,54.65333333333333
+1602,Concentrations of fine particulate matter (PM2.5),Africa,Guinea-Bissau,2014,Urban,54.830000000000005
+1604,Concentrations of fine particulate matter (PM2.5),Africa,Chad,2014,Rural,60.07333333333333
+1605,Concentrations of fine particulate matter (PM2.5),Africa,Chad,2014,Total,62.14000000000001
+1606,Concentrations of fine particulate matter (PM2.5),Africa,Nigeria,2014,Total,59.836666666666666
+1609,Concentrations of fine particulate matter (PM2.5),Africa,Gambia,2014,Rural,60.416666666666664
+1610,Concentrations of fine particulate matter (PM2.5),Africa,Chad,2014,Urban,68.65666666666668
+1614,Concentrations of fine particulate matter (PM2.5),Africa,Cameroon,2014,Urban,60.879999999999995
+1615,Concentrations of fine particulate matter (PM2.5),Africa,Cameroon,2014,Total,60.29333333333333
+1616,Concentrations of fine particulate matter (PM2.5),Africa,Gambia,2014,Total,60.21333333333333
+1617,Concentrations of fine particulate matter (PM2.5),Africa,Cameroon,2014,Rural,61.870000000000005
+1619,Concentrations of fine particulate matter (PM2.5),Africa,Mali,2014,Urban,66.08666666666666
+1621,Concentrations of fine particulate matter (PM2.5),Africa,Mali,2014,Total,65.78666666666668
+1624,Concentrations of fine particulate matter (PM2.5),Africa,Mali,2014,Rural,64.77
+1625,Concentrations of fine particulate matter (PM2.5),Africa,Gambia,2014,Urban,61.15666666666667
+1631,Concentrations of fine particulate matter (PM2.5),Africa,Nigeria,2014,Rural,66.66333333333334
+1632,Concentrations of fine particulate matter (PM2.5),Africa,Senegal,2014,Rural,65.47333333333333
+1633,Concentrations of fine particulate matter (PM2.5),Africa,Cabo Verde,2014,Urban,66.18333333333334
+1645,Concentrations of fine particulate matter (PM2.5),Africa,Senegal,2014,Total,64.08999999999999
+1646,Concentrations of fine particulate matter (PM2.5),Africa,Cabo Verde,2014,Total,66.96333333333332
+1648,Concentrations of fine particulate matter (PM2.5),Africa,Senegal,2014,Urban,63.49
+1649,Concentrations of fine particulate matter (PM2.5),Africa,Cabo Verde,2014,Rural,68.72333333333333
+1654,Concentrations of fine particulate matter (PM2.5),Africa,Niger,2014,Urban,81.64
+1659,Concentrations of fine particulate matter (PM2.5),Africa,Niger,2014,Total,84.14999999999999
+1660,Concentrations of fine particulate matter (PM2.5),Africa,Niger,2014,Rural,84.86
+1682,Concentrations of fine particulate matter (PM2.5),Africa,Mauritania,2014,Rural,84.42333333333333
+1686,Concentrations of fine particulate matter (PM2.5),Africa,Mauritania,2014,Total,84.04
+1687,Concentrations of fine particulate matter (PM2.5),Africa,Mauritania,2014,Urban,87.92666666666666
+1721,Concentrations of fine particulate matter (PM2.5),Africa,Mauritius,2014,Urban,10.776666666666666
+1750,Concentrations of fine particulate matter (PM2.5),Africa,Mauritius,2013,Total,11.770000000000001
+1772,Concentrations of fine particulate matter (PM2.5),Africa,Mauritius,2013,Rural,12.473333333333334
+1783,Concentrations of fine particulate matter (PM2.5),Africa,Seychelles,2013,Rural,13.963333333333333
+1785,Concentrations of fine particulate matter (PM2.5),Africa,Seychelles,2013,Urban,13.93
+1786,Concentrations of fine particulate matter (PM2.5),Africa,Seychelles,2013,Total,13.956666666666669
+1820,Concentrations of fine particulate matter (PM2.5),Africa,Comoros,2013,Rural,15.413333333333332
+1821,Concentrations of fine particulate matter (PM2.5),Africa,Comoros,2013,Total,15.516666666666666
+1824,Concentrations of fine particulate matter (PM2.5),Africa,Comoros,2013,Urban,15.806666666666667
+1860,Concentrations of fine particulate matter (PM2.5),Africa,Madagascar,2013,Rural,18.900000000000002
+1867,Concentrations of fine particulate matter (PM2.5),Africa,Madagascar,2013,Total,19.046666666666667
+1873,Concentrations of fine particulate matter (PM2.5),Africa,Madagascar,2013,Urban,19.926666666666666
+1910,Concentrations of fine particulate matter (PM2.5),Africa,Namibia,2013,Urban,22.713333333333328
+1928,Concentrations of fine particulate matter (PM2.5),Africa,Eswatini,2013,Urban,22.040000000000003
+1930,Concentrations of fine particulate matter (PM2.5),Africa,Mozambique,2013,Urban,22.77
+1941,Concentrations of fine particulate matter (PM2.5),Africa,Eswatini,2013,Total,22.55666666666667
+1945,Concentrations of fine particulate matter (PM2.5),Africa,Eswatini,2013,Rural,22.689999999999998
+1946,Concentrations of fine particulate matter (PM2.5),Africa,Mozambique,2013,Total,23.996666666666666
+1947,Concentrations of fine particulate matter (PM2.5),Africa,South Africa,2013,Rural,22.86
+1957,Concentrations of fine particulate matter (PM2.5),Africa,Mozambique,2013,Rural,25.093333333333334
+1961,Concentrations of fine particulate matter (PM2.5),Africa,Botswana,2013,Urban,24.123333333333335
+1972,Concentrations of fine particulate matter (PM2.5),Africa,Botswana,2013,Total,25.310000000000002
+1973,Concentrations of fine particulate matter (PM2.5),Africa,Zimbabwe,2013,Urban,26.483333333333334
+1974,Concentrations of fine particulate matter (PM2.5),Africa,Botswana,2013,Rural,25.77666666666667
+1975,Concentrations of fine particulate matter (PM2.5),Africa,United Republic of Tanzania,2013,Urban,25.72
+1977,Concentrations of fine particulate matter (PM2.5),Africa,Kenya,2013,Urban,25.77
+1979,Concentrations of fine particulate matter (PM2.5),Africa,Namibia,2013,Total,26.346666666666664
+1981,Concentrations of fine particulate matter (PM2.5),Africa,South Africa,2013,Total,25.396666666666665
+1986,Concentrations of fine particulate matter (PM2.5),Africa,Lesotho,2013,Rural,26.326666666666664
+1989,Concentrations of fine particulate matter (PM2.5),Africa,Lesotho,2013,Total,26.483333333333334
+1990,Concentrations of fine particulate matter (PM2.5),Africa,Zimbabwe,2013,Total,27.080000000000002
+1991,Concentrations of fine particulate matter (PM2.5),Africa,Malawi,2013,Urban,28.919999999999998
+1995,Concentrations of fine particulate matter (PM2.5),Africa,Zimbabwe,2013,Rural,27.419999999999998
+1998,Concentrations of fine particulate matter (PM2.5),Africa,Lesotho,2013,Urban,26.73
+2004,Concentrations of fine particulate matter (PM2.5),Africa,Malawi,2013,Total,29.603333333333335
+2008,Concentrations of fine particulate matter (PM2.5),Africa,Kenya,2013,Total,27.763333333333332
+2010,Concentrations of fine particulate matter (PM2.5),Africa,Malawi,2013,Rural,29.80666666666666
+2016,Concentrations of fine particulate matter (PM2.5),Africa,Kenya,2013,Rural,28.2
+2018,Concentrations of fine particulate matter (PM2.5),Africa,South Africa,2013,Urban,27.843333333333334
+2022,Concentrations of fine particulate matter (PM2.5),Africa,United Republic of Tanzania,2013,Total,29.206666666666667
+2025,Concentrations of fine particulate matter (PM2.5),Africa,Namibia,2013,Rural,29.77
+2028,Concentrations of fine particulate matter (PM2.5),Africa,United Republic of Tanzania,2013,Rural,30.213333333333335
+2035,Concentrations of fine particulate matter (PM2.5),Africa,Ethiopia,2013,Urban,31.25
+2036,Concentrations of fine particulate matter (PM2.5),Africa,Zambia,2013,Urban,31.796666666666667
+2040,Concentrations of fine particulate matter (PM2.5),Africa,Ethiopia,2013,Total,32.336666666666666
+2041,Concentrations of fine particulate matter (PM2.5),Africa,Ethiopia,2013,Rural,32.583333333333336
+2042,Concentrations of fine particulate matter (PM2.5),Africa,Algeria,2013,Urban,33.31333333333333
+2045,Concentrations of fine particulate matter (PM2.5),Africa,Zambia,2013,Total,33.79666666666667
+2049,Concentrations of fine particulate matter (PM2.5),Africa,Algeria,2013,Total,34.77333333333333
+2050,Concentrations of fine particulate matter (PM2.5),Africa,Zambia,2013,Rural,34.46
+2061,Concentrations of fine particulate matter (PM2.5),Africa,South Sudan,2013,Urban,36.55
+2063,Concentrations of fine particulate matter (PM2.5),Africa,South Sudan,2013,Total,36.56333333333333
+2064,Concentrations of fine particulate matter (PM2.5),Africa,South Sudan,2013,Rural,36.56666666666667
+2076,Concentrations of fine particulate matter (PM2.5),Africa,Algeria,2013,Rural,39.18
+2080,Concentrations of fine particulate matter (PM2.5),Africa,Eritrea,2013,Urban,40.70333333333333
+2087,Concentrations of fine particulate matter (PM2.5),Africa,Benin,2013,Urban,37.4
+2090,Concentrations of fine particulate matter (PM2.5),Africa,Sao Tome and Principe,2013,Urban,39.48
+2091,Concentrations of fine particulate matter (PM2.5),Africa,Sao Tome and Principe,2013,Total,39.666666666666664
+2093,Concentrations of fine particulate matter (PM2.5),Africa,Burundi,2013,Rural,40.68
+2094,Concentrations of fine particulate matter (PM2.5),Africa,Equatorial Guinea,2013,Rural,40.64333333333334
+2095,Concentrations of fine particulate matter (PM2.5),Africa,Sao Tome and Principe,2013,Rural,39.653333333333336
+2096,Concentrations of fine particulate matter (PM2.5),Africa,Burundi,2013,Total,41.24666666666666
+2098,Concentrations of fine particulate matter (PM2.5),Africa,Equatorial Guinea,2013,Total,40.74
+2099,Concentrations of fine particulate matter (PM2.5),Africa,Eritrea,2013,Total,41.98666666666667
+2103,Concentrations of fine particulate matter (PM2.5),Africa,Gabon,2013,Urban,41.806666666666665
+2104,Concentrations of fine particulate matter (PM2.5),Africa,Burundi,2013,Urban,42.526666666666664
+2106,Concentrations of fine particulate matter (PM2.5),Africa,Eritrea,2013,Rural,42.486666666666665
+2107,Concentrations of fine particulate matter (PM2.5),Africa,Benin,2013,Total,41.74
+2108,Concentrations of fine particulate matter (PM2.5),Africa,Uganda,2013,Rural,39.69
+2109,Concentrations of fine particulate matter (PM2.5),Africa,Equatorial Guinea,2013,Urban,42.75
+2110,Concentrations of fine particulate matter (PM2.5),Africa,Gabon,2013,Total,42.083333333333336
+2111,Concentrations of fine particulate matter (PM2.5),Africa,Rwanda,2013,Urban,41.04
+2112,Concentrations of fine particulate matter (PM2.5),Africa,Rwanda,2013,Total,41.50666666666667
+2113,Concentrations of fine particulate matter (PM2.5),Africa,Uganda,2013,Total,39.973333333333336
+2114,Concentrations of fine particulate matter (PM2.5),Africa,Rwanda,2013,Rural,41.71666666666667
+2115,Concentrations of fine particulate matter (PM2.5),Africa,Gabon,2013,Rural,43.169999999999995
+2116,Concentrations of fine particulate matter (PM2.5),Africa,Angola,2013,Rural,43.826666666666675
+2117,Concentrations of fine particulate matter (PM2.5),Africa,Angola,2013,Total,44.526666666666664
+2118,Concentrations of fine particulate matter (PM2.5),Africa,Benin,2013,Rural,43.74666666666667
+2120,Concentrations of fine particulate matter (PM2.5),Africa,Togo,2013,Rural,44.44333333333333
+2122,Concentrations of fine particulate matter (PM2.5),Africa,Uganda,2013,Urban,42.35666666666666
+2123,Concentrations of fine particulate matter (PM2.5),Africa,Togo,2013,Total,44.22333333333333
+2125,Concentrations of fine particulate matter (PM2.5),Africa,Angola,2013,Urban,46.333333333333336
+2129,Concentrations of fine particulate matter (PM2.5),Africa,Togo,2013,Urban,44.51666666666667
+2130,Concentrations of fine particulate matter (PM2.5),Africa,Congo,2013,Rural,47.64333333333334
+2131,Concentrations of fine particulate matter (PM2.5),Africa,Central African Republic,2013,Urban,47.333333333333336
+2133,Concentrations of fine particulate matter (PM2.5),Africa,Central African Republic,2013,Total,47.26333333333333
+2134,Concentrations of fine particulate matter (PM2.5),Africa,Central African Republic,2013,Rural,47.53
+2137,Concentrations of fine particulate matter (PM2.5),Africa,Democratic Republic of the Congo,2013,Rural,47.546666666666674
+2139,Concentrations of fine particulate matter (PM2.5),Africa,Liberia,2013,Urban,46.919999999999995
+2140,Concentrations of fine particulate matter (PM2.5),Africa,Democratic Republic of the Congo,2013,Total,48.080000000000005
+2141,Concentrations of fine particulate matter (PM2.5),Africa,Liberia,2013,Total,47.79
+2142,Concentrations of fine particulate matter (PM2.5),Africa,Nigeria,2013,Urban,50.56333333333333
+2143,Concentrations of fine particulate matter (PM2.5),Africa,Congo,2013,Total,50.910000000000004
+2145,Concentrations of fine particulate matter (PM2.5),Africa,Liberia,2013,Rural,48.53666666666667
+2146,Concentrations of fine particulate matter (PM2.5),Africa,Burkina Faso,2013,Urban,51.596666666666664
+2147,Concentrations of fine particulate matter (PM2.5),Africa,Democratic Republic of the Congo,2013,Urban,49.11333333333334
+2152,Concentrations of fine particulate matter (PM2.5),Africa,Ghana,2013,Rural,49.38666666666668
+2153,Concentrations of fine particulate matter (PM2.5),Africa,Burkina Faso,2013,Total,51.076666666666675
+2154,Concentrations of fine particulate matter (PM2.5),Africa,Sierra Leone,2013,Rural,48.333333333333336
+2156,Concentrations of fine particulate matter (PM2.5),Africa,Burkina Faso,2013,Rural,51.029999999999994
+2157,Concentrations of fine particulate matter (PM2.5),Africa,Guinea,2013,Rural,51.59666666666667
+2158,Concentrations of fine particulate matter (PM2.5),Africa,Guinea,2013,Total,51.75666666666667
+2160,Concentrations of fine particulate matter (PM2.5),Africa,Congo,2013,Urban,52.21
+2161,Concentrations of fine particulate matter (PM2.5),Africa,Sierra Leone,2013,Total,49.23
+2165,Concentrations of fine particulate matter (PM2.5),Africa,Guinea,2013,Urban,53.446666666666665
+2167,Concentrations of fine particulate matter (PM2.5),Africa,Sierra Leone,2013,Urban,52.70666666666667
+2168,Concentrations of fine particulate matter (PM2.5),Africa,Ghana,2013,Total,51.69333333333333
+2169,Concentrations of fine particulate matter (PM2.5),Africa,Côte d’Ivoire,2013,Rural,52.196666666666665
+2171,Concentrations of fine particulate matter (PM2.5),Africa,Guinea-Bissau,2013,Rural,54.51333333333333
+2173,Concentrations of fine particulate matter (PM2.5),Africa,Guinea-Bissau,2013,Total,54.199999999999996
+2174,Concentrations of fine particulate matter (PM2.5),Africa,Côte d’Ivoire,2013,Total,52.54666666666666
+2175,Concentrations of fine particulate matter (PM2.5),Africa,Ghana,2013,Urban,52.879999999999995
+2176,Concentrations of fine particulate matter (PM2.5),Africa,Guinea-Bissau,2013,Urban,54.370000000000005
+2181,Concentrations of fine particulate matter (PM2.5),Africa,Côte d’Ivoire,2013,Urban,53.06
+2182,Concentrations of fine particulate matter (PM2.5),Africa,Gambia,2013,Rural,57.47333333333333
+2184,Concentrations of fine particulate matter (PM2.5),Africa,Nigeria,2013,Total,60.086666666666666
+2185,Concentrations of fine particulate matter (PM2.5),Africa,Mali,2013,Urban,62.223333333333336
+2186,Concentrations of fine particulate matter (PM2.5),Africa,Gambia,2013,Total,57.22666666666667
+2188,Concentrations of fine particulate matter (PM2.5),Africa,Mali,2013,Total,61.580000000000005
+2189,Concentrations of fine particulate matter (PM2.5),Africa,Mali,2013,Rural,61.343333333333334
+2190,Concentrations of fine particulate matter (PM2.5),Africa,Gambia,2013,Urban,58.126666666666665
+2193,Concentrations of fine particulate matter (PM2.5),Africa,Senegal,2013,Rural,60.41
+2194,Concentrations of fine particulate matter (PM2.5),Africa,Senegal,2013,Total,59.29333333333333
+2196,Concentrations of fine particulate matter (PM2.5),Africa,Senegal,2013,Urban,58.89333333333334
+2197,Concentrations of fine particulate matter (PM2.5),Africa,Chad,2013,Rural,66.84333333333333
+2198,Concentrations of fine particulate matter (PM2.5),Africa,Chad,2013,Total,69.32333333333334
+2200,Concentrations of fine particulate matter (PM2.5),Africa,Cameroon,2013,Urban,62.68666666666667
+2201,Concentrations of fine particulate matter (PM2.5),Africa,Cameroon,2013,Total,63.26666666666667
+2203,Concentrations of fine particulate matter (PM2.5),Africa,Cameroon,2013,Rural,64.87333333333333
+2207,Concentrations of fine particulate matter (PM2.5),Africa,Chad,2013,Urban,73.77
+2209,Concentrations of fine particulate matter (PM2.5),Africa,Nigeria,2013,Rural,66.77666666666666
+2223,Concentrations of fine particulate matter (PM2.5),Africa,Cabo Verde,2013,Urban,67.08999999999999
+2225,Concentrations of fine particulate matter (PM2.5),Africa,Cabo Verde,2013,Total,67.76666666666667
+2228,Concentrations of fine particulate matter (PM2.5),Africa,Cabo Verde,2013,Rural,69.59666666666666
+2233,Concentrations of fine particulate matter (PM2.5),Africa,Mauritania,2013,Rural,77.85000000000001
+2239,Concentrations of fine particulate matter (PM2.5),Africa,Niger,2013,Urban,83.86
+2241,Concentrations of fine particulate matter (PM2.5),Africa,Mauritania,2013,Total,77.47
+2267,Concentrations of fine particulate matter (PM2.5),Africa,Niger,2013,Total,86.77666666666666
+2268,Concentrations of fine particulate matter (PM2.5),Africa,Niger,2013,Rural,87.39333333333333
+2272,Concentrations of fine particulate matter (PM2.5),Africa,Mauritania,2013,Urban,82.14333333333333
+2297,Concentrations of fine particulate matter (PM2.5),Africa,Mauritius,2013,Urban,10.963333333333333
+2310,Concentrations of fine particulate matter (PM2.5),Africa,Mauritius,2012,Total,11.270000000000001
+2332,Concentrations of fine particulate matter (PM2.5),Africa,Mauritius,2012,Rural,12.0
+2369,Concentrations of fine particulate matter (PM2.5),Africa,Seychelles,2012,Urban,15.020000000000001
+2370,Concentrations of fine particulate matter (PM2.5),Africa,Seychelles,2012,Total,15.036666666666667
+2375,Concentrations of fine particulate matter (PM2.5),Africa,Seychelles,2012,Rural,15.103333333333333
+2394,Concentrations of fine particulate matter (PM2.5),Africa,Comoros,2012,Rural,15.533333333333333
+2395,Concentrations of fine particulate matter (PM2.5),Africa,Comoros,2012,Total,15.596666666666666
+2396,Concentrations of fine particulate matter (PM2.5),Africa,Comoros,2012,Urban,15.780000000000001
+2404,Concentrations of fine particulate matter (PM2.5),Africa,Madagascar,2012,Rural,16.69666666666667
+2405,Concentrations of fine particulate matter (PM2.5),Africa,Madagascar,2012,Total,16.776666666666667
+2408,Concentrations of fine particulate matter (PM2.5),Africa,Madagascar,2012,Urban,17.206666666666667
+2466,Concentrations of fine particulate matter (PM2.5),Africa,Namibia,2012,Urban,21.77333333333333
+2481,Concentrations of fine particulate matter (PM2.5),Africa,Eswatini,2012,Urban,21.08
+2488,Concentrations of fine particulate matter (PM2.5),Africa,Eswatini,2012,Total,21.203333333333333
+2492,Concentrations of fine particulate matter (PM2.5),Africa,Eswatini,2012,Rural,21.24
+2500,Concentrations of fine particulate matter (PM2.5),Africa,South Africa,2012,Rural,21.616666666666664
+2506,Concentrations of fine particulate matter (PM2.5),Africa,Mozambique,2012,Urban,22.906666666666666
+2521,Concentrations of fine particulate matter (PM2.5),Africa,Mozambique,2012,Total,24.26666666666667
+2531,Concentrations of fine particulate matter (PM2.5),Africa,Namibia,2012,Total,25.209999999999997
+2534,Concentrations of fine particulate matter (PM2.5),Africa,Lesotho,2012,Rural,24.290000000000003
+2536,Concentrations of fine particulate matter (PM2.5),Africa,Lesotho,2012,Total,24.47333333333333
+2538,Concentrations of fine particulate matter (PM2.5),Africa,South Africa,2012,Total,24.41333333333333
+2543,Concentrations of fine particulate matter (PM2.5),Africa,Mozambique,2012,Rural,25.48333333333333
+2548,Concentrations of fine particulate matter (PM2.5),Africa,Lesotho,2012,Urban,24.936666666666667
+2552,Concentrations of fine particulate matter (PM2.5),Africa,Botswana,2012,Rural,25.346666666666668
+2553,Concentrations of fine particulate matter (PM2.5),Africa,Botswana,2012,Total,24.959999999999997
+2555,Concentrations of fine particulate matter (PM2.5),Africa,Botswana,2012,Urban,25.040000000000003
+2565,Concentrations of fine particulate matter (PM2.5),Africa,Kenya,2012,Urban,26.456666666666667
+2567,Concentrations of fine particulate matter (PM2.5),Africa,United Republic of Tanzania,2012,Urban,26.073333333333334
+2569,Concentrations of fine particulate matter (PM2.5),Africa,Zimbabwe,2012,Urban,27.7
+2576,Concentrations of fine particulate matter (PM2.5),Africa,Zimbabwe,2012,Total,27.83666666666667
+2581,Concentrations of fine particulate matter (PM2.5),Africa,Zimbabwe,2012,Rural,28.05333333333333
+2585,Concentrations of fine particulate matter (PM2.5),Africa,Namibia,2012,Rural,27.77333333333333
+2586,Concentrations of fine particulate matter (PM2.5),Africa,South Africa,2012,Urban,27.139999999999997
+2591,Concentrations of fine particulate matter (PM2.5),Africa,Kenya,2012,Total,28.676666666666666
+2593,Concentrations of fine particulate matter (PM2.5),Africa,United Republic of Tanzania,2012,Total,28.919999999999998
+2595,Concentrations of fine particulate matter (PM2.5),Africa,Malawi,2012,Urban,32.373333333333335
+2599,Concentrations of fine particulate matter (PM2.5),Africa,Kenya,2012,Rural,29.173333333333332
+2602,Concentrations of fine particulate matter (PM2.5),Africa,United Republic of Tanzania,2012,Rural,29.613333333333333
+2607,Concentrations of fine particulate matter (PM2.5),Africa,Malawi,2012,Total,33.47
+2610,Concentrations of fine particulate matter (PM2.5),Africa,Malawi,2012,Rural,33.699999999999996
+2614,Concentrations of fine particulate matter (PM2.5),Africa,Zambia,2012,Urban,31.83666666666667
+2616,Concentrations of fine particulate matter (PM2.5),Africa,Ethiopia,2012,Urban,31.99333333333333
+2617,Concentrations of fine particulate matter (PM2.5),Africa,Algeria,2012,Urban,32.42666666666667
+2621,Concentrations of fine particulate matter (PM2.5),Africa,Algeria,2012,Total,33.440000000000005
+2623,Concentrations of fine particulate matter (PM2.5),Africa,Ethiopia,2012,Total,32.93333333333333
+2626,Concentrations of fine particulate matter (PM2.5),Africa,Sao Tome and Principe,2012,Urban,32.9
+2627,Concentrations of fine particulate matter (PM2.5),Africa,Sao Tome and Principe,2012,Total,32.97666666666667
+2628,Concentrations of fine particulate matter (PM2.5),Africa,Ethiopia,2012,Rural,33.14
+2629,Concentrations of fine particulate matter (PM2.5),Africa,Zambia,2012,Total,33.53
+2630,Concentrations of fine particulate matter (PM2.5),Africa,Sao Tome and Principe,2012,Rural,33.13666666666666
+2635,Concentrations of fine particulate matter (PM2.5),Africa,Zambia,2012,Rural,34.080000000000005
+2637,Concentrations of fine particulate matter (PM2.5),Africa,Algeria,2012,Rural,36.11
+2648,Concentrations of fine particulate matter (PM2.5),Africa,Eritrea,2012,Urban,38.35
+2649,Concentrations of fine particulate matter (PM2.5),Africa,South Sudan,2012,Urban,36.93333333333333
+2652,Concentrations of fine particulate matter (PM2.5),Africa,South Sudan,2012,Total,37.0
+2653,Concentrations of fine particulate matter (PM2.5),Africa,South Sudan,2012,Rural,37.00333333333334
+2657,Concentrations of fine particulate matter (PM2.5),Africa,Benin,2012,Urban,36.163333333333334
+2662,Concentrations of fine particulate matter (PM2.5),Africa,Eritrea,2012,Total,39.07333333333333
+2663,Concentrations of fine particulate matter (PM2.5),Africa,Angola,2012,Urban,38.92666666666667
+2667,Concentrations of fine particulate matter (PM2.5),Africa,Eritrea,2012,Rural,39.38666666666666
+2669,Concentrations of fine particulate matter (PM2.5),Africa,Angola,2012,Total,39.556666666666665
+2672,Concentrations of fine particulate matter (PM2.5),Africa,Burundi,2012,Rural,40.18333333333334
+2673,Concentrations of fine particulate matter (PM2.5),Africa,Angola,2012,Rural,40.18333333333333
+2675,Concentrations of fine particulate matter (PM2.5),Africa,Benin,2012,Total,40.62
+2676,Concentrations of fine particulate matter (PM2.5),Africa,Burundi,2012,Total,40.70333333333334
+2679,Concentrations of fine particulate matter (PM2.5),Africa,Gabon,2012,Urban,40.730000000000004
+2681,Concentrations of fine particulate matter (PM2.5),Africa,Burundi,2012,Urban,41.52666666666667
+2684,Concentrations of fine particulate matter (PM2.5),Africa,Gabon,2012,Total,40.696666666666665
+2686,Concentrations of fine particulate matter (PM2.5),Africa,Gabon,2012,Rural,41.876666666666665
+2688,Concentrations of fine particulate matter (PM2.5),Africa,Benin,2012,Rural,43.123333333333335
+2689,Concentrations of fine particulate matter (PM2.5),Africa,Equatorial Guinea,2012,Rural,42.67666666666667
+2690,Concentrations of fine particulate matter (PM2.5),Africa,Equatorial Guinea,2012,Total,42.58
+2691,Concentrations of fine particulate matter (PM2.5),Africa,Togo,2012,Rural,42.883333333333326
+2692,Concentrations of fine particulate matter (PM2.5),Africa,Rwanda,2012,Urban,41.876666666666665
+2694,Concentrations of fine particulate matter (PM2.5),Africa,Rwanda,2012,Total,42.20333333333334
+2695,Concentrations of fine particulate matter (PM2.5),Africa,Rwanda,2012,Rural,42.309999999999995
+2696,Concentrations of fine particulate matter (PM2.5),Africa,Equatorial Guinea,2012,Urban,43.673333333333325
+2698,Concentrations of fine particulate matter (PM2.5),Africa,Togo,2012,Total,42.443333333333335
+2699,Concentrations of fine particulate matter (PM2.5),Africa,Uganda,2012,Rural,41.026666666666664
+2701,Concentrations of fine particulate matter (PM2.5),Africa,Uganda,2012,Total,41.61666666666667
+2706,Concentrations of fine particulate matter (PM2.5),Africa,Togo,2012,Urban,43.06
+2707,Concentrations of fine particulate matter (PM2.5),Africa,Congo,2012,Rural,45.70666666666667
+2708,Concentrations of fine particulate matter (PM2.5),Africa,Central African Republic,2012,Urban,46.45333333333334
+2709,Concentrations of fine particulate matter (PM2.5),Africa,Democratic Republic of the Congo,2012,Rural,45.870000000000005
+2711,Concentrations of fine particulate matter (PM2.5),Africa,Central African Republic,2012,Total,47.526666666666664
+2712,Concentrations of fine particulate matter (PM2.5),Africa,Central African Republic,2012,Rural,47.24666666666667
+2715,Concentrations of fine particulate matter (PM2.5),Africa,Congo,2012,Total,47.67666666666667
+2718,Concentrations of fine particulate matter (PM2.5),Africa,Democratic Republic of the Congo,2012,Total,46.61666666666667
+2719,Concentrations of fine particulate matter (PM2.5),Africa,Uganda,2012,Urban,44.11666666666667
+2721,Concentrations of fine particulate matter (PM2.5),Africa,Congo,2012,Urban,48.193333333333335
+2722,Concentrations of fine particulate matter (PM2.5),Africa,Democratic Republic of the Congo,2012,Urban,47.54333333333333
+2725,Concentrations of fine particulate matter (PM2.5),Africa,Nigeria,2012,Urban,52.123333333333335
+2726,Concentrations of fine particulate matter (PM2.5),Africa,Liberia,2012,Rural,50.74666666666667
+2728,Concentrations of fine particulate matter (PM2.5),Africa,Ghana,2012,Rural,47.800000000000004
+2730,Concentrations of fine particulate matter (PM2.5),Africa,Liberia,2012,Total,51.21
+2733,Concentrations of fine particulate matter (PM2.5),Africa,Liberia,2012,Urban,50.586666666666666
+2736,Concentrations of fine particulate matter (PM2.5),Africa,Guinea,2012,Rural,53.42666666666667
+2737,Concentrations of fine particulate matter (PM2.5),Africa,Sierra Leone,2012,Rural,51.129999999999995
+2738,Concentrations of fine particulate matter (PM2.5),Africa,Ghana,2012,Total,50.11666666666667
+2739,Concentrations of fine particulate matter (PM2.5),Africa,Côte d’Ivoire,2012,Rural,52.02333333333333
+2740,Concentrations of fine particulate matter (PM2.5),Africa,Guinea,2012,Total,53.48333333333333
+2741,Concentrations of fine particulate matter (PM2.5),Africa,Sierra Leone,2012,Total,51.64333333333334
+2743,Concentrations of fine particulate matter (PM2.5),Africa,Ghana,2012,Urban,51.11666666666667
+2744,Concentrations of fine particulate matter (PM2.5),Africa,Guinea-Bissau,2012,Rural,54.156666666666666
+2745,Concentrations of fine particulate matter (PM2.5),Africa,Côte d’Ivoire,2012,Total,51.93
+2746,Concentrations of fine particulate matter (PM2.5),Africa,Guinea-Bissau,2012,Total,52.96333333333333
+2747,Concentrations of fine particulate matter (PM2.5),Africa,Guinea,2012,Urban,55.85333333333333
+2748,Concentrations of fine particulate matter (PM2.5),Africa,Burkina Faso,2012,Urban,57.01
+2749,Concentrations of fine particulate matter (PM2.5),Africa,Guinea-Bissau,2012,Urban,53.95666666666667
+2750,Concentrations of fine particulate matter (PM2.5),Africa,Côte d’Ivoire,2012,Urban,52.52
+2751,Concentrations of fine particulate matter (PM2.5),Africa,Sierra Leone,2012,Urban,54.54333333333333
+2752,Concentrations of fine particulate matter (PM2.5),Africa,Burkina Faso,2012,Total,56.71333333333333
+2755,Concentrations of fine particulate matter (PM2.5),Africa,Burkina Faso,2012,Rural,57.02333333333333
+2760,Concentrations of fine particulate matter (PM2.5),Africa,Gambia,2012,Rural,59.026666666666664
+2762,Concentrations of fine particulate matter (PM2.5),Africa,Nigeria,2012,Total,63.24333333333334
+2764,Concentrations of fine particulate matter (PM2.5),Africa,Gambia,2012,Total,58.24
+2766,Concentrations of fine particulate matter (PM2.5),Africa,Gambia,2012,Urban,59.35999999999999
+2770,Concentrations of fine particulate matter (PM2.5),Africa,Senegal,2012,Rural,62.00333333333333
+2771,Concentrations of fine particulate matter (PM2.5),Africa,Senegal,2012,Total,60.01666666666667
+2773,Concentrations of fine particulate matter (PM2.5),Africa,Senegal,2012,Urban,59.22666666666667
+2775,Concentrations of fine particulate matter (PM2.5),Africa,Chad,2012,Rural,69.14666666666666
+2776,Concentrations of fine particulate matter (PM2.5),Africa,Cameroon,2012,Urban,63.79
+2777,Concentrations of fine particulate matter (PM2.5),Africa,Chad,2012,Total,72.13000000000001
+2779,Concentrations of fine particulate matter (PM2.5),Africa,Mali,2012,Urban,69.94666666666667
+2780,Concentrations of fine particulate matter (PM2.5),Africa,Cameroon,2012,Total,66.45333333333333
+2781,Concentrations of fine particulate matter (PM2.5),Africa,Mali,2012,Total,69.66666666666667
+2782,Concentrations of fine particulate matter (PM2.5),Africa,Mali,2012,Rural,69.21666666666667
+2783,Concentrations of fine particulate matter (PM2.5),Africa,Cameroon,2012,Rural,68.48
+2804,Concentrations of fine particulate matter (PM2.5),Africa,Nigeria,2012,Rural,70.73
+2805,Concentrations of fine particulate matter (PM2.5),Africa,Chad,2012,Urban,80.72333333333333
+2812,Concentrations of fine particulate matter (PM2.5),Africa,Cabo Verde,2012,Urban,71.64666666666666
+2813,Concentrations of fine particulate matter (PM2.5),Africa,Cabo Verde,2012,Total,72.14333333333333
+2814,Concentrations of fine particulate matter (PM2.5),Africa,Cabo Verde,2012,Rural,73.04333333333334
+2821,Concentrations of fine particulate matter (PM2.5),Africa,Mauritania,2012,Rural,82.80666666666667
+2842,Concentrations of fine particulate matter (PM2.5),Africa,Mauritania,2012,Total,81.06666666666666
+2844,Concentrations of fine particulate matter (PM2.5),Africa,Mauritania,2012,Urban,82.91000000000001
+2846,Concentrations of fine particulate matter (PM2.5),Africa,Niger,2012,Urban,96.50333333333333
+2847,Concentrations of fine particulate matter (PM2.5),Africa,Niger,2012,Total,98.17666666666666
+2848,Concentrations of fine particulate matter (PM2.5),Africa,Niger,2012,Rural,99.39333333333333
+2873,Concentrations of fine particulate matter (PM2.5),Africa,Mauritius,2012,Urban,10.546666666666667
+2894,Concentrations of fine particulate matter (PM2.5),Africa,Mauritius,2011,Rural,11.403333333333334
+2957,Concentrations of fine particulate matter (PM2.5),Africa,Seychelles,2011,Urban,15.286666666666667
+2958,Concentrations of fine particulate matter (PM2.5),Africa,Seychelles,2011,Total,15.309999999999997
+2961,Concentrations of fine particulate matter (PM2.5),Africa,Seychelles,2011,Rural,15.44
+2966,Concentrations of fine particulate matter (PM2.5),Africa,Comoros,2011,Rural,15.523333333333335
+2967,Concentrations of fine particulate matter (PM2.5),Africa,Comoros,2011,Total,15.586666666666668
+2968,Concentrations of fine particulate matter (PM2.5),Africa,Comoros,2011,Urban,15.770000000000001
+2993,Concentrations of fine particulate matter (PM2.5),Africa,Madagascar,2011,Rural,17.55666666666667
+2994,Concentrations of fine particulate matter (PM2.5),Africa,Madagascar,2011,Total,17.563333333333336
+2997,Concentrations of fine particulate matter (PM2.5),Africa,Madagascar,2011,Urban,17.919999999999998
+3068,Concentrations of fine particulate matter (PM2.5),Africa,Eswatini,2011,Urban,21.52333333333333
+3071,Concentrations of fine particulate matter (PM2.5),Africa,Mozambique,2011,Urban,22.290000000000003
+3078,Concentrations of fine particulate matter (PM2.5),Africa,Eswatini,2011,Total,21.733333333333334
+3082,Concentrations of fine particulate matter (PM2.5),Africa,Eswatini,2011,Rural,21.823333333333334
+3088,Concentrations of fine particulate matter (PM2.5),Africa,Namibia,2011,Urban,23.903333333333336
+3090,Concentrations of fine particulate matter (PM2.5),Africa,South Africa,2011,Rural,22.343333333333334
+3092,Concentrations of fine particulate matter (PM2.5),Africa,Mozambique,2011,Total,23.453333333333337
+3097,Concentrations of fine particulate matter (PM2.5),Africa,Mozambique,2011,Rural,24.46666666666667
+3122,Concentrations of fine particulate matter (PM2.5),Africa,United Republic of Tanzania,2011,Urban,24.81
+3124,Concentrations of fine particulate matter (PM2.5),Africa,Botswana,2011,Urban,24.633333333333336
+3125,Concentrations of fine particulate matter (PM2.5),Africa,Kenya,2011,Urban,25.233333333333334
+3126,Concentrations of fine particulate matter (PM2.5),Africa,Lesotho,2011,Rural,25.103333333333335
+3130,Concentrations of fine particulate matter (PM2.5),Africa,Lesotho,2011,Total,25.26666666666667
+3131,Concentrations of fine particulate matter (PM2.5),Africa,Botswana,2011,Total,25.24
+3132,Concentrations of fine particulate matter (PM2.5),Africa,South Africa,2011,Total,25.159999999999997
+3134,Concentrations of fine particulate matter (PM2.5),Africa,Zimbabwe,2011,Urban,26.399999999999995
+3135,Concentrations of fine particulate matter (PM2.5),Africa,Botswana,2011,Rural,25.656666666666666
+3143,Concentrations of fine particulate matter (PM2.5),Africa,Lesotho,2011,Urban,25.709999999999997
+3149,Concentrations of fine particulate matter (PM2.5),Africa,Namibia,2011,Total,26.659999999999997
+3152,Concentrations of fine particulate matter (PM2.5),Africa,Zimbabwe,2011,Total,27.02
+3160,Concentrations of fine particulate matter (PM2.5),Africa,Zimbabwe,2011,Rural,27.356666666666666
+3164,Concentrations of fine particulate matter (PM2.5),Africa,United Republic of Tanzania,2011,Total,26.766666666666666
+3168,Concentrations of fine particulate matter (PM2.5),Africa,Malawi,2011,Urban,30.189999999999998
+3169,Concentrations of fine particulate matter (PM2.5),Africa,Kenya,2011,Total,27.50666666666667
+3171,Concentrations of fine particulate matter (PM2.5),Africa,United Republic of Tanzania,2011,Rural,27.400000000000002
+3176,Concentrations of fine particulate matter (PM2.5),Africa,Kenya,2011,Rural,27.986666666666665
+3179,Concentrations of fine particulate matter (PM2.5),Africa,Malawi,2011,Total,30.919999999999998
+3180,Concentrations of fine particulate matter (PM2.5),Africa,South Africa,2011,Urban,27.900000000000002
+3181,Concentrations of fine particulate matter (PM2.5),Africa,Malawi,2011,Rural,31.136666666666667
+3185,Concentrations of fine particulate matter (PM2.5),Africa,Namibia,2011,Rural,29.55666666666667
+3193,Concentrations of fine particulate matter (PM2.5),Africa,Zambia,2011,Urban,31.290000000000003
+3194,Concentrations of fine particulate matter (PM2.5),Africa,Algeria,2011,Urban,31.483333333333334
+3197,Concentrations of fine particulate matter (PM2.5),Africa,Ethiopia,2011,Urban,31.576666666666664
+3199,Concentrations of fine particulate matter (PM2.5),Africa,Algeria,2011,Total,32.846666666666664
+3204,Concentrations of fine particulate matter (PM2.5),Africa,Ethiopia,2011,Total,32.416666666666664
+3207,Concentrations of fine particulate matter (PM2.5),Africa,Ethiopia,2011,Rural,32.63666666666666
+3208,Concentrations of fine particulate matter (PM2.5),Africa,Zambia,2011,Total,32.906666666666666
+3211,Concentrations of fine particulate matter (PM2.5),Africa,Zambia,2011,Rural,33.31666666666667
+3219,Concentrations of fine particulate matter (PM2.5),Africa,Algeria,2011,Rural,36.403333333333336
+3228,Concentrations of fine particulate matter (PM2.5),Africa,South Sudan,2011,Urban,37.32333333333333
+3230,Concentrations of fine particulate matter (PM2.5),Africa,Eritrea,2011,Urban,38.57
+3234,Concentrations of fine particulate matter (PM2.5),Africa,South Sudan,2011,Total,37.31666666666666
+3235,Concentrations of fine particulate matter (PM2.5),Africa,South Sudan,2011,Rural,37.3
+3239,Concentrations of fine particulate matter (PM2.5),Africa,Burundi,2011,Rural,37.156666666666666
+3242,Concentrations of fine particulate matter (PM2.5),Africa,Burundi,2011,Total,37.626666666666665
+3248,Concentrations of fine particulate matter (PM2.5),Africa,Burundi,2011,Urban,38.916666666666664
+3252,Concentrations of fine particulate matter (PM2.5),Africa,Eritrea,2011,Total,39.47666666666667
+3254,Concentrations of fine particulate matter (PM2.5),Africa,Sao Tome and Principe,2011,Urban,38.34
+3255,Concentrations of fine particulate matter (PM2.5),Africa,Eritrea,2011,Rural,39.82666666666667
+3258,Concentrations of fine particulate matter (PM2.5),Africa,Sao Tome and Principe,2011,Total,38.68666666666667
+3260,Concentrations of fine particulate matter (PM2.5),Africa,Rwanda,2011,Urban,38.016666666666666
+3261,Concentrations of fine particulate matter (PM2.5),Africa,Sao Tome and Principe,2011,Rural,38.97333333333333
+3262,Concentrations of fine particulate matter (PM2.5),Africa,Rwanda,2011,Total,38.343333333333334
+3263,Concentrations of fine particulate matter (PM2.5),Africa,Benin,2011,Urban,37.843333333333334
+3264,Concentrations of fine particulate matter (PM2.5),Africa,Rwanda,2011,Rural,38.39
+3266,Concentrations of fine particulate matter (PM2.5),Africa,Angola,2011,Urban,41.266666666666666
+3267,Concentrations of fine particulate matter (PM2.5),Africa,Angola,2011,Total,41.36333333333334
+3268,Concentrations of fine particulate matter (PM2.5),Africa,Angola,2011,Rural,41.60666666666666
+3269,Concentrations of fine particulate matter (PM2.5),Africa,Gabon,2011,Urban,41.839999999999996
+3270,Concentrations of fine particulate matter (PM2.5),Africa,Gabon,2011,Total,41.38666666666666
+3271,Concentrations of fine particulate matter (PM2.5),Africa,Gabon,2011,Rural,41.833333333333336
+3272,Concentrations of fine particulate matter (PM2.5),Africa,Uganda,2011,Rural,38.803333333333335
+3273,Concentrations of fine particulate matter (PM2.5),Africa,Uganda,2011,Total,39.276666666666664
+3276,Concentrations of fine particulate matter (PM2.5),Africa,Benin,2011,Total,42.69333333333333
+3281,Concentrations of fine particulate matter (PM2.5),Africa,Equatorial Guinea,2011,Rural,43.916666666666664
+3282,Concentrations of fine particulate matter (PM2.5),Africa,Equatorial Guinea,2011,Total,44.39333333333334
+3284,Concentrations of fine particulate matter (PM2.5),Africa,Uganda,2011,Urban,41.846666666666664
+3288,Concentrations of fine particulate matter (PM2.5),Africa,Equatorial Guinea,2011,Urban,45.50999999999999
+3291,Concentrations of fine particulate matter (PM2.5),Africa,Democratic Republic of the Congo,2011,Rural,44.44
+3293,Concentrations of fine particulate matter (PM2.5),Africa,Central African Republic,2011,Rural,46.29999999999999
+3294,Concentrations of fine particulate matter (PM2.5),Africa,Benin,2011,Rural,45.31333333333333
+3295,Concentrations of fine particulate matter (PM2.5),Africa,Congo,2011,Rural,45.879999999999995
+3296,Concentrations of fine particulate matter (PM2.5),Africa,Togo,2011,Rural,45.653333333333336
+3297,Concentrations of fine particulate matter (PM2.5),Africa,Central African Republic,2011,Total,46.39333333333334
+3298,Concentrations of fine particulate matter (PM2.5),Africa,Central African Republic,2011,Urban,46.15333333333333
+3299,Concentrations of fine particulate matter (PM2.5),Africa,Democratic Republic of the Congo,2011,Total,45.15
+3301,Concentrations of fine particulate matter (PM2.5),Africa,Togo,2011,Total,45.330000000000005
+3304,Concentrations of fine particulate matter (PM2.5),Africa,Congo,2011,Total,48.123333333333335
+3305,Concentrations of fine particulate matter (PM2.5),Africa,Democratic Republic of the Congo,2011,Urban,46.20000000000001
+3307,Concentrations of fine particulate matter (PM2.5),Africa,Togo,2011,Urban,45.17666666666667
+3310,Concentrations of fine particulate matter (PM2.5),Africa,Congo,2011,Urban,48.629999999999995
+3316,Concentrations of fine particulate matter (PM2.5),Africa,Nigeria,2011,Urban,53.69333333333333
+3317,Concentrations of fine particulate matter (PM2.5),Africa,Liberia,2011,Urban,51.26666666666667
+3318,Concentrations of fine particulate matter (PM2.5),Africa,Ghana,2011,Rural,50.96666666666667
+3320,Concentrations of fine particulate matter (PM2.5),Africa,Liberia,2011,Total,52.660000000000004
+3321,Concentrations of fine particulate matter (PM2.5),Africa,Liberia,2011,Rural,53.44333333333333
+3325,Concentrations of fine particulate matter (PM2.5),Africa,Sierra Leone,2011,Rural,53.21333333333333
+3326,Concentrations of fine particulate matter (PM2.5),Africa,Ghana,2011,Total,52.846666666666664
+3328,Concentrations of fine particulate matter (PM2.5),Africa,Sierra Leone,2011,Total,54.03666666666667
+3329,Concentrations of fine particulate matter (PM2.5),Africa,Guinea,2011,Rural,57.18
+3330,Concentrations of fine particulate matter (PM2.5),Africa,Ghana,2011,Urban,53.923333333333325
+3332,Concentrations of fine particulate matter (PM2.5),Africa,Guinea,2011,Total,56.906666666666666
+3333,Concentrations of fine particulate matter (PM2.5),Africa,Burkina Faso,2011,Urban,59.339999999999996
+3334,Concentrations of fine particulate matter (PM2.5),Africa,Guinea,2011,Urban,58.910000000000004
+3336,Concentrations of fine particulate matter (PM2.5),Africa,Guinea-Bissau,2011,Rural,56.839999999999996
+3337,Concentrations of fine particulate matter (PM2.5),Africa,Guinea-Bissau,2011,Total,56.44
+3338,Concentrations of fine particulate matter (PM2.5),Africa,Sierra Leone,2011,Urban,57.01333333333334
+3339,Concentrations of fine particulate matter (PM2.5),Africa,Burkina Faso,2011,Total,59.61666666666667
+3341,Concentrations of fine particulate matter (PM2.5),Africa,Guinea-Bissau,2011,Urban,56.21666666666667
+3342,Concentrations of fine particulate matter (PM2.5),Africa,Côte d’Ivoire,2011,Rural,56.68666666666667
+3344,Concentrations of fine particulate matter (PM2.5),Africa,Burkina Faso,2011,Rural,59.73666666666666
+3346,Concentrations of fine particulate matter (PM2.5),Africa,Gambia,2011,Rural,57.76333333333334
+3347,Concentrations of fine particulate matter (PM2.5),Africa,Côte d’Ivoire,2011,Total,56.60666666666666
+3348,Concentrations of fine particulate matter (PM2.5),Africa,Gambia,2011,Total,57.46333333333333
+3349,Concentrations of fine particulate matter (PM2.5),Africa,Côte d’Ivoire,2011,Urban,56.93000000000001
+3351,Concentrations of fine particulate matter (PM2.5),Africa,Gambia,2011,Urban,58.18000000000001
+3354,Concentrations of fine particulate matter (PM2.5),Africa,Chad,2011,Rural,65.66333333333334
+3355,Concentrations of fine particulate matter (PM2.5),Africa,Senegal,2011,Rural,60.843333333333334
+3356,Concentrations of fine particulate matter (PM2.5),Africa,Senegal,2011,Total,59.24333333333333
+3357,Concentrations of fine particulate matter (PM2.5),Africa,Chad,2011,Total,67.63666666666667
+3358,Concentrations of fine particulate matter (PM2.5),Africa,Nigeria,2011,Total,65.66333333333334
+3359,Concentrations of fine particulate matter (PM2.5),Africa,Senegal,2011,Urban,58.35666666666666
+3360,Concentrations of fine particulate matter (PM2.5),Africa,Cameroon,2011,Urban,61.673333333333325
+3361,Concentrations of fine particulate matter (PM2.5),Africa,Cameroon,2011,Total,62.65333333333333
+3364,Concentrations of fine particulate matter (PM2.5),Africa,Cameroon,2011,Rural,64.19333333333333
+3365,Concentrations of fine particulate matter (PM2.5),Africa,Chad,2011,Urban,71.38
+3386,Concentrations of fine particulate matter (PM2.5),Africa,Cabo Verde,2011,Urban,67.27333333333333
+3387,Concentrations of fine particulate matter (PM2.5),Africa,Cabo Verde,2011,Total,67.80333333333333
+3388,Concentrations of fine particulate matter (PM2.5),Africa,Mali,2011,Urban,72.85000000000001
+3389,Concentrations of fine particulate matter (PM2.5),Africa,Cabo Verde,2011,Rural,69.54333333333334
+3391,Concentrations of fine particulate matter (PM2.5),Africa,Mali,2011,Total,71.63333333333334
+3393,Concentrations of fine particulate matter (PM2.5),Africa,Mali,2011,Rural,70.44
+3399,Concentrations of fine particulate matter (PM2.5),Africa,Nigeria,2011,Rural,73.67666666666666
+3403,Concentrations of fine particulate matter (PM2.5),Africa,Mauritania,2011,Rural,81.62666666666667
+3426,Concentrations of fine particulate matter (PM2.5),Africa,Mauritania,2011,Total,79.42666666666666
+3427,Concentrations of fine particulate matter (PM2.5),Africa,Mauritania,2011,Urban,81.40666666666665
+3442,Concentrations of fine particulate matter (PM2.5),Africa,Mauritius,2011,Urban,9.886666666666665
+3444,Concentrations of fine particulate matter (PM2.5),Africa,Niger,2011,Urban,104.67333333333333
+3445,Concentrations of fine particulate matter (PM2.5),Africa,Niger,2011,Total,108.16666666666667
+3446,Concentrations of fine particulate matter (PM2.5),Africa,Niger,2011,Rural,109.79
+3455,Concentrations of fine particulate matter (PM2.5),Africa,Mauritius,2011,Total,10.583333333333334
+3459,Concentrations of fine particulate matter (PM2.5),Africa,Mauritius,2010,Total,11.046666666666667
+3487,Concentrations of fine particulate matter (PM2.5),Africa,Mauritius,2010,Rural,11.799999999999999
+3511,Concentrations of fine particulate matter (PM2.5),Africa,Seychelles,2010,Urban,14.14
+3513,Concentrations of fine particulate matter (PM2.5),Africa,Seychelles,2010,Total,14.13
+3514,Concentrations of fine particulate matter (PM2.5),Africa,Seychelles,2010,Rural,14.263333333333334
+3536,Concentrations of fine particulate matter (PM2.5),Africa,Comoros,2010,Urban,15.406666666666666
+3537,Concentrations of fine particulate matter (PM2.5),Africa,Comoros,2010,Rural,15.186666666666667
+3538,Concentrations of fine particulate matter (PM2.5),Africa,Comoros,2010,Total,15.229999999999999
+3556,Concentrations of fine particulate matter (PM2.5),Africa,Madagascar,2010,Urban,17.12
+3559,Concentrations of fine particulate matter (PM2.5),Africa,Madagascar,2010,Total,16.80666666666667
+3560,Concentrations of fine particulate matter (PM2.5),Africa,Madagascar,2010,Rural,16.84
+3658,Concentrations of fine particulate matter (PM2.5),Africa,Mozambique,2010,Urban,22.74666666666667
+3660,Concentrations of fine particulate matter (PM2.5),Africa,Namibia,2010,Urban,23.746666666666666
+3669,Concentrations of fine particulate matter (PM2.5),Africa,Eswatini,2010,Urban,22.706666666666667
+3671,Concentrations of fine particulate matter (PM2.5),Africa,Mozambique,2010,Total,23.83
+3677,Concentrations of fine particulate matter (PM2.5),Africa,Eswatini,2010,Total,22.936666666666667
+3680,Concentrations of fine particulate matter (PM2.5),Africa,Eswatini,2010,Rural,22.99
+3686,Concentrations of fine particulate matter (PM2.5),Africa,Mozambique,2010,Rural,24.849999999999998
+3687,Concentrations of fine particulate matter (PM2.5),Africa,South Africa,2010,Rural,23.5
+3695,Concentrations of fine particulate matter (PM2.5),Africa,United Republic of Tanzania,2010,Urban,24.543333333333333
+3700,Concentrations of fine particulate matter (PM2.5),Africa,Kenya,2010,Urban,24.876666666666665
+3707,Concentrations of fine particulate matter (PM2.5),Africa,Zimbabwe,2010,Urban,26.366666666666664
+3722,Concentrations of fine particulate matter (PM2.5),Africa,South Africa,2010,Total,26.113333333333333
+3723,Concentrations of fine particulate matter (PM2.5),Africa,Namibia,2010,Total,26.706666666666667
+3725,Concentrations of fine particulate matter (PM2.5),Africa,Zimbabwe,2010,Total,27.093333333333334
+3731,Concentrations of fine particulate matter (PM2.5),Africa,Malawi,2010,Urban,29.416666666666668
+3732,Concentrations of fine particulate matter (PM2.5),Africa,Zimbabwe,2010,Rural,27.453333333333333
+3733,Concentrations of fine particulate matter (PM2.5),Africa,United Republic of Tanzania,2010,Total,26.72
+3734,Concentrations of fine particulate matter (PM2.5),Africa,Kenya,2010,Total,26.926666666666666
+3735,Concentrations of fine particulate matter (PM2.5),Africa,Lesotho,2010,Rural,27.22
+3736,Concentrations of fine particulate matter (PM2.5),Africa,Lesotho,2010,Total,27.340000000000003
+3741,Concentrations of fine particulate matter (PM2.5),Africa,Kenya,2010,Rural,27.546666666666667
+3742,Concentrations of fine particulate matter (PM2.5),Africa,United Republic of Tanzania,2010,Rural,27.356666666666666
+3744,Concentrations of fine particulate matter (PM2.5),Africa,Malawi,2010,Total,29.94666666666667
+3747,Concentrations of fine particulate matter (PM2.5),Africa,Botswana,2010,Rural,27.873333333333335
+3748,Concentrations of fine particulate matter (PM2.5),Africa,Malawi,2010,Rural,30.126666666666665
+3749,Concentrations of fine particulate matter (PM2.5),Africa,Botswana,2010,Total,27.8
+3751,Concentrations of fine particulate matter (PM2.5),Africa,Botswana,2010,Urban,28.356666666666666
+3754,Concentrations of fine particulate matter (PM2.5),Africa,Lesotho,2010,Urban,28.183333333333337
+3757,Concentrations of fine particulate matter (PM2.5),Africa,Namibia,2010,Rural,29.709999999999997
+3758,Concentrations of fine particulate matter (PM2.5),Africa,South Africa,2010,Urban,28.753333333333334
+3772,Concentrations of fine particulate matter (PM2.5),Africa,Ethiopia,2010,Urban,30.953333333333333
+3774,Concentrations of fine particulate matter (PM2.5),Africa,Zambia,2010,Urban,31.066666666666666
+3777,Concentrations of fine particulate matter (PM2.5),Africa,Ethiopia,2010,Total,31.84
+3778,Concentrations of fine particulate matter (PM2.5),Africa,Algeria,2010,Urban,31.736666666666668
+3781,Concentrations of fine particulate matter (PM2.5),Africa,Ethiopia,2010,Rural,32.01
+3783,Concentrations of fine particulate matter (PM2.5),Africa,Zambia,2010,Total,32.56
+3784,Concentrations of fine particulate matter (PM2.5),Africa,Algeria,2010,Total,33.32666666666666
+3785,Concentrations of fine particulate matter (PM2.5),Africa,Zambia,2010,Rural,32.97
+3796,Concentrations of fine particulate matter (PM2.5),Africa,South Sudan,2010,Urban,35.52333333333333
+3799,Concentrations of fine particulate matter (PM2.5),Africa,South Sudan,2010,Total,35.56333333333333
+3801,Concentrations of fine particulate matter (PM2.5),Africa,South Sudan,2010,Rural,35.56333333333333
+3808,Concentrations of fine particulate matter (PM2.5),Africa,Eritrea,2010,Urban,37.839999999999996
+3809,Concentrations of fine particulate matter (PM2.5),Africa,Algeria,2010,Rural,38.026666666666664
+3817,Concentrations of fine particulate matter (PM2.5),Africa,Benin,2010,Urban,35.99333333333333
+3818,Concentrations of fine particulate matter (PM2.5),Africa,Eritrea,2010,Total,38.75666666666667
+3819,Concentrations of fine particulate matter (PM2.5),Africa,Burundi,2010,Rural,37.56666666666666
+3820,Concentrations of fine particulate matter (PM2.5),Africa,Burundi,2010,Total,37.916666666666664
+3823,Concentrations of fine particulate matter (PM2.5),Africa,Eritrea,2010,Rural,39.153333333333336
+3826,Concentrations of fine particulate matter (PM2.5),Africa,Burundi,2010,Urban,38.86666666666667
+3831,Concentrations of fine particulate matter (PM2.5),Africa,Benin,2010,Total,40.43666666666667
+3832,Concentrations of fine particulate matter (PM2.5),Africa,Angola,2010,Urban,41.303333333333335
+3833,Concentrations of fine particulate matter (PM2.5),Africa,Sao Tome and Principe,2010,Urban,39.82
+3834,Concentrations of fine particulate matter (PM2.5),Africa,Angola,2010,Total,41.06333333333333
+3836,Concentrations of fine particulate matter (PM2.5),Africa,Angola,2010,Rural,41.199999999999996
+3837,Concentrations of fine particulate matter (PM2.5),Africa,Sao Tome and Principe,2010,Total,39.803333333333335
+3838,Concentrations of fine particulate matter (PM2.5),Africa,Sao Tome and Principe,2010,Rural,39.81333333333333
+3840,Concentrations of fine particulate matter (PM2.5),Africa,Uganda,2010,Rural,38.71666666666667
+3843,Concentrations of fine particulate matter (PM2.5),Africa,Uganda,2010,Total,38.96
+3847,Concentrations of fine particulate matter (PM2.5),Africa,Rwanda,2010,Total,39.14
+3848,Concentrations of fine particulate matter (PM2.5),Africa,Rwanda,2010,Rural,39.153333333333336
+3850,Concentrations of fine particulate matter (PM2.5),Africa,Rwanda,2010,Urban,39.376666666666665
+3852,Concentrations of fine particulate matter (PM2.5),Africa,Liberia,2010,Urban,41.64
+3854,Concentrations of fine particulate matter (PM2.5),Africa,Togo,2010,Rural,42.22
+3855,Concentrations of fine particulate matter (PM2.5),Africa,Benin,2010,Rural,43.26666666666667
+3858,Concentrations of fine particulate matter (PM2.5),Africa,Togo,2010,Total,41.78
+3861,Concentrations of fine particulate matter (PM2.5),Africa,Uganda,2010,Urban,40.46666666666667
+3865,Concentrations of fine particulate matter (PM2.5),Africa,Liberia,2010,Total,43.28333333333334
+3867,Concentrations of fine particulate matter (PM2.5),Africa,Togo,2010,Urban,41.85666666666667
+3868,Concentrations of fine particulate matter (PM2.5),Africa,Central African Republic,2010,Rural,45.129999999999995
+3869,Concentrations of fine particulate matter (PM2.5),Africa,Central African Republic,2010,Total,45.54666666666666
+3870,Concentrations of fine particulate matter (PM2.5),Africa,Central African Republic,2010,Urban,44.47666666666667
+3871,Concentrations of fine particulate matter (PM2.5),Africa,Liberia,2010,Rural,44.31333333333333
+3876,Concentrations of fine particulate matter (PM2.5),Africa,Equatorial Guinea,2010,Rural,46.85999999999999
+3877,Concentrations of fine particulate matter (PM2.5),Africa,Equatorial Guinea,2010,Total,46.70666666666667
+3878,Concentrations of fine particulate matter (PM2.5),Africa,Gabon,2010,Urban,47.35666666666666
+3880,Concentrations of fine particulate matter (PM2.5),Africa,Equatorial Guinea,2010,Urban,47.839999999999996
+3881,Concentrations of fine particulate matter (PM2.5),Africa,Gabon,2010,Total,46.970000000000006
+3882,Concentrations of fine particulate matter (PM2.5),Africa,Democratic Republic of the Congo,2010,Rural,46.51000000000001
+3883,Concentrations of fine particulate matter (PM2.5),Africa,Gabon,2010,Rural,46.84666666666667
+3884,Concentrations of fine particulate matter (PM2.5),Africa,Nigeria,2010,Urban,50.65333333333333
+3885,Concentrations of fine particulate matter (PM2.5),Africa,Ghana,2010,Rural,45.77
+3886,Concentrations of fine particulate matter (PM2.5),Africa,Democratic Republic of the Congo,2010,Total,47.57333333333333
+3889,Concentrations of fine particulate matter (PM2.5),Africa,Sierra Leone,2010,Rural,46.79
+3890,Concentrations of fine particulate matter (PM2.5),Africa,Sierra Leone,2010,Total,46.75333333333333
+3891,Concentrations of fine particulate matter (PM2.5),Africa,Congo,2010,Rural,49.6
+3893,Concentrations of fine particulate matter (PM2.5),Africa,Ghana,2010,Total,47.53666666666667
+3894,Concentrations of fine particulate matter (PM2.5),Africa,Democratic Republic of the Congo,2010,Urban,48.68333333333334
+3895,Concentrations of fine particulate matter (PM2.5),Africa,Côte d’Ivoire,2010,Rural,49.22
+3896,Concentrations of fine particulate matter (PM2.5),Africa,Congo,2010,Total,52.04
+3897,Concentrations of fine particulate matter (PM2.5),Africa,Ghana,2010,Urban,48.20666666666667
+3898,Concentrations of fine particulate matter (PM2.5),Africa,Côte d’Ivoire,2010,Total,48.85999999999999
+3899,Concentrations of fine particulate matter (PM2.5),Africa,Côte d’Ivoire,2010,Urban,48.050000000000004
+3900,Concentrations of fine particulate matter (PM2.5),Africa,Sierra Leone,2010,Urban,50.38333333333333
+3901,Concentrations of fine particulate matter (PM2.5),Africa,Congo,2010,Urban,52.53333333333333
+3903,Concentrations of fine particulate matter (PM2.5),Africa,Cabo Verde,2010,Urban,51.53
+3904,Concentrations of fine particulate matter (PM2.5),Africa,Guinea,2010,Urban,54.526666666666664
+3906,Concentrations of fine particulate matter (PM2.5),Africa,Cabo Verde,2010,Total,51.78
+3907,Concentrations of fine particulate matter (PM2.5),Africa,Guinea,2010,Total,54.50333333333333
+3908,Concentrations of fine particulate matter (PM2.5),Africa,Guinea,2010,Rural,55.01
+3909,Concentrations of fine particulate matter (PM2.5),Africa,Cabo Verde,2010,Rural,52.836666666666666
+3913,Concentrations of fine particulate matter (PM2.5),Africa,Burkina Faso,2010,Urban,57.78666666666667
+3916,Concentrations of fine particulate matter (PM2.5),Africa,Burkina Faso,2010,Total,58.45333333333334
+3918,Concentrations of fine particulate matter (PM2.5),Africa,Burkina Faso,2010,Rural,58.63666666666666
+3919,Concentrations of fine particulate matter (PM2.5),Africa,Guinea-Bissau,2010,Rural,57.24
+3921,Concentrations of fine particulate matter (PM2.5),Africa,Guinea-Bissau,2010,Total,56.74333333333334
+3923,Concentrations of fine particulate matter (PM2.5),Africa,Guinea-Bissau,2010,Urban,56.60999999999999
+3926,Concentrations of fine particulate matter (PM2.5),Africa,Nigeria,2010,Total,61.60333333333333
+3927,Concentrations of fine particulate matter (PM2.5),Africa,Senegal,2010,Urban,56.00333333333333
+3929,Concentrations of fine particulate matter (PM2.5),Africa,Gambia,2010,Rural,60.89000000000001
+3930,Concentrations of fine particulate matter (PM2.5),Africa,Gambia,2010,Total,58.839999999999996
+3931,Concentrations of fine particulate matter (PM2.5),Africa,Gambia,2010,Urban,58.69
+3932,Concentrations of fine particulate matter (PM2.5),Africa,Senegal,2010,Total,58.43
+3933,Concentrations of fine particulate matter (PM2.5),Africa,Chad,2010,Rural,65.8
+3934,Concentrations of fine particulate matter (PM2.5),Africa,Chad,2010,Total,67.77
+3938,Concentrations of fine particulate matter (PM2.5),Africa,Senegal,2010,Rural,61.76
+3942,Concentrations of fine particulate matter (PM2.5),Africa,Cameroon,2010,Urban,63.373333333333335
+3943,Concentrations of fine particulate matter (PM2.5),Africa,Cameroon,2010,Total,64.30333333333333
+3944,Concentrations of fine particulate matter (PM2.5),Africa,Cameroon,2010,Rural,65.24333333333334
+3946,Concentrations of fine particulate matter (PM2.5),Africa,Chad,2010,Urban,74.49666666666667
+3960,Concentrations of fine particulate matter (PM2.5),Africa,Mali,2010,Urban,72.09333333333333
+3963,Concentrations of fine particulate matter (PM2.5),Africa,Mali,2010,Total,70.95333333333333
+3964,Concentrations of fine particulate matter (PM2.5),Africa,Nigeria,2010,Rural,69.10333333333334
+3965,Concentrations of fine particulate matter (PM2.5),Africa,Mali,2010,Rural,69.60333333333334
+3973,Concentrations of fine particulate matter (PM2.5),Africa,Mauritania,2010,Rural,79.90333333333332
+3975,Concentrations of fine particulate matter (PM2.5),Africa,Mauritania,2010,Total,76.41333333333334
+3977,Concentrations of fine particulate matter (PM2.5),Africa,Mauritania,2010,Urban,76.21666666666667
+4004,Concentrations of fine particulate matter (PM2.5),Africa,Niger,2010,Urban,98.39666666666669
+4019,Concentrations of fine particulate matter (PM2.5),Africa,Niger,2010,Total,101.71999999999998
+4020,Concentrations of fine particulate matter (PM2.5),Africa,Niger,2010,Rural,103.26333333333334
+4025,Concentrations of fine particulate matter (PM2.5),Africa,Mauritius,2010,Urban,10.313333333333333
