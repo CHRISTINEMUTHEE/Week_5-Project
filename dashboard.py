@@ -5,6 +5,7 @@ from streamlit.elements.arrow import Data
 from streamlit.elements.legacy_data_frame import marshall_data_frame
 import plotly.graph_objects as go
 from streamlit.proto.Markdown_pb2 import Markdown
+import plotly.express as px
 
 header=st.container()
 datasets=st.container()
@@ -19,12 +20,12 @@ with header:
 with datasets:
     st.header('This research involved five datasets namely:')
     st.sidebar.markdown('Select the datasets accordingly:')
-    Dataset_visual=st.sidebar.checkbox('Here is the list of our dataset')
+    # Dataset_visual=st.sidebar.checkbox('Display the list of our raw datasets')
     Dataset_list=st.sidebar.selectbox('Select the dataset of your choice:',
-    options=['1.Mortality Rate Dataset',
-    '2.Particulate Matter dataset',
-    '3.The Carbon IV oxide concentration dataset',
-    '4.The Nitrogen Oxide concentration dataset'],index=0)
+    options=['Mortality Rate Dataset',
+    'Particulate Matter dataset',
+    'The Carbon IV oxide concentration dataset',
+    'The Nitrogen Oxide concentration dataset'],index=0)
 
     # Defining a function to read the datasets
     def Data_frames(type,data):
@@ -41,19 +42,19 @@ with datasets:
         result=st.write(df_name.head(5))
         return result
     # Reading the Mortality rate dataset
-    if Dataset_list=='1.Mortality Rate Dataset':
+    if Dataset_list=='Mortality Rate Dataset':
         D_datasets('1.Mortality Rate Dataset','M_data','csv','Death due to respiratory conditions (new).csv')
 
     # The Particulate Matter dataset
-    elif Dataset_list=='2.Particulate Matter dataset':
+    elif Dataset_list=='Particulate Matter dataset':
         D_datasets('2.Particulate Matter dataset','PM_data','csv','Particulate Matter Concentration world wide...csv')
 
     # Reading the CO2 concentration dataset
-    elif Dataset_list=='3.The Carbon IV oxide concentration dataset':
+    elif Dataset_list=='The Carbon IV oxide concentration dataset':
         D_datasets('3.The Carbon IV oxide concentration dataset','CO2_data','csv','CO2 Emission in KT. in excel.csv')
 
     # Reading the NO concentration dataset
-    elif Dataset_list=='4.The Nitrogen Oxide concentration dataset':
+    elif Dataset_list=='The Nitrogen Oxide concentration dataset':
         D_datasets('4.The Nitrogen Oxide concentration dataset','NO_dataset','xlsx','Nitogen Oxide Emissions edited.xlsx')
     
     # Denoting the steps of data cleaning
@@ -69,7 +70,7 @@ with datasets:
 with plots:
     st.header('This were the results of our analysis :')
     # Selecting a drop box to select our research questions.
-    research_questions=st.selectbox('Select the research question of your choice:',
+    research_questions=st.sidebar.selectbox('Select the research question of your choice:',
     options=['Which country had the highest Particulate Matter concentration?',
     'Which country had the highest Mortality rates?',
     'Which gender was most affected?',
@@ -102,6 +103,7 @@ with plots:
     # A graph of pollutant concentrations
     if research_questions=='Which country had the highest Particulate Matter concentration?':
         fig.add_trace(go.Scatter(x=Clean_PM.Country, y=Clean_PM.Average_PM_Value,mode='markers',name='Average_PM_value'))
+        st.markdown('1. Graph of Average PM concentration against the countries in Africa')
         st.text('Niger had the highest PM concetration of 120.943333')
         st.text('It was followed closely by:')
         st.text('Chad,Mauritania,Nigeria,Carbo Verde and Cameroon ')
@@ -109,6 +111,7 @@ with plots:
 
     elif research_questions=='Which country had the highest Mortality rates?':
         fig.add_trace(go.Scatter(x=Clean_Mortality_df.Country,y=Clean_Mortality_df.Average_death_Value,mode='markers',name='Average_death_value'))
+        st.markdown('2. A graph of Mortality rates against the countries in Africa')
         st.text('Chad has the highest mortality rate') 
         st.text('Egypt,Nigeria,Niger and Cameroon')
         st.text('The countries above are among the "hall of fame" of countries with the highest pollutant levels all together.')
@@ -116,12 +119,14 @@ with plots:
     
     elif research_questions=='Which gender was most affected?':
         fig.add_trace(go.Bar(x=Clean_Mortality_df.Gender,y=Clean_Mortality_df.Average_death_Value,name='Average_death_value'))
+        st.markdown('3. A graph of mortality rates against the gender')
         st.text('The Male gender was highly affected as compared to the Female gender')
     
 
 
     elif research_questions=='What were the particular causes of death across Africa?':
         fig.add_trace(go.Bar(x=Clean_Mortality_df.Cause,y=Clean_Mortality_df.Average_death_Value,name='Average_death_value'))
+        st.markdown('4. A graph of mortality rates against the causes of death')
         st.text('Causes of deaths ranged from:')
         st.text('Lower respiratory infections,Ischaemic heart disease,Stroke,COPD,Trachea,bronchus and lung cancers')
 
