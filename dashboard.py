@@ -123,7 +123,6 @@ with plots:
         st.text('The Male gender was highly affected as compared to the Female gender')
     
 
-
     elif research_questions=='What were the particular causes of death across Africa?':
         fig.add_trace(go.Bar(x=Clean_Mortality_df.Cause,y=Clean_Mortality_df.Average_death_Value,name='Average_death_value'))
         st.markdown('4. A graph of mortality rates against the causes of death')
