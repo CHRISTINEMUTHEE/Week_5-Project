@@ -50,14 +50,14 @@ with datasets:
 
     st.markdown('The stages of cleaning in all datasets involved processes to check the Validity,Accuracy,Completeness,Consistency and uniformity.')
     st.markdown('* **First step:** We removed the null values in all datasets,this was aimed at improving our accuracy during analysis.')
-    st.markdown('* **Second step:** We checked for duplicated values and inturm dropped them.')
+    st.markdown('* **Second step:** We checked for duplicated values and inturn dropped them.')
     st.markdown('* **Third step:** We corrected the column names to enable uniformity and enable merging during analysis.')
     st.markdown('* **Final step:** We filetred out countries in Africa as guided by our objectives.')
 
 
 
 with plots:
-    st.header('This were the results :')
+    st.header('This were the results of our analysis :')
     # Selecting a drop box to select our research questions.
     research_questions=st.selectbox('Select the research question of your choice:',
     options=['Which country had the highest Particulate Matter concentration?',
@@ -95,7 +95,8 @@ with plots:
         st.text('Niger had the highest PM concetration of 120.943333')
         st.text('It was followed closely by:')
         st.text('Chad,Mauritania,Nigeria,Carbo Verde and Cameroon ')
-                     
+
+
     elif research_questions=='Which country had the highest Mortality rates?':
         fig.add_trace(go.Scatter(x=Clean_Mortality_df.Country,y=Clean_Mortality_df.Average_death_Value,mode='markers',name='Average_death_value'))
         st.text('Chad has the highest mortality rate') 
@@ -107,6 +108,8 @@ with plots:
         fig.add_trace(go.Bar(x=Clean_Mortality_df.Gender,y=Clean_Mortality_df.Average_death_Value,name='Average_death_value'))
         st.text('The Male gender was highly affected as compared to the Female gender')
     
+
+
     elif research_questions=='What were the particular causes of death across Africa?':
         fig.add_trace(go.Bar(x=Clean_Mortality_df.Cause,y=Clean_Mortality_df.Average_death_Value,name='Average_death_value'))
         st.text('Causes of deaths ranged from:')
